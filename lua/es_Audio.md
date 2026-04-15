@@ -3,7 +3,7 @@
 </h2>
 
 <table><tr><td>
-inherit
+expands
 </td><td>
 |
 </td><td>
@@ -27,7 +27,7 @@ a helper class to play audio files.
 ___
 
 <h2>
-function description
+method description
 </h2>
 
 ```lua
