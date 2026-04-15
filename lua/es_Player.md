@@ -16,7 +16,7 @@ an "Evertech Sandbox" player.
 >"Evertech Sandbox" API don't support multiplayer, due to security reasons.
 
 >[!IMPORTANT]
->"Evertech Sandbox" API don't support any methods that could change player skin, change player inventory slot, force player to enter or exit the seat.
+>"Evertech Sandbox" API don't support any methods that could change player skin, change player inventory slot, force player to enter or exit the seat, toggle jetpack.
 
 ___
 
