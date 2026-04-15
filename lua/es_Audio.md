@@ -28,4 +28,6 @@ ___
 property description
 </h2>
 
-
+```lua
+es.PlaySound(path)
+```
