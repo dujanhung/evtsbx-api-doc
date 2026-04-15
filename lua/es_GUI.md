@@ -3,7 +3,7 @@
 </h2>
 
 <table><tr><td>
-inherit
+expand
 </td><td>
 |
 </td><td>
