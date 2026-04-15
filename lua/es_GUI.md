@@ -27,7 +27,7 @@ a helper class to interact with GUI.
 ___
 
 <h2>
-property description
+function description
 </h2>
 
 ```lua
