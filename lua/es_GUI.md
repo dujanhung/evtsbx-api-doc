@@ -135,6 +135,9 @@ button text.
 
 change button text.
 
+>[!TIP]
+>texts should be short, and meaningful.
+
 >[!IMPORTANT]
 >long text is <i>technically</i> possible. however, it would make the text smaller, which would harm readability, especially plain texts.
 
