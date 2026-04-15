@@ -198,4 +198,3 @@ loop mode
 </td></tr></table>
 
 change loop mode.
-
