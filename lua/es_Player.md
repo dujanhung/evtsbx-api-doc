@@ -25,7 +25,7 @@ property description
 </h2>
 
 ```lua
-es.TimeScale
+es.Player.Position
 ```
 
 <table><tr><td>
@@ -44,7 +44,7 @@ type
 </td><td>
 |
 </td><td>
-<code>float</code>
+<code>Array(float)</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -53,22 +53,13 @@ default
 </td><td>
 |
 </td><td>
-<code>1.0</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-range
-</td><td>
-|
-</td><td>
-more than <code>0.0</code>
+<code>{0.0,0.0,0.0}</code>
 </td></tr></table>
 
 change time scale.
 
 >[!IMPORTANT]
->time scale could be reset via pause menu, and upon world file reload.
+>don't teleport the player too far away. otherwise, player would get stuck.
 
 ___
 
