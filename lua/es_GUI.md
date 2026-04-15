@@ -30,6 +30,31 @@ ___
 virtual function description
 </h2>
 
+```lua
+function
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>virtual</code>
+<br>
+<code>protected</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+return type
+</td><td>
+|
+</td><td>
+<code>void</code>
+</td></tr></table>
+
+a
+
 ___
 
 <h2>
