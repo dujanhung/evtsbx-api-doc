@@ -27,7 +27,7 @@ constructor
 </h2>
 
 ```lua
-import es
+#import es
 
 es
 ```
