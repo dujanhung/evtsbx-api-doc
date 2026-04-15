@@ -27,6 +27,12 @@ a helper class to interact with GUI.
 ___
 
 <h2>
+virtual function description
+</h2>
+
+___
+
+<h2>
 function description
 </h2>
 
