@@ -202,4 +202,4 @@ image file path.
 change button icon.
 
 >[!TIP]
->icons should be small, have less details, and meaningful.
+>icons should be 64x64px , have less details, and meaningful.
