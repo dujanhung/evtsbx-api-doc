@@ -56,7 +56,7 @@ default
 <code>{0.0,0.0,0.0}</code>
 </td></tr></table>
 
-change player position.
+the player position.
 
 >[!IMPORTANT]
 >don't teleport the player too far away. otherwise, player would get stuck.
