@@ -74,10 +74,10 @@ description
 </td><td>
 |
 </td><td>
-"center button" visibility
+button visibility
 </td></tr></table>
 
-change "center button" visibility.
+change button visibility.
 
 this button is only shown if player look at the MOD block.
 
