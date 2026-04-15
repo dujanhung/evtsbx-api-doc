@@ -11,7 +11,7 @@ inherit
 a helper class to play audio files.
 
 >[!IMPORTANT]
->"Evertech Sandbox" only support `WAV` files. other files would fire an error.
+>"Evertech Sandbox" only support `WAV` file. other files would fire an error.
 
 >[!TIP]
 >if the file's source don't have `WAV` output, use file converter apps to convert them to `WAV` files.
