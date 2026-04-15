@@ -82,7 +82,7 @@ change "center button" visibility.
 this button is only shown if player look at the MOD block.
 
 >[!TIP]
->to pin the button, add more scripts to move the MOD block itself to in front of player's crosshair.
+>to pin the button, add more scripts to move the MOD block itself to player's crosshair, and keep distance of 5 blocks.
 
 ___
 
