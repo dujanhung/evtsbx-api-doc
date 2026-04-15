@@ -93,4 +93,4 @@ default
 <code>{0.0,0.0,0.0}</code>
 </td></tr></table>
 
-the player camera position in world coordinate, including seat camera. use XYZ convention.
+the player camera position in world coordinate, including seat's camera. use XYZ convention.
