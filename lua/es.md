@@ -7,7 +7,7 @@ the "Evertech Sandbox" API in Lua.
 ___
 
 <h2>
-constructor
+getter
 </h2>
 
 ```lua
