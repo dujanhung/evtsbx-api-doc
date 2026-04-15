@@ -147,7 +147,7 @@ description
 </td><td>
 |
 </td><td>
-sound volume.
+sound volume
 </td></tr></table>
 
 change sound volume.
