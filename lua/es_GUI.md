@@ -200,3 +200,6 @@ image file path.
 </td></tr></table>
 
 change button icon.
+
+>[!TIP]
+>icons should be small, have less details, and meaningful.
