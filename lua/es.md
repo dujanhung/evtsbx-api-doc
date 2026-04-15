@@ -131,6 +131,33 @@ called via screen rendering frame iteration.
 
 ___
 
+```lua
+function fixedUpdate()
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>virtual</code>
+<br>
+<code>protected</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+return type
+</td><td>
+|
+</td><td>
+<code>void</code>
+</td></tr></table>
+
+called via physics rendering frame iteration, always be 50 FPS.
+
+___
+
 <h2>
 property description
 </h2>
