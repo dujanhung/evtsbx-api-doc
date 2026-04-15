@@ -7,7 +7,7 @@ the "Evertech Sandbox" API in Lua.
 ___
 
 <h2>
-getter
+constructor
 </h2>
 
 ```lua
@@ -15,6 +15,10 @@ es
 ```
 
 <table><tr><td>
+IO behavior
+</td><td>
+<code>getter</code>
+</td></tr><tr><td>
 return type
 </td><td>
 <code>Object(ESAPI)</code>
