@@ -21,8 +21,6 @@ inherited by
 <code>es.MultiBlock</code>
 <br>
 <code>es.Quaternion</code>
-</td><td>
-</td><td>
 </td></tr><tr><td>
 expanded by
 </td><td>
