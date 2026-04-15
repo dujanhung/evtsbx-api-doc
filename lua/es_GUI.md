@@ -139,7 +139,7 @@ change button text.
 >texts should be short, and meaningful.
 
 >[!IMPORTANT]
->long text is <i>technically</i> possible. however, it would make the text smaller, which would harm readability, especially plain texts.
+>long texts is <i>technically</i> possible. however, it would make the text smaller, which would harm readability, especially plain texts.
 
 ___
 
