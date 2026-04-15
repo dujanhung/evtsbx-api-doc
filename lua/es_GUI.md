@@ -55,7 +55,7 @@ return type
 
 called when player release the button within it's area.
 
-used for general interactions.
+used for consensual actions.
 
 ___
 
@@ -86,7 +86,7 @@ return type
 called when player touch the button.
 
 >[!IMPORTANT]
->don't use this thing for irreversible actions, as it would harm usability.
+>don't use this thing for consensual actions, as it would harm usability.
 
 ___
 
