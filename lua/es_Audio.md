@@ -11,7 +11,7 @@ inherit
 a helper class to play audio files.
 
 >[!IMPORTANT]
->"Evertech Sandbox" only support `WAV` files. other files would result in an error.
+>"Evertech Sandbox" only support `WAV` files. other files would fire an error.
 
 >[!IMPORTANT]
 >only one audio file could be played at a same block at a same time. trying to play the new one while the old one is still playing, would result in playing the new one instead.
