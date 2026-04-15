@@ -130,6 +130,20 @@ default
 </td><td>
 </td><td>
 </td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+range
+</td><td>
+|
+</td><td>
+more than or equal to <code>0.0</code>
+<br>
+less than or equal to <code>1.0</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
 description
 </td><td>
 |
