@@ -69,4 +69,4 @@ description
 <code>WAV</code> filepath
 </td></tr></table>
 
-play a `WAV` file at `path`
+play a `WAV` file at `path` .
