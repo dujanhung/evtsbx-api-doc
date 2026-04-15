@@ -35,6 +35,10 @@ behavior
 <code>getter</code>
 <br>
 <code>protected</code>
+</td></tr><tr><td>
+return type
+</td><td>
+<code>ESAPI</code>
 </td></tr></table>
 
 ___
