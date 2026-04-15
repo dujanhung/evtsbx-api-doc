@@ -46,11 +46,11 @@ return type
 <table><tr><td>
 mandatory
 </td><td>
-path
+<code>path</code>
 </td></tr><tr><td>
 </td><td>
 </td></tr><tr><td>
-<code>type</code>
+type
 </td><td>
 <code>String</code>
 </td></tr></table>
