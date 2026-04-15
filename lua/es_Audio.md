@@ -58,6 +58,15 @@ type
 |
 </td><td>
 <code>String</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+description
+</td><td>
+|
+</td><td>
+<code>WAV</code> filepath
 </td></tr></table>
 
 play a `WAV` file at `path`
