@@ -8,7 +8,9 @@ inherit
 <code></code>
 </td></tr></table>
 
-audio related things in "Evertech Sandbox" .
+a helper class to play audio files.
+
+note: "Evertech Sandbox" only support `WAV` files.
 
 ___
 
