@@ -17,5 +17,5 @@ es
 <table><tr><td>
 return type
 </td><td>
-LUA Object
+ESAPI
 </td></tr></table>
