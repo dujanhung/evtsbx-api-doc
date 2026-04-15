@@ -21,14 +21,11 @@ a helper class to play audio files.
 
 >[!TIP]
 >to play multiple audio files at a same time, you should create more blocks whose scripts are point to different audio files.
-><br>
-><br><h3>example</h3>
-><br>
+><h3>example</h3>
 ><br>block1
 ><br>
 >```lua
 >```
-><br>
 ><br>block2
 ><br>
 >```lua
