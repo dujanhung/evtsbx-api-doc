@@ -86,7 +86,7 @@ return type
 
 called when player touch the button.
 
->[!IMPORTANT]
+>[!CAUTION]
 >don't use this thing for consensual actions, as it would cause health risks.
 
 ___
