@@ -56,7 +56,7 @@ default
 <code>{0.0,0.0,0.0}</code>
 </td></tr></table>
 
-the player position.
+the player position in world coordinate.
 
 >[!IMPORTANT]
 >don't teleport the player too far away. otherwise, player would get stuck.
