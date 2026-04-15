@@ -197,5 +197,5 @@ description
 loop mode
 </td></tr></table>
 
-change loop mode at runtime.
+change loop mode.
 
