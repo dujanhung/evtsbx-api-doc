@@ -79,6 +79,8 @@ description
 
 change "center button" visibility.
 
+this button is only shown if player look at the MOD block.
+
 ___
 
 ```lua
