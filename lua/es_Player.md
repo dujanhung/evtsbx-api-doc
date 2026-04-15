@@ -95,4 +95,5 @@ default
 
 the player camera position in world coordinate, including seat's camera. use XYZ convention.
 
-by default, player camera position would have an offset of 4 blocks upwards. this fact would be useful to detect if player were entering the seat in orbit mode.
+>[!TIP]
+>by default, player camera position would have an offset of 4 blocks upwards. this fact would be useful to detect if player were entering the seat in orbit mode.
