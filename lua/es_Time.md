@@ -50,7 +50,7 @@ default
 <code>1.0</code>
 </td></tr></table>
 
-play a `WAV` file from `path` .
+change time scale.
 
 ___
 
