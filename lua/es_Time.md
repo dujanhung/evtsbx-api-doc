@@ -56,7 +56,7 @@ range
 </td><td>
 |
 </td><td>
-bigger than <code>0.0</code>
+more than <code>0.0</code>
 </td></tr></table>
 
 change time scale.
@@ -93,7 +93,7 @@ range
 </td><td>
 |
 </td><td>
-bigger than <code>0.0</code>
+more than <code>0.0</code>
 </td></tr></table>
 
 the time between screen rendering frames.
@@ -127,7 +127,7 @@ range
 </td><td>
 |
 </td><td>
-bigger than <code>0.0</code>
+more than <code>0.0</code>
 </td></tr></table>
 
 the time between physics rendering frames. usually about <code>0.02</code> .
