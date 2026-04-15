@@ -31,7 +31,7 @@ virtual function description
 </h2>
 
 ```lua
-function
+function onButtonClick()
 ```
 
 <table><tr><td>
@@ -53,7 +53,7 @@ return type
 <code>void</code>
 </td></tr></table>
 
-a
+called when player release the button within it's area.
 
 ___
 
