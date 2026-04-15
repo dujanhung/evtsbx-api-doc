@@ -130,9 +130,6 @@ default
 </td><td>
 </td><td>
 </td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
 range
 </td><td>
 |
