@@ -17,7 +17,7 @@ a helper class to play audio files.
 >if the file's source don't have `WAV` output, use file converter apps to convert them to `WAV` file.
 
 >[!IMPORTANT]
->only one audio file could be played at a same block at a same time. trying to play the new one while the old one is still playing, would result in suddenly playing the new one instead.
+>only one audio file could be played at the same block at the same time. trying to play the new one while the old one is still playing, would result in suddenly playing the new one instead.
 
 ___
 
