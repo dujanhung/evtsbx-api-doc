@@ -39,23 +39,15 @@ return type
 |
 </td><td>
 <code>float</code>
-</td></tr></table>
-
-<table><tr><td>
-mandatory
-</td><td>
-|
-</td><td>
-<code>path</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
 </td></tr><tr><td>
-type
+default
 </td><td>
 |
 </td><td>
-<code>String</code>
+<code>1.0</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -64,7 +56,7 @@ description
 </td><td>
 |
 </td><td>
-<code>WAV</code> filepath
+time scale
 </td></tr></table>
 
 play a `WAV` file from `path` .
