@@ -10,6 +10,7 @@ inherit
 inherited by
 </td><td>
 <code>es.Player</code>
+<code>es.MultiBlock</code>
 <code>es.Quaternion</code>
 </td></tr></table>
 
