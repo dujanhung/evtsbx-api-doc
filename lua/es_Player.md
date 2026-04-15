@@ -12,6 +12,9 @@ inherit
 
 an "Evertech Sandbox" player.
 
+>[!IMPORTANT]
+>"Evertech Sandbox" API don't support multiplayer, due to security reasons.
+
 ___
 
 <h2>
