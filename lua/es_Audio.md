@@ -70,3 +70,48 @@ description
 </td></tr></table>
 
 play a `WAV` file from `path` .
+
+___
+
+```lua
+es.SetSoundVolume(volume)
+```
+
+<table><tr><td>
+behavior
+</td><td>
+<code>protected</code>
+</td></tr><tr><td>
+</td></tr><tr><td>
+return type
+</td><td>
+<code>void</code>
+</td></tr></table>
+
+<table><tr><td>
+mandatory
+</td><td>
+|
+</td><td>
+<code>volume</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+description
+</td><td>
+|
+</td><td>
+sound volume.
+</td></tr></table>
+
+change sound volume at runtime.
