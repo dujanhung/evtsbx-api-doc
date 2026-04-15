@@ -52,6 +52,9 @@ default
 
 change time scale.
 
+>[!IMPORTANT]
+>time scale could be reset via pause menu, and upon world file reload.
+
 ___
 
 ```lua
