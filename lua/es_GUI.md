@@ -183,6 +183,15 @@ type
 </td><td>
 </td><td>
 </td></tr><tr><td>
+default
+</td><td>
+|
+</td><td>
+<code>fingerprint.png</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
 description
 </td><td>
 |
