@@ -51,7 +51,7 @@ virtual method description
 </h2>
 
 ```lua
-function onButtonUp()
+function onPlace()
 ```
 
 <table><tr><td>
@@ -73,7 +73,7 @@ return type
 <code>void</code>
 </td></tr></table>
 
-called when player release the button.
+called when player place this MOD block.
 
 ___
 
