@@ -100,7 +100,7 @@ return type
 <code>void</code>
 </td></tr></table>
 
-called when this MOD block is loaded.
+called when player place this MOD block, or this MOD block is loaded in world file.
 
 ___
 
