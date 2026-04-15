@@ -48,15 +48,6 @@ default
 |
 </td><td>
 <code>1.0</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-description
-</td><td>
-|
-</td><td>
-time scale
 </td></tr></table>
 
 play a `WAV` file from `path` .
