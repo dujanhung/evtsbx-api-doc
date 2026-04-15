@@ -46,6 +46,7 @@ return type
 <table><tr><td>
 mandatory
 </td><td>
+|
 </td><td>
 <code>path</code>
 </td></tr><tr><td>
@@ -54,6 +55,7 @@ mandatory
 </td></tr><tr><td>
 type
 </td><td>
+|
 </td><td>
 <code>String</code>
 </td></tr></table>
