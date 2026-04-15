@@ -15,11 +15,11 @@ a helper class to get time informations.
 ___
 
 <h2>
-method description
+property description
 </h2>
 
 ```lua
-es.PlaySound(path)
+es.TimeScale
 ```
 
 <table><tr><td>
@@ -27,7 +27,9 @@ behavior
 </td><td>
 |
 </td><td>
-<code>protected</code>
+<code>getter</code>
+<br>
+<code>setter</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -36,7 +38,7 @@ return type
 </td><td>
 |
 </td><td>
-<code>void</code>
+<code>float</code>
 </td></tr></table>
 
 <table><tr><td>
