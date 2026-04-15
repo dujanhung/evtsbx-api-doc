@@ -13,3 +13,9 @@ constructor
 ```lua
 es
 ```
+
+<table><tr><td>
+return type
+</td><td>
+LUA Object
+</td></tr></table>
