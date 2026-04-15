@@ -22,6 +22,9 @@ inherited by
 <br>
 <code>es.Quaternion</code>
 </td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
 expanded by
 </td><td>
 |
