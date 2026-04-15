@@ -31,3 +31,14 @@ property description
 ```lua
 es.PlaySound(path)
 ```
+
+<table><tr><td>
+behavior
+</td><td>
+<code>protected</code>
+</td></tr><tr><td>
+</td></tr><tr><td>
+return type
+</td><td>
+<code>void</code>
+</td></tr></table>
