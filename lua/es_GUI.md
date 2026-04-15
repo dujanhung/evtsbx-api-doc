@@ -31,7 +31,7 @@ function description
 </h2>
 
 ```lua
-es.EnableButton(path)
+es.EnableButton(value)
 ```
 
 <table><tr><td>
@@ -56,7 +56,7 @@ mandatory
 </td><td>
 |
 </td><td>
-<code>path</code>
+<code>value</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -65,7 +65,7 @@ type
 </td><td>
 |
 </td><td>
-<code>String</code>
+<code>bool</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -74,10 +74,10 @@ description
 </td><td>
 |
 </td><td>
-<code>WAV</code> filepath
+"center button" visibility
 </td></tr></table>
 
-play a `WAV` file from `path` .
+change "center button" visibility.
 
 ___
 
