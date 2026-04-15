@@ -4,8 +4,8 @@
 
 <table><tr><td>
 inherit
-</td>es<td>
-<code></code>
+</td><td>
+<code>es</code>
 </td></tr></table>
 
 a helper class to play audio files.
