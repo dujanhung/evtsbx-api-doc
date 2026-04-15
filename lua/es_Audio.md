@@ -37,12 +37,21 @@ es.PlaySound(path)
 <table><tr><td>
 behavior
 </td><td>
+|
+</td><td>
 <code>protected</code>
 </td></tr><tr><td>
+</td><td>
+</td><td>
 </td></tr><tr><td>
 return type
 </td><td>
+|
+</td><td>
 <code>void</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
 </td></tr></table>
 
 <table><tr><td>
