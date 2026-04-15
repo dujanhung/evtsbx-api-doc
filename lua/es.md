@@ -47,7 +47,7 @@ the "Evertech Sandbox" API in Lua.
 ___
 
 <h2>
-constructor
+property description
 </h2>
 
 ```lua
