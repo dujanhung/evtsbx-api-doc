@@ -3,7 +3,7 @@
 </h2>
 
 <table><tr><td>
-expand
+expands
 </td><td>
 |
 </td><td>
