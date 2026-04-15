@@ -22,7 +22,7 @@ a helper class to interact with GUI.
 >only one button could be shown at the same block at the same time.
 
 >[!TIP]
->to interact with multiple buttons, you should either use another MOD block that use `es.MultiBlock.ModBlock.send()` , which is equivalent to using the "place" button.
+>to interact with multiple buttons, you should either use another MOD block whose script use `es.MultiBlock.ModBlock.send()` , which is equivalent to using the "place" button.
 
 ___
 
