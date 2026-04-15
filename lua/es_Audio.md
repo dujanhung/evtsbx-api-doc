@@ -5,6 +5,8 @@
 <table><tr><td>
 inherit
 </td><td>
+|
+</td><td>
 <code>es</code>
 </td></tr></table>
 
@@ -36,6 +38,7 @@ es.PlaySound(path)
 behavior
 </td><td>
 <code>protected</code>
+</td></tr><tr><td>
 </td></tr><tr><td>
 </td></tr><tr><td>
 return type
