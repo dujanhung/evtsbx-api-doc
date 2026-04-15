@@ -57,6 +57,34 @@ called when player release the button within it's area.
 
 ___
 
+
+```lua
+function onButtonDown()
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>virtual</code>
+<br>
+<code>protected</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+return type
+</td><td>
+|
+</td><td>
+<code>void</code>
+</td></tr></table>
+
+called when player press the button.
+
+___
+
 <h2>
 function description
 </h2>
