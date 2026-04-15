@@ -231,7 +231,7 @@ change button text.
 >texts should be short, and meaningful.
 
 >[!IMPORTANT]
->long texts is <i>technically</i> possible. however, it would make the text smaller, which would harm readability, especially plain one.
+>long texts are <i>technically</i> possible. however, it would make the text smaller, which would harm readability, especially plain one.
 
 ___
 
@@ -295,3 +295,6 @@ change button icon.
 
 >[!TIP]
 >icons should have the dimension of 64x64px , have less details, and meaningful.
+
+>[!IMPORTANT]
+>big icons are <i>technically</i> possible. however, it would increase memory usage, and cause lag.
