@@ -28,10 +28,6 @@ es
 behavior
 </td><td>
 <code>getter</code> , <code>protected</code>
-</td></tr><tr><td>
-return type
-</td><td>
-<code>Object(ESAPI)</code>
 </td></tr></table>
 
 
