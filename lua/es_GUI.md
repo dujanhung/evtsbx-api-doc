@@ -136,7 +136,7 @@ button text.
 change button text.
 
 >[!IMPORTANT]
->long text is <i>technically</i> possible. however, it would make the text smaller, and harm readability.
+>long text is <i>technically</i> possible. however, it would make the text smaller, which would harm readability.
 
 ___
 
