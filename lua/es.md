@@ -21,6 +21,14 @@ inherited by
 <code>es.MultiBlock</code>
 <br>
 <code>es.Quaternion</code>
+<br>
+<code>es.Audio</code>
+<br>
+<code>es.GUI</code>
+<br>
+<code>es.IO</code>
+<br>
+<code>es.Sensor</code>
 </td></tr></table>
 
 the "Evertech Sandbox" API in Lua.
