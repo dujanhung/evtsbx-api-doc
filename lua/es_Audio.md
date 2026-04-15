@@ -10,8 +10,8 @@ inherit
 
 a helper class to play audio files.
 
-[!IMPORTANT]
-"Evertech Sandbox" only support `WAV` files. other files would result in an error.
+>[!IMPORTANT]
+>"Evertech Sandbox" only support `WAV` files. other files would result in an error.
 
 ___
 
