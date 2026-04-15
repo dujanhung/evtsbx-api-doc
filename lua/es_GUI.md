@@ -87,7 +87,7 @@ this button is only shown if player look at the MOD block.
 ___
 
 ```lua
-es.setButtonText(volume)
+es.setButtonText(value)
 ```
 
 <table><tr><td>
@@ -112,7 +112,7 @@ mandatory
 </td><td>
 |
 </td><td>
-<code>volume</code>
+<code>value</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -121,7 +121,7 @@ type
 </td><td>
 |
 </td><td>
-<code>float</code>
+<code>String</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -130,10 +130,10 @@ description
 </td><td>
 |
 </td><td>
-sound volume.
+button text.
 </td></tr></table>
 
-change sound volume at runtime.
+change button text.
 
 ___
 
