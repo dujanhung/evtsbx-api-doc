@@ -138,7 +138,7 @@ change button text.
 ___
 
 ```lua
-es.setButtonIcon(value)
+es.setButtonIcon(path)
 ```
 
 <table><tr><td>
@@ -163,7 +163,7 @@ mandatory
 </td><td>
 |
 </td><td>
-<code>value</code>
+<code>path</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -172,7 +172,7 @@ type
 </td><td>
 |
 </td><td>
-<code>bool</code>
+<code>String</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -181,7 +181,7 @@ description
 </td><td>
 |
 </td><td>
-loop mode
+image file path.
 </td></tr></table>
 
-change loop mode at runtime.
+change button icon.
