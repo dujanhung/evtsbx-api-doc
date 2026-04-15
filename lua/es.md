@@ -154,7 +154,7 @@ return type
 <code>void</code>
 </td></tr></table>
 
-called via physics rendering frame iteration, always be 50 FPS.
+called via physics rendering frame iteration, usually about 50 FPS.
 
 ___
 
