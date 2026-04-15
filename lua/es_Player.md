@@ -58,8 +58,8 @@ default
 
 the player position in world coordinate. use XYZ convention.
 
->
->
+>[!TIP]
+>a
 
 >[!CAUTION]
 >don't teleport the player too far away. otherwise, player would get stuck in the black void.
