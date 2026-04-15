@@ -9,7 +9,7 @@ inherit
 </td></tr><tr><td>
 inherited by
 </td><td>
-<code>a</code>
+<code>Object</code>
 </td></tr></table>
 
 the "Evertech Sandbox" API in Lua.
