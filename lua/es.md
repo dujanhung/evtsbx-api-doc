@@ -10,6 +10,7 @@ inherit
 <code>Object</code>
 </td></tr><tr><td>
 </td><td>
+</td><td>
 </td></tr><tr><td>
 inherited by
 </td><td>
