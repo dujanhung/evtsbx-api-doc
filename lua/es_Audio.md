@@ -125,7 +125,7 @@ default
 </td><td>
 |
 </td><td>
-<code>1</code>
+<code>1.0</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
