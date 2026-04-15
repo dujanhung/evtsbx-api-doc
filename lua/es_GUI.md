@@ -86,7 +86,7 @@ return type
 called when player touch the button.
 
 >[!IMPORTANT]
->don't use this thing for irreversible consensual actions, as it would harm usability.
+>don't use this thing for irreversible actions, as it would harm usability.
 
 ___
 
