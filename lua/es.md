@@ -31,6 +31,7 @@ es
 behavior
 </td><td>
 <code>getter</code>
+
 <code>protected</code>
 </td></tr></table>
 
