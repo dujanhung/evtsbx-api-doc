@@ -32,12 +32,18 @@ es
 <table><tr><td>
 behavior
 </td><td>
+|
+</td><td>
 <code>getter</code>
 <br>
 <code>protected</code>
 </td></tr><tr><td>
+</td><td>
+</td><td>
 </td></tr><tr><td>
 return type
+</td><td>
+|
 </td><td>
 <code>ESAPI</code>
 </td></tr></table>
