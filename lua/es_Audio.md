@@ -43,4 +43,15 @@ return type
 <code>void</code>
 </td></tr></table>
 
+<table><tr><td>
+mandatory
+</td><td>
+type
+</td></tr><tr><td>
+</td></tr><tr><td>
+<code>path</code>
+</td><td>
+<code>String</code>
+</td></tr></table>
+
 play a `WAV` file at `path`
