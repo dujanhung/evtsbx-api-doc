@@ -24,10 +24,12 @@ a helper class to play audio files.
 ><h3>example</h3>
 >block1
 ><codeblock lang="lua">
-></codeblock>
+a
+</codeblock>
 >block2
 ><codeblock lang="lua">
-></codeblock>
+a
+</codeblock>
 
 ___
 
