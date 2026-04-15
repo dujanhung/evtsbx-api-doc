@@ -77,6 +77,33 @@ called when player place this MOD block.
 
 ___
 
+```lua
+function start()
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>virtual</code>
+<br>
+<code>protected</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+return type
+</td><td>
+|
+</td><td>
+<code>void</code>
+</td></tr></table>
+
+called when this MOD block is loaded.
+
+___
+
 <h2>
 property description
 </h2>
