@@ -4,7 +4,7 @@
 
 <table><tr><td>
 inherit
-</td><td>
+</td>es<td>
 <code></code>
 </td></tr></table>
 
