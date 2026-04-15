@@ -121,6 +121,15 @@ type
 </td><td>
 </td><td>
 </td></tr><tr><td>
+default
+</td><td>
+|
+</td><td>
+<code>1</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
 description
 </td><td>
 |
@@ -128,7 +137,7 @@ description
 sound volume.
 </td></tr></table>
 
-change sound volume at runtime.
+change sound volume.
 
 ___
 
@@ -168,6 +177,15 @@ type
 |
 </td><td>
 <code>bool</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+default
+</td><td>
+|
+</td><td>
+<code>false</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
