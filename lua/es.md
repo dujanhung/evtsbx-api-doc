@@ -11,7 +11,9 @@ inherit
 inherited by
 </td><td>
 <code>es.Player</code>
+<br>
 <code>es.MultiBlock</code>
+<br>
 <code>es.Quaternion</code>
 </td></tr></table>
 
@@ -31,6 +33,7 @@ es
 behavior
 </td><td>
 <code>getter</code>
+<br>
 <code>protected</code>
 </td></tr></table>
 
