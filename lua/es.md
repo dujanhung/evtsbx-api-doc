@@ -127,7 +127,7 @@ return type
 <code>void</code>
 </td></tr></table>
 
-called via rendering frame iteration.
+called via screen rendering frame iteration.
 
 ___
 
