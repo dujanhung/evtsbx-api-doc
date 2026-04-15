@@ -22,15 +22,15 @@ a helper class to play audio files.
 >[!TIP]
 >to play multiple audio files at a same time, you should create more blocks whose scripts are point to different audio files.
 ><br>
->example:
+><br>example:
 ><br>
->block1
->
+><br>block1
+><br>
 >```lua
 >```
 ><br>
->block2
->
+><br>block2
+><br>
 >```lua
 >```
 
