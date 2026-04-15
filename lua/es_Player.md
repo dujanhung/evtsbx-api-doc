@@ -64,7 +64,7 @@ the player position in world coordinate. use XYZ convention.
 ___
 
 ```lua
-es.DeltaTime
+es.Player.CameraPosition
 ```
 
 <table><tr><td>
@@ -73,6 +73,8 @@ behavior
 |
 </td><td>
 <code>getter</code>
+<br>
+<code>setter</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -81,50 +83,16 @@ type
 </td><td>
 |
 </td><td>
-<code>float</code>
+<code>Array(float)</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
 </td></tr><tr><td>
-range
+default
 </td><td>
 |
 </td><td>
-more than <code>0.0</code>
+<code>{0.0,0.0,0.0}</code>
 </td></tr></table>
 
-the time between screen rendering frames.
-
-___
-
-```lua
-es.FixedDeltaTime
-```
-
-<table><tr><td>
-behavior
-</td><td>
-|
-</td><td>
-<code>getter</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-range
-</td><td>
-|
-</td><td>
-more than <code>0.0</code>
-</td></tr></table>
-
-the time between physics rendering frames. usually about <code>0.02</code> .
+the player camera position in world coordinate, including seat camera. use XYZ convention.
