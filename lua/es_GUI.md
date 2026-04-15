@@ -31,7 +31,7 @@ property description
 </h2>
 
 ```lua
-es.PlaySound(path)
+es.EnableButton(path)
 ```
 
 <table><tr><td>
@@ -82,7 +82,7 @@ play a `WAV` file from `path` .
 ___
 
 ```lua
-es.SetSoundVolume(volume)
+es.SetButtonText(volume)
 ```
 
 <table><tr><td>
@@ -133,7 +133,7 @@ change sound volume at runtime.
 ___
 
 ```lua
-es.SetSoundLoop(value)
+es.SetButtonIcon(value)
 ```
 
 <table><tr><td>
