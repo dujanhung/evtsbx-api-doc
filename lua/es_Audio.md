@@ -20,7 +20,7 @@ a helper class to play audio files.
 >only one audio file could be played at the same block at the same time. trying to play the new one while the old one is still playing, would result in suddenly playing the new one instead.
 
 >[!TIP]
->to play multiple audio files at a same time, you should create more blocks whose scripts are point to different filepaths.
+>to play multiple audio files at a same time, you should create more blocks whose scripts are point to different audio files.
 
 ___
 
