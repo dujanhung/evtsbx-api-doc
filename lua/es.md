@@ -2,6 +2,16 @@
 es
 </h2>
 
+<table><tr><td>
+inherit
+</td><td>
+<code>a</code>
+</td></tr><tr><td>
+inherited by
+</td><td>
+<code>a</code>
+</td></tr></table>
+
 the "Evertech Sandbox" API in Lua.
 
 ___
