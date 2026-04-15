@@ -5,7 +5,7 @@ es
 <table><tr><td>
 inherit
 </td><td>
-<code>a</code>
+<code>Object</code>
 </td></tr><tr><td>
 inherited by
 </td><td>
