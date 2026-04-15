@@ -24,9 +24,9 @@ inherited by
 <br>
 <code>es.GUI</code>
 <br>
-<code>es.IO</code>
-<br>
 <code>es.Sensor</code>
+<br>
+<code>es.IO</code>
 <br>
 <code>es.Audio</code>
 <br>
