@@ -232,7 +232,7 @@ default
 </td><td>
 |
 </td><td>
-<code>""</code>
+<code>" "</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
