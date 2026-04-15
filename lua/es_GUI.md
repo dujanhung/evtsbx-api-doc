@@ -193,7 +193,7 @@ default
 </td><td>
 |
 </td><td>
-<code>fingerprint.png</code>
+built-in <code>fingerprint.png</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
