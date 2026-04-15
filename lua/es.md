@@ -66,7 +66,7 @@ behavior
 </td><td>
 </td><td>
 </td></tr><tr><td>
-return type
+type
 </td><td>
 |
 </td><td>
