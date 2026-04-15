@@ -19,7 +19,7 @@ a helper class to interact with GUI.
 >if the file's source don't have such outputs, use file converter apps to convert them.
 
 >[!IMPORTANT]
->"Evertech Sandbox" don't support multiple buttons, pinned button, change button transform and change button color.
+>"Evertech Sandbox" don't support multiple buttons, pinned button, set button transform and set button color.
 
 >[!TIP]
 >to interact with the "place" button, you should use another MOD block whose script use `es.TryGetMultiBlock()` , `es.MultiBlock.ModBlock.send()` and `es.MultiBlock.DestroyFast()` .
