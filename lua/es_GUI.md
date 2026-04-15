@@ -82,7 +82,7 @@ change "center button" visibility.
 ___
 
 ```lua
-es.SetButtonText(volume)
+es.setButtonText(volume)
 ```
 
 <table><tr><td>
