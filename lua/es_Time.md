@@ -48,6 +48,15 @@ default
 |
 </td><td>
 <code>1.0</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+range
+</td><td>
+|
+</td><td>
+bigger than <code>0.0</code>
 </td></tr></table>
 
 change time scale.
