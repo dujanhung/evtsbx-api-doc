@@ -2,7 +2,7 @@
 es
 </h2>
 
-the "Evertech Sandbox" API.
+the "Evertech Sandbox" API for lua.
 
 ___
 
