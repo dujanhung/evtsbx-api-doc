@@ -15,6 +15,9 @@ an "Evertech Sandbox" player.
 >[!IMPORTANT]
 >"Evertech Sandbox" API don't support multiplayer, due to security reasons.
 
+>[!IMPORTANT]
+>"Evertech Sandbox" API don't support any methods that could change player skin.
+
 ___
 
 <h2>
