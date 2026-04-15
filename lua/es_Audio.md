@@ -47,8 +47,8 @@ return type
 mandatory
 </td><td>
 type
-</td></tr><tr><td>
-</td></tr><tr><td>
+</td></tr><tr>
+</tr><tr><td>
 <code>path</code>
 </td><td>
 <code>String</code>
