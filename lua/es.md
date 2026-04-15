@@ -9,7 +9,8 @@ inherit
 </td></tr><tr><td>
 inherited by
 </td><td>
-<code>es.Player</code> , <code>es.Quaternion</code>
+<code>es.Player</code>
+<code>es.Quaternion</code>
 </td></tr></table>
 
 the "Evertech Sandbox" API in Lua.
@@ -27,7 +28,8 @@ es
 <table><tr><td>
 behavior
 </td><td>
-<code>getter</code> , <code>protected</code>
+<code>getter</code>
+<code>protected</code>
 </td></tr></table>
 
 
