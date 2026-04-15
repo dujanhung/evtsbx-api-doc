@@ -135,6 +135,9 @@ button text.
 
 change button text.
 
+>[!IMPORTANT]
+>long text is <i>technically</i> possible. however, it would make the text smaller, and harm readability.
+
 ___
 
 ```lua
