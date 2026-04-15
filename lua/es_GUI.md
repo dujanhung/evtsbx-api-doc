@@ -56,7 +56,7 @@ return type
 called when player release the button within it's area.
 
 >[!TIP]
->it's used for consensual actions.
+>this one is suitable for consensual actions.
 
 ___
 
