@@ -4,7 +4,7 @@ es Audio
 
 <table><tr><td>
 inherit
-</td>es<td>
+</td><td>
 <code></code>
 </td></tr></table>
 
