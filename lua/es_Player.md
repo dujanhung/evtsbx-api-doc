@@ -58,7 +58,7 @@ default
 
 the player position in world coordinate. use XYZ convention.
 
->[!IMPORTANT]
+>[!CAUTION]
 >don't teleport the player too far away. otherwise, player would get stuck in the black void.
 
 ___
