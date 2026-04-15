@@ -81,7 +81,7 @@ return type
 <code>void</code>
 </td></tr></table>
 
-called when player press the button.
+called when player touch the button.
 
 ___
 
