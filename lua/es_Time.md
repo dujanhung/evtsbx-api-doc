@@ -79,3 +79,28 @@ type
 </td></tr></table>
 
 the time between screen rendering frames.
+
+___
+
+```lua
+es.FixedDeltaTime
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>getter</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td></tr></table>
+
+the time between physics rendering frames. usually about <code>0.02</code> .
