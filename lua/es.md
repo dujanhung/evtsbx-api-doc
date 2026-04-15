@@ -22,6 +22,8 @@ inherited by
 <br>
 <code>es.Quaternion</code>
 <br>
+<code>es.Material</code>
+<br>
 <code>es.Audio</code>
 <br>
 <code>es.GUI</code>
@@ -29,6 +31,8 @@ inherited by
 <code>es.IO</code>
 <br>
 <code>es.Sensor</code>
+<br>
+<code>es.Time</code>
 </td></tr></table>
 
 the "Evertech Sandbox" API in Lua.
