@@ -55,6 +55,8 @@ return type
 
 called when player release the button within it's area.
 
+used for general interactions.
+
 ___
 
 
@@ -82,6 +84,9 @@ return type
 </td></tr></table>
 
 called when player touch the button.
+
+>[!IMPORTANT]
+>don't use this thing for confirmation actions, as it would harm usability.
 
 ___
 
