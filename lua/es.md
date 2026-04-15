@@ -104,6 +104,33 @@ called when player place this MOD block, or this MOD block is loaded from world 
 
 ___
 
+```lua
+function update()
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>virtual</code>
+<br>
+<code>protected</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+return type
+</td><td>
+|
+</td><td>
+<code>void</code>
+</td></tr></table>
+
+called via rendering frame iteration.
+
+___
+
 <h2>
 property description
 </h2>
