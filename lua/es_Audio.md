@@ -49,7 +49,6 @@ return type
 |
 </td><td>
 <code>void</code>
-</td></tr><tr><td>
 </td></tr></table>
 
 <table><tr><td>
