@@ -42,3 +42,5 @@ return type
 </td><td>
 <code>void</code>
 </td></tr></table>
+
+play a `WAV` file at `path`
