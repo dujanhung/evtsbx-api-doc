@@ -27,7 +27,7 @@ a helper class to interact with GUI.
 ___
 
 <h2>
-virtual function description
+virtual method description
 </h2>
 
 ```lua
@@ -119,7 +119,7 @@ called when player release the button.
 ___
 
 <h2>
-function description
+method description
 </h2>
 
 ```lua
