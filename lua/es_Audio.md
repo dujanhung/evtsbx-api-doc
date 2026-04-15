@@ -134,9 +134,11 @@ range
 </td><td>
 |
 </td><td>
+<ul><li>
 more than or equal to <code>0.0</code>
-<br>
+</li><li>
 less than or equal to <code>1.0</code>
+</li></ul>
 </td></tr><tr><td>
 </td><td>
 </td><td>
