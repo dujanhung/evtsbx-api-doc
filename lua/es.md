@@ -15,7 +15,7 @@ es
 ```
 
 <table><tr><td>
-IO behavior
+behavior
 </td><td>
 <code>getter</code>
 </td></tr><tr><td>
