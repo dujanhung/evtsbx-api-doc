@@ -17,7 +17,7 @@ es
 <table><tr><td>
 behavior
 </td><td>
-<code>getter</code> , <code>non-null</code>
+<code>getter</code> , <code>protected</code>
 </td></tr><tr><td>
 return type
 </td><td>
