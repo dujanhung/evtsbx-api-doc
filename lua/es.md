@@ -5,11 +5,15 @@
 <table><tr><td>
 inherit
 </td><td>
+|
+</td><td>
 <code>Object</code>
 </td></tr><tr><td>
 </td><td>
 </td></tr><tr><td>
 inherited by
+</td><td>
+|
 </td><td>
 <code>es.Player</code>
 <br>
