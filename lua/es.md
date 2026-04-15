@@ -21,7 +21,13 @@ inherited by
 <code>es.MultiBlock</code>
 <br>
 <code>es.Quaternion</code>
-<br>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+expanded by
+</td><td>
+|
+</td><td>
 <code>es.GUI</code>
 <br>
 <code>es.Sensor</code>
