@@ -17,7 +17,7 @@ es
 <table><tr><td>
 return type
 </td><td>
-<code>ESAPI</code>
+<code>Object\<ESAPI\></code>
 </td></tr></table>
 
 
