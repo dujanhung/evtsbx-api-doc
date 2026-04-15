@@ -22,7 +22,7 @@ a helper class to play audio files.
 >[!TIP]
 >to play multiple audio files at a same time, you should create more blocks whose scripts are point to different audio files.
 ><br>
-><br>example:
+><br><h3>example</h3>
 ><br>
 ><br>block1
 ><br>
