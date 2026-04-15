@@ -50,6 +50,7 @@ mandatory
 <code>path</code>
 </td></tr><tr><td>
 </td><td>
+</td><td>
 </td></tr><tr><td>
 type
 </td><td>
