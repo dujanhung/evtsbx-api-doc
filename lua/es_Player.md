@@ -59,7 +59,7 @@ default
 the player position in world coordinate. use XYZ convention.
 
 >[!TIP]
->this one is useful for player teleportation, and player movement.
+>this one is useful for player teleportation, and player movement tracker.
 
 >[!CAUTION]
 >don't teleport the player too far away. otherwise, player would get stuck in the black void.
