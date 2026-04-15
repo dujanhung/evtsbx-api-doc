@@ -31,7 +31,7 @@ function description
 </h2>
 
 ```lua
-es.EnableButton(value)
+es.enableButton(value)
 ```
 
 <table><tr><td>
@@ -133,7 +133,7 @@ change sound volume at runtime.
 ___
 
 ```lua
-es.SetButtonIcon(value)
+es.setButtonIcon(value)
 ```
 
 <table><tr><td>
