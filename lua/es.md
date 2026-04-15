@@ -41,3 +41,5 @@ return type
 </td><td>
 <code>ESAPI</code>
 </td></tr></table>
+
+get current `ESAPI` instance.
