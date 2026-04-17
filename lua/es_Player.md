@@ -106,3 +106,39 @@ the player camera position in world coordinate, including seat's camera. use XYZ
 
 >[!CAUTION]
 >don't rely on this one to get player's up direction, because it would become incorrect if player was in the seat and enable orbit mode.
+
+___
+
+```lua
+es.Player.Rotation
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>getter</code>
+<br>
+<code>setter</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>es.Quaternion</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+default
+</td><td>
+|
+</td><td>
+<code>es.Quaternion.Euler({0.0,0.0,0.0})</code>
+</td></tr></table>
+
+the player rotation in world coordinate. use XYZ convention.
