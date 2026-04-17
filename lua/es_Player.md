@@ -142,3 +142,9 @@ default
 </td></tr></table>
 
 the player rotation in world coordinate. use XYZ convention.
+
+>[!TIP]
+>this one is used for MOD seat.
+
+>[!CAUTION]
+>don't use this one to "drunk" player, as it would cause health risk.
