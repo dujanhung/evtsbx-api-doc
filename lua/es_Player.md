@@ -129,7 +129,7 @@ type
 </td><td>
 |
 </td><td>
-<code>es.Quaternion</code>
+<code>es.Quaternion.Euler(float,float,float)</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
