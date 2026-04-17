@@ -31,4 +31,4 @@ copyright conflicts policy
 </h2>
 
 - don't pretend to be copyright owner (eg. no fake Vitsum)
-- don't threaten owner for copyright (eg. no doxxing)
+- don't threaten owners for copyright (eg. no doxxing)
