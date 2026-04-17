@@ -137,11 +137,12 @@ range
 </td><td>
 |
 </td><td>
-<ul><li>
+<table><tr><td>
 more than or equal to <code>0.0</code>
-</li><li>
+</td></tr><tr><td>
+</td></tr><tr><td>
 less than or equal to <code>1.0</code>
-</li></ul>
+</td></tr></table>
 </td></tr><tr><td>
 </td><td>
 </td><td>
