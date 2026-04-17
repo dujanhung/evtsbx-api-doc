@@ -7,7 +7,7 @@ original owner
 </td><td>
 Vitsum
 </td></tr><tr><td>
-secondary owner
+depended owner
 </td><td>
 Dương Chấn Hưng
 </td></tr></table>
