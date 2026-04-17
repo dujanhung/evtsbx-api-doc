@@ -4,4 +4,3 @@ condition
 
 - no monetization.
 - modifications should respect to original "Evertech Sandbox" API source.
-- no stealing copyright.
