@@ -97,3 +97,6 @@ default
 </td></tr></table>
 
 the player camera position in world coordinate, including seat's camera. use XYZ convention.
+
+>[!TIP]
+>this one is useful for player tool blocks.
