@@ -138,8 +138,7 @@ default
 </td><td>
 |
 </td><td>
-<code>es.Quaternion.Euler(0.0,0.0,0.0}
-)</code>
+<code>es.Quaternion.Euler(0.0,0.0,0.0})</code>
 </td></tr></table>
 
 the player rotation in world coordinate. use XYZ convention.
