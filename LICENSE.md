@@ -3,7 +3,7 @@ copyright participants
 </h2>
 
 <table><tr><td>
-original owner
+primary owner
 </td><td>
 Vitsum
 </td></tr><tr><td>
