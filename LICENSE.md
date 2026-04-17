@@ -3,4 +3,4 @@ condition
 </h2>
 
 - `ESAPI` syntaxs should respect to the original "Evertech Sandbox" API documentation source.
-- monetization should send to Vitsum, the original "Evertech Sandbox" API owner.
+- `ESAPI` monetization should send to Vitsum, the original "Evertech Sandbox" API owner.
