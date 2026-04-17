@@ -5,6 +5,7 @@ copyright participants
 <table><tr><td>
 primary owner
 </td><td>
+|
 </td><td>
 Vitsum
 </td></tr><tr><td>
@@ -13,6 +14,7 @@ Vitsum
 </td></tr><tr><td>
 secondary owner
 </td><td>
+|
 </td><td>
 Dương Chấn Hưng
 </td></tr></table>
