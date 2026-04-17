@@ -1,5 +1,5 @@
 <h2>
-condition
+copyright conditions
 </h2>
 
 - `ESAPI` syntaxs should respect to the original source.
