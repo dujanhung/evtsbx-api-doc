@@ -99,4 +99,4 @@ default
 the player camera position in world coordinate, including seat's camera. use XYZ convention.
 
 >[!TIP]
->this one is useful for player tool blocks.
+>this one is used for player tool blocks to follow player's camera, even though if player is crouching.
