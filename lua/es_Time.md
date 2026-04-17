@@ -10,7 +10,7 @@ expands
 <code>es</code>
 </td></tr></table>
 
-a helper class to get time informations.
+a helper class to get app's engine time informations.
 
 ___
 
