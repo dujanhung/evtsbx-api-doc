@@ -144,7 +144,7 @@ default
 the player rotation in world coordinate. use XYZ convention.
 
 >[!TIP]
->this one is used for MOD seat.
+>this one is used for MOD seat, to partically replace the built-in seat blocks.
 
 >[!CAUTION]
 >don't use this one to force "drunk" player, as it would cause health risks.
