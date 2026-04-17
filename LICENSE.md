@@ -11,4 +11,4 @@ copyright conflicts policy
 
 - don't steal copyright.
 - don't pretend to be copyright owner.
-- don't threaten owner for copyright (alias of doxxing)
+- don't threaten owner for copyright (eg. doxxing)
