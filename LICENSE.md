@@ -24,7 +24,7 @@ copyright conditions
 </h2>
 
 - in this repo, "Evertech Sandbox" API syntax should respect to the original source. (reliability)
-- haft of this repo's income should send to Vitsum. another haft should send to "Dương Chấn Hưng" . (monetization)
+- haft of this repo's money income should send to Vitsum. another haft should send to "Dương Chấn Hưng" . (monetization)
 
 <h2>
 copyright conflicts policy
