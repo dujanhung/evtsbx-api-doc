@@ -2,8 +2,8 @@
 copyright conditions
 </h2>
 
-- `ESAPI` syntaxs should respect to the original source.
-- haft of this repo's monetization income should send to Vitsum. another haft should send to "Dương Chấn Hưng" .
+- `ESAPI` syntaxs should respect to the original source. (trust)
+- haft of this repo's income should send to Vitsum. another haft should send to "Dương Chấn Hưng" . (monetization)
 
 <h2>
 copyright conflicts policy
