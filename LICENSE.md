@@ -3,4 +3,4 @@ condition
 </h2>
 
 - no monetization.
-- script syntaxs should respect to the original "Evertech Sandbox" API source.
+- `ESAPI` syntaxs should respect to the original "Evertech Sandbox" API source.
