@@ -99,7 +99,7 @@ default
 the player camera position in world coordinate, including seat's camera. use XYZ convention.
 
 >[!TIP]
->this one is used for player tool blocks to follow player's camera, even though if player is crouching.
+>this one is used for player tool blocks to follow player's camera, even though if player is crouching, or sitting in the seat.
 
 >[!TIP]
 >to calculate player's up direction, use this one together with `es.Player.Position` .
