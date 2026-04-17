@@ -1,5 +1,5 @@
 <h2>
-copyright members
+copyright owner
 </h2>
 
 <table><tr><td>
