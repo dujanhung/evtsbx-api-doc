@@ -147,4 +147,4 @@ the player rotation in world coordinate. use XYZ convention.
 >this one is used for MOD seat.
 
 >[!CAUTION]
->don't use this one to "drunk" player, as it would cause health risk.
+>don't use this one to force "drunk" player, as it would cause health risks.
