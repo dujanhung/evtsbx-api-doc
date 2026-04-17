@@ -3,4 +3,4 @@ condition
 </h2>
 
 - no monetization.
-- respect to the original "Evertech Sandbox" API source.
+- script syntaxs should respect to the original "Evertech Sandbox" API source.
