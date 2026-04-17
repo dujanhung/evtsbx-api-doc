@@ -10,5 +10,5 @@ copyright conflicts policy
 </h2>
 
 - don't steal copyright.
-- don't pretend to be copyright owner.
+- don't pretend to be copyright owner (eg. fake Vitsum)
 - don't threaten owner for copyright (eg. doxxing)
