@@ -3,5 +3,5 @@ condition
 </h2>
 
 - no monetization.
-- no modify.
+- modifications should respect to original "Evertech Sandbox" API source.
 - no stealing copyright.
