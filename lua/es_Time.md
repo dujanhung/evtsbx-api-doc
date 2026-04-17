@@ -61,7 +61,7 @@ more than <code>0.0</code>
 
 change time scale.
 
->[!IMPORTANT]
+>[!CAUTION]
 >don't increase this thing more than `8.0` . otherwise, lag would occur.
 
 >[!IMPORTANT]
