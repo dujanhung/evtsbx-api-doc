@@ -102,7 +102,7 @@ the player camera position in world coordinate, including seat's camera. use XYZ
 >this one is used for player tool blocks to follow player's camera, even though if player is crouching.
 
 >[!TIP]
->to get player's up direction, use this one together with `es.Player.Position` .
+>to calculate player's up direction, use this one together with `es.Player.Position` .
 
 >[!CAUTION]
 >don't always rely on this one to get player's up direction, because it would become incorrect if player was in the seat and enable orbit mode.
