@@ -4,6 +4,8 @@ copyright participants
 
 <table><tr><td>
 Vitsum
+</td><td>
+owner
 </td></tr></table>
 
 <h2>
