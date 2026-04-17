@@ -1,4 +1,12 @@
 <h2>
+copyright members
+</h2>
+
+<table><tr><td>
+Vitsum
+</td></tr></table>
+
+<h2>
 copyright conditions
 </h2>
 
