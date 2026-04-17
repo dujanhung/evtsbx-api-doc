@@ -3,9 +3,13 @@ copyright participants
 </h2>
 
 <table><tr><td>
-Vitsum
+original owner
 </td><td>
-owner
+Vitsum
+</td></tr><tr><td>
+secondary owner
+</td><td>
+Dương Chấn Hưng
 </td></tr></table>
 
 <h2>
