@@ -105,7 +105,7 @@ the player camera position in world coordinate, including seat's camera. use XYZ
 >to get player's up direction, use this one together with `es.Player.Position` .
 
 >[!CAUTION]
->don't rely on this one to get player's up direction, because it would become incorrect if player was in the seat and enable orbit mode.
+>don't always rely on this one to get player's up direction, because it would become incorrect if player was in the seat and enable orbit mode.
 
 ___
 
