@@ -62,6 +62,9 @@ more than <code>0.0</code>
 change time scale.
 
 >[!IMPORTANT]
+>don't increase this thing more than `8.0` . otherwise, lag would occur.
+
+>[!IMPORTANT]
 >time scale could be reset via pause menu, and upon world file reload.
 
 ___
