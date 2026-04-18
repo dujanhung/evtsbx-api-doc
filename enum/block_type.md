@@ -344,6 +344,8 @@ a marine mortar block.
 
 this block could destroy other blocks.
 
+the projectile could float on water.
+
 ___
 
 ```lua
