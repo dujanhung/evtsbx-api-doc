@@ -123,7 +123,9 @@ ___
 "Beacon"
 ```
 
-a police beacon block.
+a police beacon block, always rotate clockwise.
+
+this block is also called "CW block"
 
 ___
 
