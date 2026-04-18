@@ -141,6 +141,30 @@ a paintable BRT wheel block, 3x1.
 ___
 
 ```lua
+"BigWheel"
+```
+
+a big wheel block, 5x2.
+
+___
+
+```lua
+"HugeWheel"
+```
+
+a huge wheel block, 7x3.
+
+___
+
+```lua
+"MonsterWheel"
+```
+
+a monster wheel block, 7x4.
+
+___
+
+```lua
 "Barrel"
 ```
 
