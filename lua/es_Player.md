@@ -187,3 +187,37 @@ default
 </td></tr></table>
 
 the player camera rotation in world coordinate, including seat's camera.
+
+___
+
+```lua
+es.Player.CameraDirection
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>getter</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>{float,float,float}</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+default
+</td><td>
+|
+</td><td>
+<code>{0.0,0.0,0.0}</code>
+</td></tr></table>
+
+the player camera direction, including seat's camera.
