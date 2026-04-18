@@ -89,8 +89,6 @@ behavior
 |
 </td><td>
 <code>virtual</code>
-<br>
-<code>protected</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -116,8 +114,6 @@ behavior
 |
 </td><td>
 <code>virtual</code>
-<br>
-<code>protected</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -143,8 +139,6 @@ behavior
 |
 </td><td>
 <code>virtual</code>
-<br>
-<code>protected</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -170,8 +164,6 @@ behavior
 |
 </td><td>
 <code>virtual</code>
-<br>
-<code>protected</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
