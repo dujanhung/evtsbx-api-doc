@@ -187,7 +187,7 @@ a decorative flank block.
 ___
 
 ```lua
-"BeamLine"
+"BeamLines"
 ```
 
 a decorative straight beam block.
@@ -203,7 +203,7 @@ a decorative arc beam block.
 ___
 
 ```lua
-"WoodenBeamLine"
+"WoodenBeamLines"
 ```
 
 a decorative straight beam block.
