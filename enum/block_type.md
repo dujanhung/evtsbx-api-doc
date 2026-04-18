@@ -16,7 +16,7 @@ ___
 "Edge"
 ```
 
-a paintable slope block.
+a paintable edge block.
 
 ___
 
