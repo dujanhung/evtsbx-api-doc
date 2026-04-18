@@ -40,8 +40,6 @@ behavior
 |
 </td><td>
 <code>virtual</code>
-<br>
-<code>protected</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -71,8 +69,6 @@ behavior
 |
 </td><td>
 <code>virtual</code>
-<br>
-<code>protected</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -101,8 +97,6 @@ behavior
 |
 </td><td>
 <code>virtual</code>
-<br>
-<code>protected</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -127,15 +121,6 @@ es.enableButton(value)
 ```
 
 <table><tr><td>
-behavior
-</td><td>
-|
-</td><td>
-<code>protected</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
 return type
 </td><td>
 |
@@ -193,15 +178,6 @@ es.setButtonText(value)
 ```
 
 <table><tr><td>
-behavior
-</td><td>
-|
-</td><td>
-<code>protected</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
 return type
 </td><td>
 |
@@ -259,15 +235,6 @@ es.setButtonIcon(path)
 ```
 
 <table><tr><td>
-behavior
-</td><td>
-|
-</td><td>
-<code>protected</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
 return type
 </td><td>
 |
