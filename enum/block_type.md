@@ -127,6 +127,14 @@ a spring coil block.
 ___
 
 ```lua
+"SuspensionSecondBase"
+```
+
+a decorative paintable coin block.
+
+___
+
+```lua
 "Piston"
 ```
 
