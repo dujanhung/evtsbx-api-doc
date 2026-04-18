@@ -9,3 +9,11 @@ ___
 ```
 
 a paintable cube block.
+
+___
+
+```lua
+"Edge"
+```
+
+a paintable slope block.
