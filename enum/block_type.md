@@ -222,7 +222,7 @@ ___
 "Ladder"
 ```
 
-a ladder block.
+a decorative ladder block.
 
 player could climb on this block.
 
