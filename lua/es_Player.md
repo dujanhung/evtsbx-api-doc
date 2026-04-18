@@ -189,7 +189,7 @@ default
 the player camera rotation in world coordinate, including seat's camera.
 
 >[!TIP]
->this one is used for player recorder.
+>this one is used for player tool block, and player recorder.
 
 >[!CAUTION]
 >don't use this one to force "stare" player, as it would cause health risks.
