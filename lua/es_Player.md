@@ -10,7 +10,7 @@ inherit
 <code>es</code>
 </td></tr></table>
 
-an "Evertech Sandbox" player.
+a helper class to interact with "Evertech Sandbox" player.
 
 >[!NOTE]
 >unless otherwise noted, "Evertech Sandbox" use XYZ convention.
