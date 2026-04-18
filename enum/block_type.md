@@ -2,7 +2,7 @@
 <code>es.MultiBlock.Type</code> enum
 </h2>
 
->[!WARNING]
+>[!CAUTION]
 >trying to create blocks via `es.CreateMultiBlock()` that goes outside the list of default unlocked items, is count as <i>illegal</i> act of shoplifting or ADs skipper, and may result in VK account suspension when the MOD is published to VK official "Evertech Sandbox mods" server.
 
 ___
