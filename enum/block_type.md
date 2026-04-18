@@ -115,4 +115,4 @@ ___
 "VK1_A_Jet"
 ```
 
-a jet thruster block, also called "Jet24A"
+a jet thruster block, also called "Jet24A block"
