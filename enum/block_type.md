@@ -289,7 +289,7 @@ ___
 "Suspension"
 ```
 
-a spring coil block.
+a paintable spring coil block.
 
 >[!CAUTION]
 >this block shouldn't be created with `es.CreateMultiBlock()` , because it would become unbreakable.
@@ -310,7 +310,12 @@ ___
 "Piston"
 ```
 
-a piston block.
+a paintable piston block.
+
+the body, and rod could be painted independently.
+
+>[!IMPORTANT]
+>the rod can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
 
 ___
 
