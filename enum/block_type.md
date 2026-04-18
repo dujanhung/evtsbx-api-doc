@@ -356,6 +356,8 @@ a potato gun block.
 
 this block could destroy 2 block ( `GlassBlock` and `WoodenBlock` ) , and trigger the `Switch` and `Button` .
 
+player could hold this block as a handheld weapon.
+
 ___
 
 ```lua
