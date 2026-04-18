@@ -59,7 +59,7 @@ default
 <code>{0.0,0.0,0.0}</code>
 </td></tr></table>
 
-the player position in world coordinate. use XYZ convention.
+the player position in world coordinate.
 
 >[!TIP]
 >this one is useful for player teleportation, and player movement recorder.
@@ -99,7 +99,7 @@ default
 <code>{0.0,0.0,0.0}</code>
 </td></tr></table>
 
-the player camera position in world coordinate, including seat's camera. use XYZ convention.
+the player camera position in world coordinate, including seat's camera.
 
 >[!TIP]
 >this one is used for player tool blocks to follow player's camera, even though if player is crouching, or sitting in the seat.
@@ -144,7 +144,7 @@ default
 <code>es.Quaternion.Euler(0.0,0.0,0.0)</code>
 </td></tr></table>
 
-the player rotation in world coordinate. use XYZ convention.
+the player rotation in world coordinate.
 
 >[!TIP]
 >this one is used for MOD seat, to replace the built-in seat blocks.
@@ -186,4 +186,4 @@ default
 <code>es.Quaternion.Euler(0.0,0.0,0.0)</code>
 </td></tr></table>
 
-the player camera rotation in world coordinate. use XYZ convention.
+the player camera rotation in world coordinate.
