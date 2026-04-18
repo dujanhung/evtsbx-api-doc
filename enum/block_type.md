@@ -199,6 +199,26 @@ a decorative arc beam block.
 ___
 
 ```lua
+"WoodenBeamLine"
+```
+
+a decorative straight beam block.
+
+this block could float on water.
+
+___
+
+```lua
+"WoodenBeamArc"
+```
+
+a decorative arc beam block.
+
+this block could float on water.
+
+___
+
+```lua
 "Ladder"
 ```
 
