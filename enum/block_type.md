@@ -40,6 +40,14 @@ a paintable inner block.
 ___
 
 ```lua
+"GlassBlock"
+```
+
+a paintable glass block.
+
+___
+
+```lua
 "WoodenBlock"
 ```
 
