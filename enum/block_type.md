@@ -527,6 +527,9 @@ ___
 
 a camera block.
 
+>[!CAUTION]
+>in old versions, don't create too many of this blocks, because it would cause lag. this lag also works in multiplayer. players gave this lag the term "eyelag" .
+
 ___
 
 ```lua
