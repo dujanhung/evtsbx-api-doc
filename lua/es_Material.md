@@ -19,7 +19,7 @@ property description
 </h2>
 
 ```lua
-es.difTexture
+es.DifTexture
 ```
 
 <table><tr><td>
