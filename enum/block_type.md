@@ -108,3 +108,11 @@ ___
 ```
 
 a block that could do TTS.
+
+___
+
+```lua
+"VK1_A_Jet"
+```
+
+a jet thruster block, also called "Jet24"
