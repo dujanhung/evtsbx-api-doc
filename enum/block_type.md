@@ -115,7 +115,9 @@ ___
 "VK1_A_Jet"
 ```
 
-a jet thruster block, also called "A24 block"
+a jet thruster block.
+
+this block is also called "A24 block"
 
 ___
 
