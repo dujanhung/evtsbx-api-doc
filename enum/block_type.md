@@ -130,7 +130,7 @@ ___
 "SuspensionSecondBase"
 ```
 
-a decorative paintable coin block, internally used with `Suspension` .
+a decorative paintable coin block, internally created with `Suspension` .
 
 this block is also called "SSB block"
 
@@ -148,7 +148,7 @@ ___
 "PistonSecondBase"
 ```
 
-a decorative paintable coin block, internally used with `Piston` .
+a decorative paintable coin block, internally created with `Piston` .
 
 this block is also called "PSB block"
 
