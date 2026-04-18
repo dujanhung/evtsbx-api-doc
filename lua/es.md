@@ -159,7 +159,7 @@ called via physics rendering frame iteration, usually about 50 FPS.
 ___
 
 <h2>
-property description
+constructor
 </h2>
 
 ```lua
@@ -172,8 +172,6 @@ behavior
 |
 </td><td>
 <code>getter</code>
-<br>
-<code>protected</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
