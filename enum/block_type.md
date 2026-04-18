@@ -132,7 +132,7 @@ ___
 
 a decorative paintable coin block, being internally created by `Suspension` .
 
-this block is also called "SSB coin"
+this block is also called "SSB coin" .
 
 ___
 
@@ -150,7 +150,7 @@ ___
 
 a decorative paintable coin block, being internally created by `Piston` .
 
-this block is also called "PSB coin"
+this block is also called "PSB coin" .
 
 ___
 
