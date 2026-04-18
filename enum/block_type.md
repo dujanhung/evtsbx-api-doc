@@ -167,7 +167,7 @@ ___
 a paintable monster wheel block, 7x4.
 
 >[!IMPORTANT]
->this block can't be painted with `es.MultiBlock.Paint` . only player could paint it.
+>this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
 
 ___
 
