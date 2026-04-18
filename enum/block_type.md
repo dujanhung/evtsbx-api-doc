@@ -407,7 +407,7 @@ ___
 "OldTV"
 ```
 
-an old TV block.
+an old TV block, size 2x2 height 2.
 
 ___
 
@@ -431,7 +431,7 @@ ___
 "VK1_A_Jet"
 ```
 
-a paintable jet thruster block.
+a paintable jet thruster block, size 1x3 height 2.
 
 this block is also called "A24 block"
 
