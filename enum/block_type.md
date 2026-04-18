@@ -168,7 +168,7 @@ ___
 "Barrel"
 ```
 
-a barrel block.
+a decorative barrel block.
 
 this block could float on water.
 
