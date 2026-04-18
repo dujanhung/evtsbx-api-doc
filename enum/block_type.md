@@ -134,6 +134,9 @@ ___
 
 a paintable thin wheel block, 3x1.
 
+>[!IMPORTANT]
+>this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
+
 ___
 
 ```lua
