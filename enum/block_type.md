@@ -106,6 +106,17 @@ a golden inner block.
 ___
 
 ```lua
+"NoCollisionBlock"
+```
+
+a "no collision" block.
+
+>[!CAUTION]
+>this block is hard to access with MOD, because `es.TryGetMultiBlock()` can't see it. the only one way is to use `es.Root` .
+
+___
+
+```lua
 "Barrel"
 ```
 
