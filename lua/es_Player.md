@@ -227,3 +227,6 @@ default
 </td></tr></table>
 
 the player camera direction in world coordinate, including seat's camera.
+
+>[!TIP]
+>this one is used for player tool block.
