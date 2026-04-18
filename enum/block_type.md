@@ -53,7 +53,7 @@ ___
 
 a wooden block.
 
-this block could float on water.
+this block could float on water, and be destroyed by potato gun projectile.
 
 ___
 
