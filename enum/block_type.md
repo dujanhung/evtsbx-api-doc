@@ -460,6 +460,9 @@ ___
 
 a sign block (size 1x3 height 1), could read, write and store texts.
 
+>[!CAUTION]
+>don't use `<quad>` , because it would cause lag.
+
 ___
 
 ```lua
