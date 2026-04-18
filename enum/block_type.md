@@ -342,6 +342,23 @@ this block is also called "PSB coin" .
 ___
 
 ```lua
+"Bearing"
+```
+
+a paintable bearing block.
+
+>[!IMPORTANT]
+>this block can't be created with `es.CreateMultiBlock()` . only player could create it.
+
+>[!IMPORTANT]
+>this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
+
+>[!IMPORTANT]
+>this block can't be reversed with MOD, because there are no API entry about it. only player could reverse it.
+
+___
+
+```lua
 "Thruster"
 ```
 
