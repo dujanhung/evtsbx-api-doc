@@ -460,6 +460,27 @@ player could hold this block as a handheld weapon.
 ___
 
 ```lua
+"HeadLight"
+```
+
+a paintable headlight block.
+
+___
+
+```lua
+"LightFrame"
+```
+
+a paintable double light block.
+
+only the light beam is paintable, not the body.
+
+>[!IMPORTANT]
+>this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
+
+___
+
+```lua
 "Sign"
 ```
 
