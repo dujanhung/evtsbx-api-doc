@@ -104,6 +104,22 @@ a golden inner block.
 ___
 
 ```lua
+"Camera"
+```
+
+a camera block.
+
+___
+
+```lua
+"TV"
+```
+
+a TV block.
+
+___
+
+```lua
 "Shield"
 ```
 
