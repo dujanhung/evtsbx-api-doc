@@ -415,7 +415,7 @@ ___
 "Shield"
 ```
 
-a block that could generate a big cyan virtual shield.
+a paintable block that could generate a big cyan virtual shield.
 
 ___
 
@@ -423,7 +423,7 @@ ___
 "SpeechBlock"
 ```
 
-a block that could do TTS.
+a paintable block that could do TTS.
 
 ___
 
@@ -431,7 +431,7 @@ ___
 "VK1_A_Jet"
 ```
 
-a jet thruster block.
+a paintable jet thruster block.
 
 this block is also called "A24 block"
 
