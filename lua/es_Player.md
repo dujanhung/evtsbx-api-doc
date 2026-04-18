@@ -264,3 +264,6 @@ default
 </td></tr></table>
 
 detect player's "crouch" button state.
+
+>[!TIP]
+>this one is used for player crouch sensor, and access to a crouch-bonus button.
