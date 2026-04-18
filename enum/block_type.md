@@ -116,6 +116,30 @@ this block could float on water.
 ___
 
 ```lua
+"Ladder"
+```
+
+a ladder block.
+
+___
+
+```lua
+"RailLines"
+```
+
+a straight rail block.
+
+___
+
+```lua
+"RailCross"
+```
+
+a crossing rail block.
+
+___
+
+```lua
 "DriverSeat"
 ```
 
