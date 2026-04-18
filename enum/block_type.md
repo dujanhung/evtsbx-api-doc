@@ -192,6 +192,8 @@ ___
 
 a decorative flank block.
 
+this block could fit with `RailLines` , but can't cross the `RailCross` .
+
 ___
 
 ```lua
@@ -238,7 +240,7 @@ a decorative ladder block.
 
 player could climb on this block.
 
-this block could be used for crossing the `RailCross` .
+this block could cross the `RailCross` .
 
 >[!CAUTION]
 >don't destroy this block while player is climbing on it. otherwise, player would get stuck in mid-air.
