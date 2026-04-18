@@ -341,6 +341,32 @@ a paintable thruster block, size 2x2 height 3.
 ___
 
 ```lua
+"Engine"
+```
+
+a paintable engine block, size 2x2 height 2.
+
+this block could spin the bearing.
+
+>[!IMPORTANT]
+>this block can't be edited with MOD, because there are no API entry about it. only player could edit it.
+
+___
+
+```lua
+"Controller"
+```
+
+a bearing controller block, size 1x2 height 1.
+
+this block could set up bearing rotation sequences, change speed, and use loop mode.
+
+>[!IMPORTANT]
+>this block can't be edited with MOD, because there are no API entry about it. only player could edit it.
+
+___
+
+```lua
 "Cannon"
 ```
 
