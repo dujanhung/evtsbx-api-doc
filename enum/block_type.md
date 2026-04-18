@@ -45,6 +45,7 @@ ___
 
 a paintable glass block.
 
+this block could be destroyed by potato gun projectile.
 ___
 
 ```lua
