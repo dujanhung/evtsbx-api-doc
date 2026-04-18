@@ -128,6 +128,14 @@ a police beacon block.
 ___
 
 ```lua
+"StrobleLights"
+```
+
+a stroble lights block, has 6 lights that could paint independently.
+
+___
+
+```lua
 "SciFiCab"
 ```
 
