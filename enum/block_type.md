@@ -33,3 +33,27 @@ ___
 ```
 
 a paintable inner block.
+
+___
+
+```lua
+"WoodenBlock"
+```
+
+a wooden block.
+
+___
+
+```lua
+"MetalBlock"
+```
+
+a metal block.
+
+___
+
+```lua
+"StoneBlock"
+```
+
+a stone block.
