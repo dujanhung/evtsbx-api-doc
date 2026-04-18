@@ -44,7 +44,7 @@ type
 </td><td>
 |
 </td><td>
-<code>Array(float)</code>
+<code>{float,float,float}</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -84,7 +84,7 @@ type
 </td><td>
 |
 </td><td>
-<code>Array(float)</code>
+<code>{float,float,float}</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
