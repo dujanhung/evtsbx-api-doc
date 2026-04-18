@@ -53,6 +53,8 @@ ___
 
 a wooden block.
 
+this block could float on water.
+
 ___
 
 ```lua
@@ -100,6 +102,16 @@ ___
 ```
 
 a golden inner block.
+
+___
+
+```lua
+"Barrel"
+```
+
+a barrel block.
+
+this block could float on water.
 
 ___
 
