@@ -47,7 +47,7 @@ default
 </td><td>
 |
 </td><td>
-<code>depends on JSON content</code>
+depends on JSON content
 </td></tr></table>
 
 a
