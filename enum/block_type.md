@@ -574,6 +574,17 @@ a decorative paintable glass cab block, looks like crane's cab.
 ___
 
 ```lua
+"Toilet"
+```
+
+a toilet block, could open and close.
+
+>[!IMPORTANT]
+>this block can't be interacted with MOD, because there are no API entry about it. only player could interact with it.
+
+___
+
+```lua
 "Tile"
 ```
 
