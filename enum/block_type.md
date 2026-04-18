@@ -57,3 +57,11 @@ ___
 ```
 
 a stone block.
+
+___
+
+```lua
+"GoldenBlock"
+```
+
+a golden block.
