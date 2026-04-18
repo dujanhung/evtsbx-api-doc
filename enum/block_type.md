@@ -132,7 +132,7 @@ ___
 
 a decorative paintable coin block.
 
-this block is also called "SSB coin block"
+this block is also called "SSB block"
 
 ___
 
