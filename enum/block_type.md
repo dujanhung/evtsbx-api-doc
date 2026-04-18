@@ -121,6 +121,11 @@ ___
 
 a ladder block.
 
+player could climb on this block.
+
+>[!CAUTION]
+>don't destroy this block while player is climbing on it. otherwise, player would get stuck in mid-air.
+
 ___
 
 ```lua
