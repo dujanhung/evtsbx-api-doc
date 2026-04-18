@@ -48,6 +48,8 @@ type
 <code>PLAYERAPI</code>
 </td></tr></table>
 
+access to an "Evertech Sandbox" player.
+
 ___
 
 <h2>
