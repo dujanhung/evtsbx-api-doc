@@ -100,3 +100,11 @@ ___
 ```
 
 a block that generate a big cyan virtual shield.
+
+___
+
+```lua
+"SpeechBlock"
+```
+
+a block that do text-to-speech.
