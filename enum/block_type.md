@@ -124,3 +124,27 @@ ___
 ```
 
 a decorative sci-fi cab block.
+
+___
+
+```lua
+"GlassCab1"
+```
+
+a decorative glass cab block, looks like sunglasses.
+
+___
+
+```lua
+"GlassCab2"
+```
+
+a decorative glass cab block, looks like jet's cab.
+
+___
+
+```lua
+"GlassCab3"
+```
+
+a decorative glass cab block, looks like crane's cab.
