@@ -156,7 +156,7 @@ ___
 "HugeWheel"
 ```
 
-a huge wheel block, 7x3.
+a paintable huge wheel block, 7x3.
 
 ___
 
@@ -164,7 +164,10 @@ ___
 "MonsterWheel"
 ```
 
-a monster wheel block, 7x4.
+a paintable monster wheel block, 7x4.
+
+>[!IMPORTANT]
+>this block can't be painted with `es.MultiBlock.Paint` . only player could paint it.
 
 ___
 
