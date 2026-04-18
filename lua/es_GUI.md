@@ -284,3 +284,6 @@ change button icon.
 
 >[!IMPORTANT]
 >big icons are <i>technically</i> possible. however, it would increase memory usage, and cause lag.
+
+>[!IMPORTANT]
+>only one icon could be shown at same time. if there are multiple of them called at a same time, there would be a cooldown of `0.5` seconds.
