@@ -116,6 +116,14 @@ this block could float on water.
 ___
 
 ```lua
+"Flank"
+```
+
+a decorative flank block.
+
+___
+
+```lua
 "Ladder"
 ```
 
