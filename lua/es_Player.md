@@ -188,6 +188,12 @@ default
 
 the player camera rotation in world coordinate, including seat's camera.
 
+>[!TIP]
+>this one is used for player recorder.
+
+>[!CAUTION]
+>don't use this one to force "drunk" player, as it would cause health risks.
+
 ___
 
 ```lua
