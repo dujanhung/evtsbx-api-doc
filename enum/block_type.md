@@ -183,6 +183,22 @@ a decorative flank block.
 ___
 
 ```lua
+"BeamLine"
+```
+
+a decorative straight beam block.
+
+___
+
+```lua
+"BeamArc"
+```
+
+a decorative arc beam block.
+
+___
+
+```lua
 "Ladder"
 ```
 
