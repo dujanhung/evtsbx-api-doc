@@ -155,7 +155,7 @@ ___
 "GlassCab1"
 ```
 
-a decorative glass cab block, looks like sunglasses.
+a decorative paintable glass cab block, looks like sunglasses.
 
 ___
 
@@ -163,7 +163,7 @@ ___
 "GlassCab2"
 ```
 
-a decorative glass cab block, looks like jet's cab.
+a decorative paintable glass cab block, looks like jet's cab.
 
 ___
 
@@ -171,4 +171,4 @@ ___
 "GlassCab3"
 ```
 
-a decorative glass cab block, looks like crane's cab.
+a decorative paintable glass cab block, looks like crane's cab.
