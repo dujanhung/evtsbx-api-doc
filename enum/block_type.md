@@ -358,6 +358,9 @@ this block could destroy 2 block ( `GlassBlock` and `WoodenBlock` ) , and trigge
 
 player could hold this block as a handheld weapon.
 
+>[!NOTE]
+>in multiplayer, when edit mode is disabled, player can't use this item.
+
 ___
 
 ```lua
