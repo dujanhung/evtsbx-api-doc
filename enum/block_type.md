@@ -107,4 +107,4 @@ ___
 "SpeechBlock"
 ```
 
-a block that do text-to-speech.
+a block that do TTS.
