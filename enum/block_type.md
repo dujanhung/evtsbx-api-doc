@@ -451,7 +451,7 @@ ___
 "StrobleLights"
 ```
 
-a stroble lights block, size 1x6 height 1.
+a paintable stroble lights block, size 1x6 height 1.
 
 the body and all 6 lights could be painted independently.
 
@@ -464,7 +464,7 @@ ___
 "SciFiCab"
 ```
 
-a decorative sci-fi cab block.
+a decorative paintable sci-fi cab block.
 
 the glass and body could be painted independently.
 
