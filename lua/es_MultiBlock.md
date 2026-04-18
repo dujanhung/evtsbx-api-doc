@@ -10,7 +10,7 @@ inherit
 <code>es</code>
 </td></tr></table>
 
-the first block.
+the group of blocks.
 
 ___
 
