@@ -11,3 +11,30 @@ inherit
 </td></tr></table>
 
 the first block.
+
+___
+
+<h2>
+constructor
+</h2>
+
+```lua
+es.MultiBlock
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>getter</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>MULTIBLOCKAPI</code>
+</td></tr></table>
