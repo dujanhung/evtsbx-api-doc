@@ -415,7 +415,7 @@ ___
 "Shield"
 ```
 
-a paintable block that could generate a big cyan virtual shield.
+a paintable block (size 4x4 height 1) that could generate a big cyan virtual shield.
 
 ___
 
@@ -451,9 +451,12 @@ ___
 "StrobleLights"
 ```
 
-a stroble lights block.
+a stroble lights block, size 1x6 height 1.
 
 the body and all 6 lights could be painted independently.
+
+>[!IMPORTANT]
+>the lights can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
 
 ___
 
@@ -464,6 +467,9 @@ ___
 a decorative sci-fi cab block.
 
 the glass and body could be painted independently.
+
+>[!IMPORTANT]
+>the glass can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
 
 ___
 
