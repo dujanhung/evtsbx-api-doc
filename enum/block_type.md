@@ -570,3 +570,59 @@ a decorative paintable glass cab block, looks like crane's cab.
 
 >[!TIP]
 >this block should be used in the "2017's coin" event, to trap the coin.
+
+___
+
+```lua
+"Tile"
+```
+
+a small decorative paintable square tile block.
+
+>[!IMPORTANT]
+>this block can't be created with `es.CreateMultiBlock()` . only player could create it.
+
+>[!IMPORTANT]
+>this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
+
+___
+
+```lua
+"CubeTile"
+```
+
+a small decorative paintable cube tile block.
+
+>[!IMPORTANT]
+>this block can't be created with `es.CreateMultiBlock()` . only player could create it.
+
+>[!IMPORTANT]
+>this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
+
+___
+
+```lua
+"TriangleTile"
+```
+
+a small decorative paintable triangle tile block.
+
+>[!IMPORTANT]
+>this block can't be created with `es.CreateMultiBlock()` . only player could create it.
+
+>[!IMPORTANT]
+>this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
+
+___
+
+```lua
+"Antenna"
+```
+
+a small decorative paintable antenna block, could react to movement.
+
+>[!IMPORTANT]
+>this block can't be created with `es.CreateMultiBlock()` . only player could create it.
+
+>[!IMPORTANT]
+>this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
