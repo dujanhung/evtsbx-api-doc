@@ -3,7 +3,7 @@
 </h2>
 
 >[!CAUTION]
->trying to create blocks via `es.CreateMultiBlock()` that goes outside the list of default unlocked items, is count as <i>illegal</i> act of shoplifting or ADs prevention, and may result in VK account suspension when the MOD is published to VK official "Evertech Sandbox mods" server.
+>trying to create blocks via `es.CreateMultiBlock()` that goes outside the list of default unlocked items, is count as <i>illegal</i> act of shoplifting or ADs prevention.
 
 ___
 
