@@ -399,6 +399,9 @@ a mortar block.
 
 this block could destroy other blocks.
 
+>[!IMPORTANT]
+>this block can't be edited with MOD, because there are no API entry about it. only player could edit it.
+
 ___
 
 ```lua
@@ -410,6 +413,9 @@ a marine mortar block.
 this block could destroy other blocks.
 
 the projectile could float on water.
+
+>[!IMPORTANT]
+>this block can't be edited with MOD, because there are no API entry about it. only player could edit it.
 
 ___
 
@@ -458,6 +464,9 @@ ___
 
 a paintable block (size 4x4 height 1) that could generate a big cyan virtual shield.
 
+>[!IMPORTANT]
+>this block can't be edited with MOD, because there are no API entry about it. only player could edit it.
+
 ___
 
 ```lua
@@ -465,6 +474,9 @@ ___
 ```
 
 a paintable block that could do TTS.
+
+>[!IMPORTANT]
+>this block can't be edited with MOD, because there are no API entry about it. only player could edit it.
 
 ___
 
@@ -475,6 +487,9 @@ ___
 a paintable jet thruster block, size 1x3 height 2.
 
 this block is also called "A24 block"
+
+>[!IMPORTANT]
+>this block can't be edited with MOD, because there are no API entry about it. only player could edit it.
 
 ___
 
