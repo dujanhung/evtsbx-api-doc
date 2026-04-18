@@ -4,6 +4,9 @@
 
 a full list of block types from "Evertech Sandbox" in Lua.
 
+>[!NOTE]
+>unless otherwise noted, the word "paintable" means `es.MultiBlock.Paint()` would works.
+
 >[!CAUTION]
 >when using `es.CreateMultiBlock()` , don't create blocks that goes outside <b><a>the list of default unlocked items</a></b>, because it's listed as <i>illegal</i> acts of shoplifting or ADs prevention.
 
