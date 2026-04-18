@@ -145,6 +145,16 @@ a piston block.
 ___
 
 ```lua
+"PistonSecondBase"
+```
+
+a decorative paintable coin block, internally used with `Piston` .
+
+this block is also called "PSB block"
+
+___
+
+```lua
 "Cannon"
 ```
 
