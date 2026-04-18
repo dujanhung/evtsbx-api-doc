@@ -64,6 +64,9 @@ ___
 
 a metal block.
 
+>[!NOTE]
+>due to block units in "Evertech Sandbox" don't have custom mass, this block's mass is equal to others.
+
 ___
 
 ```lua
