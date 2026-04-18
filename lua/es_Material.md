@@ -159,3 +159,48 @@ depends on <code>info.JSON</code> content
 </td></tr></table>
 
 change mesh.
+
+___
+
+```lua
+es.Scale
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>getter</code>
+<br>
+<code>setter</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+default
+</td><td>
+|
+</td><td>
+<code>1.0</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+range
+</td><td>
+|
+</td><td>
+more than <code>0.0</code>
+</td></tr></table>
+
+change mesh scale.
