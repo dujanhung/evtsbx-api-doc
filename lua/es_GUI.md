@@ -274,7 +274,7 @@ description
 </td><td>
 |
 </td><td>
-image file path.
+image file path
 </td></tr></table>
 
 change button icon.
