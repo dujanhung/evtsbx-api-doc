@@ -126,12 +126,22 @@ this block could destroy other blocks.
 ___
 
 ```lua
+"Mortar"
+```
+
+a mortar block.
+
+this block could destroy other blocks.
+
+___
+
+```lua
 "PotatoGun"
 ```
 
 a potato gun block.
 
-this block could destroy 2 block ( `GlassBlock` and `WoodenBlock` ) , and trigger the switch and button.
+this block could destroy 2 block ( `GlassBlock` and `WoodenBlock` ) , and trigger the `Switch` and `Button` .
 
 ___
 
