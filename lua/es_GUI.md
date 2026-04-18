@@ -10,7 +10,7 @@ expands
 <code>es</code>
 </td></tr></table>
 
-a helper class to interact with GUI.
+a helper class to interact with MOD GUI.
 
 >[!IMPORTANT]
 >"Evertech Sandbox" support `PNG` and `JPG` files. other files would fire an error.
@@ -22,7 +22,7 @@ a helper class to interact with GUI.
 >"Evertech Sandbox" don't support multiple buttons, pinned button, set button transform and set button color.
 
 >[!TIP]
->to interact with the "place" button, you should use another MOD block whose script use `es.TryGetMultiBlock()` , `es.MultiBlock.ModBlock.send()` and `es.MultiBlock.DestroyFast()` .
+>to simulate multiple buttons via player's "place" button, you should use another MOD block whose script use `es.TryGetMultiBlock()` , `es.MultiBlock.ModBlock.send()` and `es.MultiBlock.DestroyFast()` .
 
 ___
 
