@@ -99,7 +99,7 @@ ___
 "Shield"
 ```
 
-a block that generate a big cyan virtual shield.
+a block that could generate a big cyan virtual shield.
 
 ___
 
@@ -107,4 +107,4 @@ ___
 "SpeechBlock"
 ```
 
-a block that do TTS.
+a block that could do TTS.
