@@ -7,7 +7,7 @@ inherit
 </td><td>
 |
 </td><td>
-<code>Object</code>
+<code>userdata</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
