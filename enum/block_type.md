@@ -116,6 +116,25 @@ this block could float on water.
 ___
 
 ```lua
+"Suspension"
+```
+
+a spring coil block.
+
+>[!CAUTION]
+>this block shouldn't be created with `es.CreateMultiBlock()` , because it would become unbreakable.
+
+___
+
+```lua
+"Piston"
+```
+
+a piston block.
+
+___
+
+```lua
 "Cannon"
 ```
 
