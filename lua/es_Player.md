@@ -220,4 +220,4 @@ default
 <code>{0.0,0.0,0.0}</code>
 </td></tr></table>
 
-the player camera direction, including seat's camera.
+the player camera direction in world coordinate, including seat's camera.
