@@ -132,6 +132,8 @@ ___
 
 a decorative paintable coin block.
 
+this block is also called "SSB coin block"
+
 ___
 
 ```lua
