@@ -337,6 +337,16 @@ this block could destroy other blocks.
 ___
 
 ```lua
+"Mortar2"
+```
+
+a marine mortar block.
+
+this block could destroy other blocks.
+
+___
+
+```lua
 "PotatoGun"
 ```
 
