@@ -17,3 +17,19 @@ ___
 ```
 
 a paintable slope block.
+
+___
+
+```lua
+"Corner"
+```
+
+a paintable corner block.
+
+___
+
+```lua
+"Inner"
+```
+
+a paintable inner block.
