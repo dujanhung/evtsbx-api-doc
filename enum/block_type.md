@@ -67,7 +67,7 @@ ___
 a golden block.
 
 >[!CAUTION]
->trying to create this block via `es.CreateMultiBlock()` without inventory item unlocks is count as <i>illegal</i> act of fraud, and may result in VK account suspension when the MOD is published to VK official "Evertech Sandbox mods" server.
+>trying to create this block via `es.CreateMultiBlock()` without inventory item prior unlocks, is count as <i>illegal</i> act of fraud, and may result in VK account suspension when the MOD is published to VK official "Evertech Sandbox mods" server.
 
 ___
 
