@@ -120,7 +120,23 @@ ___
 "Wheel"
 ```
 
-a regular wheel block.
+a regular wheel block, 3x1.
+
+___
+
+```lua
+"WheelThin"
+```
+
+a paintable thin wheel block, 3x1.
+
+___
+
+```lua
+"BRTWheel"
+```
+
+a paintable BRT wheel block, 3x1.
 
 ___
 
