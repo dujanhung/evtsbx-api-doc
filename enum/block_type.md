@@ -275,6 +275,9 @@ ___
 
 a paintable driver's seat block.
 
+>[!IMPORTANT]
+>this block can't be interacted with MOD, because there are no API entry about it. only player could interact with it.
+
 ___
 
 ```lua
@@ -282,6 +285,9 @@ ___
 ```
 
 a paintable passenger's seat block.
+
+>[!IMPORTANT]
+>this block can't be interacted with MOD, because there are no API entry about it. only player could interact with it.
 
 ___
 
@@ -293,6 +299,9 @@ a paintable spring coil block.
 
 >[!CAUTION]
 >this block shouldn't be created with `es.CreateMultiBlock()` , because it would become unbreakable.
+
+>[!IMPORTANT]
+>this block can't be edited with MOD, because there are no API entry about it. only player could edit it.
 
 ___
 
@@ -317,6 +326,9 @@ the body, and rod could be painted independently.
 >[!IMPORTANT]
 >the rod can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
 
+>[!IMPORTANT]
+>this block can't be edited with MOD, because there are no API entry about it. only player could edit it.
+
 ___
 
 ```lua
@@ -337,6 +349,9 @@ a paintable thruster block, size 2x2 height 3.
 
 >[!IMPORTANT]
 >this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
+
+>[!IMPORTANT]
+>this block can't be edited with MOD, because there are no API entry about it. only player could edit it.
 
 ___
 
