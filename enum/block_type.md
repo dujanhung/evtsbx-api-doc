@@ -325,6 +325,17 @@ this block is also called "PSB coin" .
 ___
 
 ```lua
+"Thruster"
+```
+
+a paintable thruster block, size 2x2 height 3.
+
+>[!IMPORTANT]
+>this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
+
+___
+
+```lua
 "Cannon"
 ```
 
