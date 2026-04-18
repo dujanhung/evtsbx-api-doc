@@ -3,7 +3,7 @@
 </h2>
 
 >[!CAUTION]
->trying to create blocks via `es.CreateMultiBlock()` that goes outside <b>the list of default unlocked items</b>, is count as <i>illegal</i> act of shoplifting or ADs prevention.
+>don't create blocks via `es.CreateMultiBlock()` that goes outside <b>the list of default unlocked items</b>, because it's count as <i>illegal</i> act of shoplifting or ADs prevention.
 
 ___
 
