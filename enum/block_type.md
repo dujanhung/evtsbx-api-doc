@@ -116,6 +116,22 @@ this block could float on water.
 ___
 
 ```lua
+"DriverSeat"
+```
+
+a driver seat block.
+
+___
+
+```lua
+"PassengerSeat"
+```
+
+a passenger seat block.
+
+___
+
+```lua
 "Suspension"
 ```
 
