@@ -337,7 +337,7 @@ this block could destroy other blocks.
 ___
 
 ```lua
-"Mortar2"
+"MortarMarine"
 ```
 
 a marine mortar block.
