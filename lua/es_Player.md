@@ -186,4 +186,4 @@ default
 <code>es.Quaternion.Euler(0.0,0.0,0.0)</code>
 </td></tr></table>
 
-the player camera rotation in world coordinate.
+the player camera rotation in world coordinate, including seat's camera.
