@@ -99,4 +99,4 @@ ___
 "Shield"
 ```
 
-a shield block.
+a block that generate a big cyan virtual shield.
