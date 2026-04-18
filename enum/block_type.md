@@ -476,7 +476,7 @@ a paintable double light block.
 only the light beam is paintable, not the body.
 
 >[!IMPORTANT]
->this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
+>the light beam can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
 
 ___
 
