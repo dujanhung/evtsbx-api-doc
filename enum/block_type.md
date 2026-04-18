@@ -65,3 +65,27 @@ ___
 ```
 
 a golden block.
+
+___
+
+```lua
+"GoldenEdge"
+```
+
+a golden edge block.
+
+___
+
+```lua
+"GoldenCorner"
+```
+
+a golden corner block.
+
+___
+
+```lua
+"GoldenInner"
+```
+
+a golden inner block.
