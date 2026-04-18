@@ -301,7 +301,7 @@ a paintable spring coil block.
 >this block shouldn't be created with `es.CreateMultiBlock()` , because it would become unbreakable.
 
 >[!CAUTION]
->in old versions, don't detach the group of 3 of this block at a same time, because it would cause crash. this crash also works in multiplayer, and always target to the host. players gave this crash the term "3-coils bomb" .
+>in old versions, don't detach the group of 3 of this block at a same time, because it would cause crash. this crash also works in multiplayer, and always target to the host. players gave this crash the term "three-coils bomb" .
 
 >[!IMPORTANT]
 >this block can't be edited with MOD, because there are no API entry about it. only player could edit it.
