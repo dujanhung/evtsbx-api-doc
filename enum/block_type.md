@@ -135,7 +135,9 @@ ___
 "StrobleLights"
 ```
 
-a stroble lights block, has 6 lights that could paint independently.
+a stroble lights block.
+
+the body and all 6 lights could be painted independently.
 
 ___
 
@@ -144,6 +146,8 @@ ___
 ```
 
 a decorative sci-fi cab block.
+
+the glass and body could be painted independently.
 
 ___
 
