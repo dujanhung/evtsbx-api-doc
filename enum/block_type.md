@@ -116,3 +116,11 @@ ___
 ```
 
 a jet thruster block, also called "Jet24A block"
+
+___
+
+```lua
+"SciFiCab"
+```
+
+a decorative sci-fi cab block.
