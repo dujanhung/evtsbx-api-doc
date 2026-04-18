@@ -456,7 +456,7 @@ a stroble lights block, size 1x6 height 1.
 the body and all 6 lights could be painted independently.
 
 >[!IMPORTANT]
->the lights can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
+>the light can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
 
 ___
 
