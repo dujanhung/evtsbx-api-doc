@@ -66,6 +66,9 @@ ___
 
 a golden block.
 
+>[!CAUTION]
+>trying to create this block via `es.CreateMultiBlock()` without inventory unlocks is illegal.
+
 ___
 
 ```lua
