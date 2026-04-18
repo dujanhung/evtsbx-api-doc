@@ -464,3 +464,6 @@ ___
 ```
 
 a decorative paintable glass cab block, looks like crane's cab.
+
+>[!TIP]
+>this block should be used in the easter egg event, to trap the coin.
