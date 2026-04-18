@@ -116,6 +116,26 @@ this block could float on water.
 ___
 
 ```lua
+"Cannon"
+```
+
+a cannon block.
+
+this block could destroy other blocks.
+
+___
+
+```lua
+"PotatoGun"
+```
+
+a potato gun block.
+
+this block could destroy 2 block ( `GlassBlock` and `WoodenBlock` ) , and trigger the switch and button.
+
+___
+
+```lua
 "Camera"
 ```
 
