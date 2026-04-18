@@ -24,6 +24,33 @@ a helper class to interact with "Evertech Sandbox" player.
 ___
 
 <h2>
+constructor
+</h2>
+
+```lua
+es.Player
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>getter</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>PLAYERAPI</code>
+</td></tr></table>
+
+___
+
+<h2>
 property description
 </h2>
 
