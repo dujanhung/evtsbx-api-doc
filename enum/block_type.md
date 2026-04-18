@@ -455,6 +455,33 @@ player could hold this block as a handheld weapon.
 ___
 
 ```lua
+"Sign"
+```
+
+a sign block (size 1x3 height 1), could read, write and store texts.
+
+___
+
+```lua
+"Switch"
+```
+
+a paintable switch block.
+
+___
+
+```lua
+"Button"
+```
+
+a paintable button block.
+
+>[!IMPORTANT]
+>this block can't be interacted with MOD, because there are no API entry about it. player or `PotatoGun` projectile could interact with it.
+
+___
+
+```lua
 "Timer"
 ```
 
