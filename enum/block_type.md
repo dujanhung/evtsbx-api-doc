@@ -452,6 +452,73 @@ player could hold this block as a handheld weapon.
 ___
 
 ```lua
+"Timer"
+```
+
+a timer block.
+
+>[!IMPORTANT]
+>this block can't be edited with MOD, because there are no API entry about it. only player could edit it.
+
+___
+
+```lua
+"AND"
+```
+
+an AND gate.
+
+___
+
+```lua
+"OR"
+```
+
+an OR gate.
+
+___
+
+```lua
+"XOR"
+```
+
+a XOR gate.
+
+___
+
+```lua
+"NAND"
+```
+
+a NAND gate.
+
+___
+
+```lua
+"NOR"
+```
+
+a NOR gate.
+
+___
+
+```lua
+"NXOR"
+```
+
+a NXOR gate.
+
+___
+
+```lua
+"XORFeedback"
+```
+
+a XOR gate with feedback.
+
+___
+
+```lua
 "Camera"
 ```
 
