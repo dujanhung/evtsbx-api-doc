@@ -273,7 +273,7 @@ ___
 "DriverSeat"
 ```
 
-a driver seat block.
+a paintable driver seat block.
 
 ___
 
@@ -281,7 +281,7 @@ ___
 "PassengerSeat"
 ```
 
-a passenger seat block.
+a paintable passenger seat block.
 
 ___
 
