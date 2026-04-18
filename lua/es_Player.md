@@ -12,6 +12,9 @@ inherit
 
 an "Evertech Sandbox" player.
 
+>[!NOTE]
+>unless otherwise noted, "Evertech Sandbox" use XYZ convention.
+
 >[!IMPORTANT]
 >"Evertech Sandbox" API don't support multiplayer, due to security reasons.
 
