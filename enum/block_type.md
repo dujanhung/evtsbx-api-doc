@@ -117,6 +117,14 @@ a "no collision" block.
 ___
 
 ```lua
+"Wheel"
+```
+
+a regular wheel block.
+
+___
+
+```lua
 "Barrel"
 ```
 
