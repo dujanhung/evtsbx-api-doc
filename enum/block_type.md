@@ -92,3 +92,11 @@ ___
 ```
 
 a golden inner block.
+
+___
+
+```lua
+"Shield"
+```
+
+a shield block.
