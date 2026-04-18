@@ -230,3 +230,37 @@ the player camera direction in world coordinate, including seat's camera.
 
 >[!TIP]
 >this one is used for player tool block.
+
+___
+
+```lua
+es.Player.IsCrouched
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>getter</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>bool</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+default
+</td><td>
+|
+</td><td>
+<code>false</code>
+</td></tr></table>
+
+detect player's "crouch" button state.
