@@ -120,6 +120,14 @@ a jet thruster block, also called "A24 block"
 ___
 
 ```lua
+"Beacon"
+```
+
+a police beacon block.
+
+___
+
+```lua
 "SciFiCab"
 ```
 
