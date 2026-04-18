@@ -10,7 +10,7 @@ inherit
 <code>es</code>
 </td></tr></table>
 
-interact with "Evertech Sandbox" player.
+an "Evertech Sandbox" player.
 
 >[!NOTE]
 >unless otherwise noted, "Evertech Sandbox" use XYZ convention.
