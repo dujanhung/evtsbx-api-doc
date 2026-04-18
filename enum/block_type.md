@@ -451,7 +451,7 @@ ___
 "StrobleLights"
 ```
 
-a paintable stroble lights block, size 1x6 height 1.
+a paintable 6-lights stroble lights block, size 1x6 height 1.
 
 the body and all 6 lights could be painted independently.
 
