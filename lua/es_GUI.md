@@ -217,7 +217,7 @@ description
 </td><td>
 |
 </td><td>
-button text.
+button text
 </td></tr></table>
 
 change button text.
