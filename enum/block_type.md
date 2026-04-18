@@ -169,6 +169,14 @@ a monster wheel block, 7x4.
 ___
 
 ```lua
+"SoccerBall"
+```
+
+a decorative soccer ball block.
+
+___
+
+```lua
 "Barrel"
 ```
 
