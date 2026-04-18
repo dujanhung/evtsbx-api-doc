@@ -192,7 +192,7 @@ the player camera rotation in world coordinate, including seat's camera.
 >this one is used for player tool block, and player recorder.
 
 >[!CAUTION]
->don't use this one to force "stare" player, as it would cause health risks.
+>don't use this one to force "stare" player other than recording purposes, as it would cause health risks.
 
 ___
 
