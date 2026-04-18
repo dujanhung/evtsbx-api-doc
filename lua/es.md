@@ -185,4 +185,4 @@ type
 <code>ESAPI</code>
 </td></tr></table>
 
-get current `ESAPI` instance.
+access to "Evertech Sandbox" instance.
