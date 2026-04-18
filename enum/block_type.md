@@ -130,7 +130,7 @@ ___
 "SuspensionSecondBase"
 ```
 
-a decorative paintable coin block.
+a decorative paintable coin block, internally used for `Suspension` .
 
 this block is also called "SSB block"
 
