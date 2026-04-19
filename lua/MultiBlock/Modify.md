@@ -21,7 +21,7 @@ property description
 </h2>
 
 ```lua
-es.MultiBlock.isPaintable
+es.MultiBlock.IsPaintable
 ```
 
 <table><tr><td>
@@ -241,4 +241,4 @@ RGB color
 paint this block.
 
 >[!IMPORTANT]
->this block should be paintable. otherwise, it would fire an error. look up <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a> .
+>this block should be paintable (eg. `es.MultiBlock.IsPaintable` returns `True` ) . otherwise, it would fire an error. look up <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a> .
