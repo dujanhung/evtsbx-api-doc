@@ -207,3 +207,35 @@ value type
 </td></tr></table>
 
 normal texture repeate scale.
+
+___
+
+```json
+"smoothness"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td></tr></table>
+
+metallic texture smoothness.
+
+___
+
+```json
+"scale"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td></tr></table>
+
+3D mesh scale.
