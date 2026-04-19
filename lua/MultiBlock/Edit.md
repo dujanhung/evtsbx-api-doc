@@ -42,6 +42,8 @@ mandatory
 <code>relPos</code>
 </td><td>
 <code>relRot</code>
+</td><td>
+<code>modUuid</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -57,6 +59,8 @@ type
 <code>{float,float,float}</code>
 </td><td>
 <code>es.Quaternion.Euler(float,float,float)</code>
+</td><td>
+<code>String</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -72,4 +76,6 @@ block's root
 block's relative position, use XYZ convention, use <code>0.5</code> unit
 </td><td>
 block's relative rotation, use XYZ convention
+</td><td>
+MOD block uuid
 </td></tr></table>
