@@ -44,3 +44,19 @@ value type
 </td></tr></table>
 
 MOD block UUID, must be unique.
+
+___
+
+```json
+"name"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+MOD block name.
