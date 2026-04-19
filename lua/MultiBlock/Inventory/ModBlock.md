@@ -92,3 +92,5 @@ method description
 ```lua
 es.MultiBlock.ModBlock.send(message)
 ```
+
+send variable to another MOD block.
