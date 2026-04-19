@@ -7,7 +7,7 @@ inherit
 </td><td>
 |
 </td><td>
-<code>es</code>
+<code>es.MultiBlock</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
