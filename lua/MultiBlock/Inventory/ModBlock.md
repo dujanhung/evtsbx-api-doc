@@ -53,3 +53,13 @@ type
 </td></tr></table>
 
 get MOD block instance.
+
+___
+
+<h2>
+method description
+</h2>
+
+```lua
+es.MultiBlock.ModBlock.send(message)
+```
