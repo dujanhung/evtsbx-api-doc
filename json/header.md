@@ -9,7 +9,9 @@ MOD header
  "author":"user"
  "version":"1.0"
  "preview":"image.png"
- "simpleblocks":{}
+ "simpleblocks":[
+  
+ ]
 }
 ```
 
