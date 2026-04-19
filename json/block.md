@@ -175,3 +175,19 @@ value type
 </td></tr></table>
 
 Lua script filepath.
+
+___
+
+```json
+"collider"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+collider. see this enum.
