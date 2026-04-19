@@ -1,0 +1,244 @@
+<h2>
+<code>es.MultiBlock.Modify</code>
+</h2>
+
+<table><tr><td>
+expands
+</td><td>
+|
+</td><td>
+<code>es</code>
+<br>
+<code>es.MultiBlock</code>
+</td></tr></table>
+
+a helper class to modify blocks.
+
+___
+
+<h2>
+property description
+</h2>
+
+```lua
+es.MultiBlock.isPaintable
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>getter</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>bool</code>
+</td></tr></table>
+
+check this block for paintable ability. look up <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a> .
+
+___
+
+<h2>
+method description
+</h2>
+
+```lua
+es.CreateMultiblock(blockType,root,relPos,relRot,modUuid)
+```
+
+<table><tr><td>
+return type
+</td><td>
+|
+</td><td>
+<code>es.MultiBlock</code>
+</td></tr></table>
+
+<table><tr><td>
+mandatory
+</td><td>
+|
+</td><td>
+<code>blockType</code>
+</td><td>
+<code>root</code>
+</td><td>
+<code>relPos</code>
+</td><td>
+<code>relRot</code>
+</td><td>
+<code>modUuid</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td><td>
+<code>es.MultiBlock.Root</code>
+</td><td>
+<code>{float,float,float}</code>
+</td><td>
+<code>es.Quaternion.Euler(float,float,float)</code>
+</td><td>
+<code>String</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+range
+</td><td>
+|
+</td><td>
+listed in <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a>
+</td><td>
+</td><td>
+satisfy <code>Math.sqrt(x^2+y^2+z^2)>=1</code>
+</td><td>
+</td><td>
+depends on <code>info.json</code> from every MODs
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+<code>optional</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+description
+</td><td>
+|
+</td><td>
+block's type
+</td><td>
+block's root
+</td><td>
+block's relative position, use XYZ convention, use <code>0.5</code> unit
+</td><td>
+block's relative rotation, use XYZ convention
+</td><td>
+MOD block's uuid
+</td></tr></table>
+
+create a block.
+
+>[!NOTE]
+>if `modUuid` is provided, `blockType` should match with listed MOD blocks. otherwise, that mandatory would do nothing.
+
+>[!NOTE]
+>if `modUuid` is ommited, and `blockType` match with listed MOD blocks, the block could <i>still</i> be created. in this case, the MOD block's UUID would be empty, and refer to an empty one in `info.json` .
+
+___
+
+```lua
+es.MultiBlock.Destroy()
+```
+
+<table><tr><td>
+return type
+</td><td>
+|
+</td><td>
+<code>void</code>
+</td></tr></table>
+
+destroy this block, and split roots when needed.
+
+>[!WARNING]
+>when being destroyed, some blocks would take long cooldown. so, only use this method when you <i>actually</i> need to split roots.
+
+___
+
+```lua
+es.MultiBlock.DestroyFast()
+```
+
+<table><tr><td>
+return type
+</td><td>
+|
+</td><td>
+<code>void</code>
+</td></tr></table>
+
+destroy this block.
+
+___
+
+```lua
+es.MultiBlock.Paint(value)
+```
+
+<table><tr><td>
+return type
+</td><td>
+|
+</td><td>
+<code>void</code>
+</td></tr></table>
+
+<table><tr><td>
+mandatory
+</td><td>
+|
+</td><td>
+<code>value</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>{float,float,float}</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+description
+</td><td>
+|
+</td><td>
+RGB color
+</td></tr></table>
+
+paint this block.
+
+>[!NOTE]
+>this block should be paintable. otherwise, it would fire an error. look up <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a> .
