@@ -113,4 +113,4 @@ value type
 <code>Array[MOD_block]</code>
 </td></tr></table>
 
-MOD block.
+a list of MOD blocks.
