@@ -123,3 +123,8 @@ block's relative rotation, use XYZ convention
 </td><td>
 MOD block's uuid
 </td></tr></table>
+
+create a block.
+
+>[!IMPORTANT]
+>if `modUuid` is provided, `blockType` should be `SimpleModBlock` , `WheelModBlock` and `SizableWheelModBlock` .
