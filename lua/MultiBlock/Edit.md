@@ -210,3 +210,6 @@ RGB color
 </td></tr></table>
 
 paint this block.
+
+>[!NOTE]
+>this block should be paintable. otherwise, it would fire an error.
