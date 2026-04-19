@@ -1,3 +1,7 @@
+<h2>
+MOD header
+</h2>
+
 ```json
 {
  "name":"new MOD"
