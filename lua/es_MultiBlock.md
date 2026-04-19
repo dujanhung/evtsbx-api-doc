@@ -93,4 +93,4 @@ type
 
 block type.
 
-the value should be included in <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a>.
+the value should match to <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a>.
