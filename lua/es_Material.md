@@ -12,6 +12,15 @@ expands
 
 a helper class to interact with MOD material.
 
+>[!IMPORTANT]
+>"Evertech Sandbox" support `PNG` and `JPG` files. other files would fire an error.
+
+>[!IMPORTANT]
+>"Evertech Sandbox" only support `OBJ` file. other files would fire an error.
+
+>[!TIP]
+>if the file's source don't have such outputs, use file converter apps to convert them.
+
 ___
 
 <h2>
