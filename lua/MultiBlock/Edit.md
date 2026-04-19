@@ -150,3 +150,19 @@ destroy this block, and split roots when needed.
 
 >[!WARNING]
 >when being destroyed, some blocks would take long cooldown. so, only use this method when you <i>actually</i> want to split roots.
+
+___
+
+```lua
+es.MultiBlock.DestroyFast()
+```
+
+<table><tr><td>
+return type
+</td><td>
+|
+</td><td>
+<code>void</code>
+</td></tr></table>
+
+destroy this block.
