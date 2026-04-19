@@ -10,7 +10,8 @@ MOD header
  "version":"1.0"
  "preview":"image.png"
  "simpleblocks":[
-  
+  /*
+  */
  ]
 }
 ```
