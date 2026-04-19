@@ -126,7 +126,7 @@ MOD block's uuid
 
 create a block.
 
->[!IMPORTANT]
+>[!NOTE]
 >if `modUuid` is provided, `blockType` should match with listed MOD blocks . otherwise, that mandatory would do nothing.
 
 >[!NOTE]
