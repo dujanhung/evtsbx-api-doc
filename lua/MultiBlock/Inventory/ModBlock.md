@@ -93,4 +93,38 @@ method description
 es.MultiBlock.ModBlock.send(msg)
 ```
 
-send variable to another MOD block.
+<table><tr><td>
+return type
+</td><td>
+|
+</td><td>
+<code>void</code>
+</td></tr></table>
+
+<table><tr><td>
+mandatory
+</td><td>
+|
+</td><td>
+<code>msg</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>Variant</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+description
+</td><td>
+|
+</td><td>
+message content
+</td></tr></table>
+
+send message to another MOD block.
