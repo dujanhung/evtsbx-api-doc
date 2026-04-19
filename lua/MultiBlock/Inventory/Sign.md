@@ -89,3 +89,39 @@ default
 </td></tr></table>
 
 `Sign` text.
+
+___
+
+```lua
+es.MultiBlock.Sign.TextColor
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>getter</code>
+<br>
+<code>setter</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>{float,float,float}</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+default
+</td><td>
+|
+</td><td>
+<code>{0.32,0.32,0.32}</code>
+</td></tr></table>
+
+`Sign` text color.
