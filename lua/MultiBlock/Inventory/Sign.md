@@ -22,7 +22,7 @@ inherit
 a `Sign` block.
 
 >[!CAUTION]
->in multiplayer, this block is <i>very</i> dangerous, because it could store malicious script, malicious hyperlink, text bomb, and bad words. so, don't read it.
+>this block is <i>very</i> dangerous, because it could store malicious script, malicious hyperlink, text bomb, and bad words. so, don't read it from untrusted sources.
 
 ___
 
