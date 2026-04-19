@@ -368,7 +368,7 @@ ___
 a crossing rail block.
 
 >[!WARNING]
->when being destroyed, this block takes the longest cooldown. so, you should use `es.MultiBlock.DestroyFast()` instead.
+>when being destroyed, this block takes the longest cooldown. so, use it wisely.
 
 ___
 
