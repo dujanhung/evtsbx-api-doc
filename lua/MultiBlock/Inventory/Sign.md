@@ -127,4 +127,4 @@ default
 `Sign` text color, use RGB linear color.
 
 >[!NOTE]
->in old versions, `Sign` text color could change alpha value. however, at some updates until now, it's deprecated to deal with `<quad>` bug.
+>in old versions, `Sign` text color could change alpha value. however, at some updates until now, it's removed to deal with `<quad>` bug.
