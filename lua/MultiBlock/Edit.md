@@ -53,5 +53,5 @@ description
 </td><td>
 |
 </td><td>
-block type
+block types listed in <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a>
 </td></tr></table>
