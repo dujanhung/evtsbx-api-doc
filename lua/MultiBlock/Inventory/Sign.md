@@ -21,6 +21,9 @@ inherit
 
 a `Sign` block.
 
+>[!CAUTION]
+>in multiplayer, there are no profanity filter for this block. so, don't write bad texts.
+
 ___
 
 <h2>
