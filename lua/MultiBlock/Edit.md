@@ -92,6 +92,16 @@ depends on <code>info.json</code> from every mods
 </td><td>
 </td><td>
 </td></tr><tr><td>
+range
+</td><td>
+|
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
 description
 </td><td>
 |
