@@ -235,7 +235,7 @@ description
 </td><td>
 |
 </td><td>
-RGB color
+RGB linear color
 </td></tr></table>
 
 paint this block.
