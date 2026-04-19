@@ -130,4 +130,4 @@ create a block.
 >if `modUuid` is provided, `blockType` should match with listed MOD blocks . otherwise, that mandatory would do nothing.
 
 >[!IMPORTANT]
->if `modUuid` is ommited, and `blockType` match with listed MOD blocks, the block's appearance would have "MOD MISSING" text, and show an empty button when player look at it.
+>if `modUuid` is ommited, and `blockType` match with listed MOD blocks, the block's appearance would have "MOD MISSING" text, and show a blank button when player look at it.
