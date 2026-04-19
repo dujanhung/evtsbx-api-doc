@@ -64,6 +64,25 @@ virtual method description
 function message(msg)
 ```
 
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>virtual</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+return type
+</td><td>
+|
+</td><td>
+<code>void</code>
+</td></tr></table>
+
+called when another MOD block use `es.MultiBlock.ModBlock.send()` at this block.
+
 ___
 
 <h2>
