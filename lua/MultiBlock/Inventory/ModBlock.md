@@ -8,12 +8,22 @@ inherit
 |
 </td><td>
 <code>es</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+<code>es.MultiBlock.Type</code> specific
+</td><td>
+|
+</td><td>
+<code>SimpleModBlock</code>
+<br>
+<code>WheelModBlock</code>
+<br>
+<code>SizableWheelModBlock</code>
 </td></tr></table>
 
 a MOD block.
-
->[!IMPORTANT]
->this class is revelant to `SimpleModBlock` , `WheelModBlock` or `SizableWheelModBlock` .
 
 ___
 
