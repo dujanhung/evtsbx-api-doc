@@ -198,6 +198,26 @@ this block could float on water.
 ___
 
 ```lua
+"RubberDuck"
+```
+
+a yellow rubber duck.
+
+this block could float on water.
+
+___
+
+```lua
+"GreenRubberDuck"
+```
+
+a green rubber duck.
+
+this block could float on water.
+
+___
+
+```lua
 "Flank"
 ```
 
