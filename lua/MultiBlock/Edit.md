@@ -73,10 +73,11 @@ type
 </td><td>
 </td><td>
 </td></tr><tr><td>
-default
+range
 </td><td>
 |
 </td><td>
+listed in <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a>
 </td><td>
 </td><td>
 </td><td>
@@ -94,7 +95,7 @@ description
 </td><td>
 |
 </td><td>
-block's types listed in <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a>
+block's type
 </td><td>
 block's root
 </td><td>
