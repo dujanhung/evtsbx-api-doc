@@ -10,7 +10,7 @@ MOD_header
  "version":"1.0"
  "preview":"image.png"
  "simpleblocks":[
-  "MOD block"
+  "..."
   ,
   "..."
  ]
