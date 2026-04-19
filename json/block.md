@@ -14,9 +14,9 @@ MOD_block
  "mesh":"mesh.obj",
  "script":"script.lua",
  "collider":"sizable_wheel",
- "normScale":1,
+ "normScale":1.0,
  "smoothness":0.5,
- "scale":1,
+ "scale":1.0,
  "colliderOptions":{
   "MOD_collider_option"
  },
