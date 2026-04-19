@@ -127,4 +127,4 @@ MOD block's uuid
 create a block.
 
 >[!IMPORTANT]
->if `modUuid` is provided, `blockType` should be `SimpleModBlock` , `WheelModBlock` or `SizableWheelModBlock` . otherwise, it would do nothing.
+>if `modUuid` is provided, `blockType` should be `SimpleModBlock` , `WheelModBlock` or `SizableWheelModBlock` . otherwise, that mandatory would do nothing.
