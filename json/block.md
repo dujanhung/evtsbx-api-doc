@@ -18,13 +18,13 @@ MOD_block
  "smoothness":0.5,
  "scale":1,
  "colliderOptions":{
-  "collider_option"
+  "MOD_collider_option"
  },
  "meshOption":{
-  "mesh_option"
+  "MOD_mesh_option"
  },
  "connections":[
-  "connection"
+  "MOD_connection"
  ]
 }
 ```
