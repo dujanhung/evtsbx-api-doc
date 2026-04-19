@@ -12,3 +12,5 @@ MOD header
  "simpleblocks":{}
 }
 ```
+
+the "Evertech Sandbox" MOD header in JSON.
