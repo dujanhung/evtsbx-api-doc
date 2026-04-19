@@ -149,4 +149,4 @@ return type
 destroy this block, and split roots when needed.
 
 >[!WARNING]
->when destroyed, some blocks would have long cooldown. so, only use this method when you <i>actually</i> want to split roots. if the latter, use `es.MultiBlock.DestroyFast()` instead.
+>when destroyed, some blocks would have long cooldown. so, only use this method when you <i>actually</i> want to split roots.
