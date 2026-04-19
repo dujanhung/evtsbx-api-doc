@@ -552,6 +552,9 @@ player could hold this block as a handheld weapon.
 >[!NOTE]
 >in multiplayer, when edit mode is disabled, player <i>can't</i> use this item.
 
+>[!CAUTION]
+>don't spam too many "potato" projectiles. otherwise, connection points would stop working.
+
 ___
 
 ```lua
