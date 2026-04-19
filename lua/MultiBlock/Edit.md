@@ -85,5 +85,5 @@ block's relative position, use XYZ convention, use <code>0.5</code> unit
 </td><td>
 block's relative rotation, use XYZ convention
 </td><td>
-MOD block uuid
+MOD block's uuid
 </td></tr></table>
