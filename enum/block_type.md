@@ -367,6 +367,9 @@ ___
 
 a crossing rail block.
 
+>[!WARNING]
+>when being deleted, this block takes a long cooldown. you should use `es.MultiBlock.DestroyFast()` instead.
+
 ___
 
 ```lua
