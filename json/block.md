@@ -12,9 +12,9 @@ MOD_block
  "nor":"nor.png",
  "met":"met.png",
  "mesh":"mesh.obj",
+ "script":"script.lua"
  "normScale":1,
  "smoothness":0.5,
  "scale":1,
- "script":"script.lua"
 }
 ```
