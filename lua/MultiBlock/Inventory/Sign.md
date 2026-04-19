@@ -24,6 +24,9 @@ a `Sign` block.
 >[!CAUTION]
 >in multiplayer, there are no profanity filter for this block. so, don't write bad texts.
 
+>[!CAUTION]
+>in multiplayer, this block is <i>very</i> dangerous, because it could store malicious script, malicious links, text bomb, and bad words. so, be aware of it.
+
 ___
 
 <h2>
