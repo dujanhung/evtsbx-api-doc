@@ -7,8 +7,8 @@ MOD header
  "name":"new MOD"
  "description":"sample text"
  "author":"user"
- "icon":"image.png"
+ "preview":"image.png"
  "version":""
- "simpleModBlocks":{}
+ "simpleblocks":{}
 }
 ```
