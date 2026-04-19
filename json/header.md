@@ -24,3 +24,11 @@ ___
 ```json
 "name"
 ```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
