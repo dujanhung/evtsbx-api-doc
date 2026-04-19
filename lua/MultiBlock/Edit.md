@@ -41,7 +41,7 @@ type
 <code>bool</code>
 </td></tr></table>
 
-check this block for paintable ability. see <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a> .
+check this block for paintable ability. look up <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a> .
 
 ___
 
@@ -241,4 +241,4 @@ RGB color
 paint this block.
 
 >[!NOTE]
->this block should be paintable. otherwise, it would fire an error. see <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a> .
+>this block should be paintable. otherwise, it would fire an error. look up <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a> .
