@@ -127,4 +127,7 @@ MOD block's uuid
 create a block.
 
 >[!IMPORTANT]
->if `modUuid` is provided, `blockType` should be `SimpleModBlock` , `WheelModBlock` or `SizableWheelModBlock` . otherwise, that mandatory would do nothing.
+>if `modUuid` is provided, `blockType` should match with listed MOD blocks . otherwise, that mandatory would do nothing.
+
+>[!IMPORTANT]
+>if `modUuid` is ommited, and `blockType` match with listed MOD blocks, the block's appearance would have "MOD MISSING" text, and show the empty button when player look at it.
