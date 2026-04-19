@@ -190,4 +190,4 @@ value type
 <code>String</code>
 </td></tr></table>
 
-collider. see this enum.
+collider. look up this enum.
