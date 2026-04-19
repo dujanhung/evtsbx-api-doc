@@ -16,5 +16,8 @@ MOD_block
  "normScale":1,
  "smoothness":0.5,
  "scale":1,
+ "connections":[
+  "connection"
+ ]
 }
 ```
