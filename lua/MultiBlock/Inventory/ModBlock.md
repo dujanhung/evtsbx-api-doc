@@ -81,6 +81,32 @@ return type
 <code>void</code>
 </td></tr></table>
 
+<table><tr><td>
+mandatory
+</td><td>
+|
+</td><td>
+<code>msg</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>Variant</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+description
+</td><td>
+|
+</td><td>
+message content
+</td></tr></table>
+
 called when another MOD block use `es.MultiBlock.ModBlock.send()` at this block.
 
 ___
