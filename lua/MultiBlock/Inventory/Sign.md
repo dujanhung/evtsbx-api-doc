@@ -77,6 +77,15 @@ type
 |
 </td><td>
 <code>String</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+default
+</td><td>
+|
+</td><td>
+<code>" "</code>
 </td></tr></table>
 
 `Sign` text.
