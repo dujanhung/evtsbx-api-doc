@@ -61,7 +61,7 @@ virtual method description
 </h2>
 
 ```lua
-func message(msg)
+function message(msg)
 ```
 
 ___
