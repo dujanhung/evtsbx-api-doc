@@ -24,7 +24,7 @@ a helper class to play audio files.
 >[!TIP]
 >to play multiple audio files at a same time, you should create more blocks whose scripts are pointing to different audio files.
 
->[!CAUTION]
+>[!WARNING]
 >don't make the audio length too short. otherwise, lag would occur upon playing it.
 
 ___
