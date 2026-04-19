@@ -90,6 +90,9 @@ default
 
 `Sign` text.
 
+>[!TIP]
+>this one is used for MOD text input, and MOD screen.
+
 ___
 
 ```lua
