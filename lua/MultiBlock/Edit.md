@@ -19,7 +19,7 @@ method description
 </h2>
 
 ```lua
-es.CreateMultiblock(itemType,root,relativePosition,relativeRotation,modUuid)
+es.CreateMultiblock(blockType,root,relPos,relRot,modUuid)
 ```
 
 <table><tr><td>
@@ -27,7 +27,7 @@ return type
 </td><td>
 |
 </td><td>
-<code>void</code>
+<code>es.MultiBlock</code>
 </td></tr></table>
 
 <table><tr><td>
@@ -53,5 +53,5 @@ description
 </td><td>
 |
 </td><td>
-<code>WAV</code> filepath
+block type
 </td></tr></table>
