@@ -10,10 +10,10 @@ MOD_block
  "icon":"icon.png",
  "dif":"dif.png",
  "nor":"nor.png",
- "normScale":1,
  "met":"met.png",
- "smoothness":0.5,
  "mesh":"mesh.obj",
+ "normScale":1,
+ "smoothness":0.5,
  "scale":1,
  "script":"script.lua"
 }
