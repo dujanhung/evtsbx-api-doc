@@ -70,7 +70,7 @@ MOD author name.
 ___
 
 ```json
-"name"
+"version"
 ```
 
 <table><tr><td>
@@ -86,7 +86,7 @@ MOD version.
 ___
 
 ```json
-"name"
+"preview"
 ```
 
 <table><tr><td>
