@@ -49,3 +49,34 @@ type
 </td></tr></table>
 
 get `Sign` instance.
+
+___
+
+<h2>
+property description
+</h2>
+
+```lua
+es.MultiBlock.Sign.Text
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>getter</code>
+<br>
+<code>setter</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+`Sign` text.
