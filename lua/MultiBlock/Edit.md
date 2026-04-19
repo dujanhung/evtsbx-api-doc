@@ -58,4 +58,6 @@ description
 |
 </td><td>
 block types listed in <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a>
+</td><td>
+block root
 </td></tr></table>
