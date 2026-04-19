@@ -8,7 +8,7 @@ a full list of block types from "Evertech Sandbox" in Lua.
 >unless otherwise noted, the word "paintable" means `es.MultiBlock.Paint()` would works.
 
 >[!CAUTION]
->when using `es.CreateMultiBlock()` , don't create blocks that goes outside <b><a>the list of default unlocked items</a></b>, because it's listed as <i>illegal</i> acts of shoplifting or ADs prevention.
+>when using `es.CreateMultiblock()` , don't create blocks that goes outside <b><a>the list of default unlocked items</a></b>, because it's listed as <i>illegal</i> acts of shoplifting or ADs prevention.
 
 ___
 
@@ -401,7 +401,7 @@ ___
 a paintable spring coil block.
 
 >[!CAUTION]
->this block shouldn't be created with `es.CreateMultiBlock()` , because it would become unbreakable.
+>this block shouldn't be created with `es.CreateMultiblock()` , because it would become unbreakable.
 
 >[!CAUTION]
 >in old versions, don't detach the group of 3 of this block at a same time, because it would cause crash.
@@ -454,7 +454,7 @@ ___
 a paintable bearing block.
 
 >[!IMPORTANT]
->this block can't be created with `es.CreateMultiBlock()` . only player could create it.
+>this block can't be created with `es.CreateMultiblock()` . only player could create it.
 
 >[!IMPORTANT]
 >this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
@@ -821,7 +821,7 @@ ___
 a small decorative paintable square tile block.
 
 >[!IMPORTANT]
->this block can't be created with `es.CreateMultiBlock()` . only player could create it.
+>this block can't be created with `es.CreateMultiblock()` . only player could create it.
 
 >[!IMPORTANT]
 >this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
@@ -835,7 +835,7 @@ ___
 a small decorative paintable cube tile block.
 
 >[!IMPORTANT]
->this block can't be created with `es.CreateMultiBlock()` . only player could create it.
+>this block can't be created with `es.CreateMultiblock()` . only player could create it.
 
 >[!IMPORTANT]
 >this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
@@ -849,7 +849,7 @@ ___
 a small decorative paintable triangle tile block.
 
 >[!IMPORTANT]
->this block can't be created with `es.CreateMultiBlock()` . only player could create it.
+>this block can't be created with `es.CreateMultiblock()` . only player could create it.
 
 >[!IMPORTANT]
 >this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
@@ -863,7 +863,7 @@ ___
 a small decorative paintable antenna block, could react to movement.
 
 >[!IMPORTANT]
->this block can't be created with `es.CreateMultiBlock()` . only player could create it.
+>this block can't be created with `es.CreateMultiblock()` . only player could create it.
 
 >[!IMPORTANT]
 >this block can't be painted with `es.MultiBlock.Paint()` . only player could paint it.
