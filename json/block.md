@@ -12,7 +12,8 @@ MOD_block
  "nor":"nor.png",
  "met":"met.png",
  "mesh":"mesh.obj",
- "script":"script.lua"
+ "script":"script.lua",
+ "collider":"sizable_wheel",
  "normScale":1,
  "smoothness":0.5,
  "scale":1,
