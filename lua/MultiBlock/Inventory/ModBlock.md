@@ -52,7 +52,7 @@ type
 <code>MODBLOCKAPI</code>
 </td></tr></table>
 
-get MOD block instance.
+get MOD block's instance.
 
 ___
 
