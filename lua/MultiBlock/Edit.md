@@ -92,7 +92,7 @@ depends on <code>info.json</code> from every mods
 </td><td>
 </td><td>
 </td></tr><tr><td>
-range
+flag
 </td><td>
 |
 </td><td>
@@ -100,6 +100,7 @@ range
 </td><td>
 </td><td>
 </td><td>
+<code>optional</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
