@@ -69,3 +69,30 @@ type
 </td></tr></table>
 
 get a list of blocks in the group.
+
+___
+
+```lua
+es.MultiBlock.Type
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>getter</code>
+<br>
+<code>setter</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+block type.
