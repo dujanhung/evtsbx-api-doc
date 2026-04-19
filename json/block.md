@@ -43,7 +43,10 @@ value type
 <code>String</code>
 </td></tr></table>
 
-MOD block UUID, must be unique among others from inside and outside.
+MOD block UUID.
+
+>[!IMPORTANT]
+>this value must be unique among others from inside the `info.json` and other ones.
 
 ___
 
