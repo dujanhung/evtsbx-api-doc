@@ -41,7 +41,7 @@ type
 <code>bool</code>
 </td></tr></table>
 
-check this block for paintable ability.
+check this block for paintable ability. see <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a> .
 
 ___
 
