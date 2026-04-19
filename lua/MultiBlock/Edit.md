@@ -212,4 +212,4 @@ RGB color
 paint this block.
 
 >[!NOTE]
->this block should be paintable. otherwise, it would fire an error.
+>this block should be paintable. otherwise, it would fire an error. see <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a> .
