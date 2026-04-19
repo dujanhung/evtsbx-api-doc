@@ -65,5 +65,5 @@ block's types listed in <a href="https://github.com/dujanhung/evtsbx-api-doc/blo
 </td><td>
 block's root
 </td><td>
-block's relative position
+block's relative position, use XYZ convention, use <code>0.5</code> unit.
 </td></tr></table>
