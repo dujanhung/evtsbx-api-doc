@@ -8,6 +8,8 @@ expands
 |
 </td><td>
 <code>es</code>
+<br>
+<code>es.MultiBlock</code>
 </td></tr></table>
 
 a helper class to modify blocks.
