@@ -90,7 +90,7 @@ method description
 </h2>
 
 ```lua
-es.MultiBlock.ModBlock.send(message)
+es.MultiBlock.ModBlock.send(msg)
 ```
 
 send variable to another MOD block.
