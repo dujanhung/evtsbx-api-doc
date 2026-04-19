@@ -17,6 +17,35 @@ a helper class to modify blocks.
 ___
 
 <h2>
+property description
+</h2>
+
+```lua
+es.MultiBlock.isPaintable
+```
+
+<table><tr><td>
+behavior
+</td><td>
+|
+</td><td>
+<code>getter</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>bool</code>
+</td></tr></table>
+
+check this block for paintable ability.
+
+___
+
+<h2>
 method description
 </h2>
 
