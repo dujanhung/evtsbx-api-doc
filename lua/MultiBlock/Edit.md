@@ -127,7 +127,7 @@ MOD block's uuid
 create a block.
 
 >[!NOTE]
->if `modUuid` is provided, `blockType` should match with listed MOD blocks . otherwise, that mandatory would do nothing.
+>if `modUuid` is provided, `blockType` should match with listed MOD blocks. otherwise, that mandatory would do nothing.
 
 >[!NOTE]
 >if `modUuid` is ommited, and `blockType` match with listed MOD blocks, the block could <i>still</i> be created. in this case, the MOD block's UUID would be empty, and refer to an empty one in `info.json` .
