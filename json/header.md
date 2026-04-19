@@ -5,8 +5,6 @@
  "author":"user"
  "icon":"image.png"
  "version":""
- "simpleModBlocks":{
-  #block.json
- }
+ "simpleModBlocks":{}
 }
 ```
