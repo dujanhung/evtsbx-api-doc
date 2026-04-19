@@ -17,6 +17,12 @@ MOD_block
  "normScale":1,
  "smoothness":0.5,
  "scale":1,
+ "colliderOptions":{
+  "collider_option"
+ },
+ "meshOption":{
+  "mesh_option"
+ },
  "connections":[
   "connection"
  ]
