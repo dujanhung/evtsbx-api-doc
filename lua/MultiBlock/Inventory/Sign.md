@@ -93,6 +93,9 @@ default
 >[!TIP]
 >this one is used for MOD text input, and MOD screen.
 
+>[!NOTE]
+>at some updates until now, `Sign` text's font is changed. so, the maximum newlines count is reduced from `10` to `7` .
+
 ___
 
 ```lua
