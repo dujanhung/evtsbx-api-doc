@@ -28,3 +28,19 @@ MOD_block
  ]
 }
 ```
+
+___
+
+```json
+"uuid"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+MOD block UUID, must be unique.
