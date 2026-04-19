@@ -131,3 +131,22 @@ create a block.
 
 >[!NOTE]
 >if `modUuid` is ommited, and `blockType` match with listed MOD blocks, the block could <i>still</i> be created. in this case, the MOD block's UUID would be empty, and refer to an empty one in `info.json` .
+
+___
+
+```lua
+es.MultiBlock.Destroy()
+```
+
+<table><tr><td>
+return type
+</td><td>
+|
+</td><td>
+<code>void</code>
+</td></tr></table>
+
+destroy this block, and perform m
+
+>[!WARNING]
+>when destroyed, some blocks would have long cooldown. so, use `es.MultiBlock.DestroyFast()` instead.
