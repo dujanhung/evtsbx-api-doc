@@ -49,6 +49,7 @@ mandatory
 </td><td>
 </td><td>
 </td><td>
+</td><td>
 </td></tr><tr><td>
 type
 </td><td>
@@ -64,6 +65,7 @@ type
 </td><td>
 <code>String</code>
 </td></tr><tr><td>
+</td><td>
 </td><td>
 </td><td>
 </td><td>
