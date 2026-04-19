@@ -46,7 +46,7 @@ value type
 MOD block UUID.
 
 >[!IMPORTANT]
->this value must be unique among others from inside the `info.json` and other ones.
+>this value must be unique among others from inside the `info.json` and other MOD.
 
 ___
 
