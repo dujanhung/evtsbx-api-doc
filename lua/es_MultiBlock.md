@@ -10,7 +10,7 @@ inherit
 <code>es</code>
 </td></tr></table>
 
-the group of blocks.
+a group of blocks.
 
 ___
 
@@ -67,3 +67,5 @@ type
 </td><td>
 <code>{es.MultiBlock.Block,...}</code>
 </td></tr></table>
+
+get a list of blocks in the group.
