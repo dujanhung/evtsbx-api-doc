@@ -239,3 +239,35 @@ value type
 </td></tr></table>
 
 3D mesh scale.
+
+___
+
+```json
+"colliderOptions"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>MOD_collider_option</code>
+</td></tr></table>
+
+`SimpleModBlock` collider options.
+
+___
+
+```json
+"meshOptions"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td></tr></table>
+
+normal texture repeate scale.
