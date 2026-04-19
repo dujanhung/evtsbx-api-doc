@@ -79,3 +79,51 @@ value type
 </td></tr></table>
 
 MOD block description.
+
+___
+
+```json
+"icon"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+icon texture filepath.
+
+___
+
+```json
+"dif"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table
+
+albedo texture filepath.
+
+___
+
+```json
+"nor"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+normal texture filepath.
