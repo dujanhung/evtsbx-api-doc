@@ -126,6 +126,54 @@ a "no collision" block.
 ___
 
 ```lua
+"PipeLine"
+```
+
+a straight pipe.
+
+___
+
+```lua
+"PipeBend"
+```
+
+a bend pipe.
+
+___
+
+```lua
+"PipeArc"
+```
+
+an arc pipe.
+
+___
+
+```lua
+"PipeTee"
+```
+
+a tee pipe.
+
+___
+
+```lua
+"PipeFour"
+```
+
+a four-ways pipe.
+
+___
+
+```lua
+"PipeSix"
+```
+
+a six-ways pipe.
+
+___
+
+```lua
 "Wheel"
 ```
 
