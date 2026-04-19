@@ -46,7 +46,7 @@ value type
 MOD block UUID.
 
 >[!CAUTION]
->this value must be unique among others from inside the `info.json` and other MODs. otherwise, the conflict would happen.
+>this value must be unique among others from inside the `info.json` and from other MODs. otherwise, the conflict would happen.
 
 ___
 
