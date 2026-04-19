@@ -13,6 +13,33 @@ a full list of block types from "Evertech Sandbox" in Lua.
 ___
 
 ```lua
+"SimpleModBlock"
+```
+
+a regular MOD block.
+
+___
+
+```lua
+"WheelModBlock"
+```
+
+a wheel MOD block, 3x1.
+
+___
+
+```lua
+"SizableWheelModBlock"
+```
+
+a sizable wheel MOD block, default size 3x1.
+
+>[!IMPORTANT]
+>this block can't be edited with MOD, because there are no API entry about it. you should edit it manually in `info.JSON` .
+
+___
+
+```lua
 "Cube"
 ```
 
