@@ -38,6 +38,8 @@ mandatory
 <code>blockType</code>
 </td><td>
 <code>root</code>
+</td><td>
+<code>relPos</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -49,6 +51,8 @@ type
 <code>String</code>
 </td><td>
 <code>es.MultiBlock.Root</code>
+</td><td>
+<code>{float,float,float}</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -57,7 +61,9 @@ description
 </td><td>
 |
 </td><td>
-block types listed in <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a>
+block's types listed in <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a>
 </td><td>
-block root
+block's root
+</td><td>
+block's relative position
 </td></tr></table>
