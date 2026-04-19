@@ -17,6 +17,9 @@ MOD_header
 
 the "Evertech Sandbox" MOD header in JSON.
 
+>[!IMPORTANT]
+>"Evertech Sandbox" support `PNG` and `JPG` files. other files would fire an error.
+
 ___
 
 ```json
