@@ -127,3 +127,35 @@ value type
 </td></tr></table>
 
 normal texture filepath.
+
+___
+
+```json
+"met"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+metallic texture filepath.
+
+___
+
+```json
+"mesh"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+3D mesh filepath.
