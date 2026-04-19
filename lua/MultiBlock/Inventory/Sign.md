@@ -93,8 +93,11 @@ default
 >[!TIP]
 >this one is used for MOD text input, and MOD screen.
 
->[!NOTE]
+>[!WARNING]
 >at some updates until now, `Sign` text's font is changed, and the vertical spacing is increased. so, some ASCII arts would be broken, and displays incorrectly on the `Sign` .
+
+>[!CAUTION]
+>don't use `<quad>` , because it would cause lag.
 
 ___
 
@@ -131,6 +134,9 @@ default
 </td></tr></table>
 
 `Sign` text color, use RGB linear color.
+
+>[!NOTE]
+>in old versions, `Sign` text color could change alpha value. however, at some updates until now, it's removed to deal with `<quad>` bug.
 
 ___
 
