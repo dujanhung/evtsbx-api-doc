@@ -129,5 +129,5 @@ create a block.
 >[!IMPORTANT]
 >if `modUuid` is provided, `blockType` should match with listed MOD blocks . otherwise, that mandatory would do nothing.
 
->[!IMPORTANT]
+>[!NOTE]
 >if `modUuid` is ommited, and `blockType` match with listed MOD blocks, the block could <i>still</i> be created.
