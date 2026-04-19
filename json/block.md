@@ -267,7 +267,7 @@ value type
 </td><td>
 |
 </td><td>
-<code>float</code>
+<code>MOD_mesh_option</code>
 </td></tr></table>
 
-normal texture repeate scale.
+`SimpleModBLCJ`
