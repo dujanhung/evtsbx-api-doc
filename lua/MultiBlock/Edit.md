@@ -83,7 +83,7 @@ listed in <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/bl
 satisfy <code>Math.sqrt(x^2+y^2+z^2)>=1</code>
 </td><td>
 </td><td>
-depends on <code>info.json</code> from every mods
+depends on <code>info.json</code> from every MODs
 </td></tr><tr><td>
 </td><td>
 </td><td>
