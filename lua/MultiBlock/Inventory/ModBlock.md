@@ -57,6 +57,16 @@ get MOD block instance.
 ___
 
 <h2>
+virtual method description
+</h2>
+
+```lua
+func message(msg)
+```
+
+___
+
+<h2>
 method description
 </h2>
 
