@@ -81,6 +81,7 @@ default
 </td><td>
 </td><td>
 </td><td>
+depends on `info.json` from every mods
 </td></tr><tr><td>
 </td><td>
 </td><td>
