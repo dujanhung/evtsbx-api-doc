@@ -80,7 +80,7 @@ range
 listed in <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a>
 </td><td>
 </td><td>
-satisfy the formula: <code>x²+y²+z²≥1</code>
+satisfy <code>x^2+y^2+z^2>=1</code>
 </td><td>
 </td><td>
 depends on <code>info.json</code> from every mods
