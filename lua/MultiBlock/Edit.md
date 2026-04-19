@@ -19,7 +19,7 @@ method description
 </h2>
 
 ```lua
-es.CreateMultiblock()
+es.CreateMultiblock(itemType,root,relativePosition,relativeRotation,modUuid)
 ```
 
 <table><tr><td>
@@ -35,7 +35,7 @@ mandatory
 </td><td>
 |
 </td><td>
-<code>path</code>
+<code>itemType</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
