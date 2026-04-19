@@ -80,6 +80,7 @@ range
 listed in <a href="https://github.com/dujanhung/evtsbx-api-doc/blob/main/enum/block_type.md">this enum</a>
 </td><td>
 </td><td>
+not equal to <code>{0.0,0.0,0.0}</code>
 </td><td>
 </td><td>
 depends on <code>info.json</code> from every mods
