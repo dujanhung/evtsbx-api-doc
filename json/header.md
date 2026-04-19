@@ -34,3 +34,83 @@ value type
 </td></tr></table>
 
 MOD name.
+
+___
+
+```json
+"description"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+MOD description.
+
+___
+
+```json
+"author"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+MOD author name.
+
+___
+
+```json
+"name"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+MOD version.
+
+___
+
+```json
+"name"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+MOD preview image filepath.
+
+___
+
+```json
+"simpleblocks"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>Array[MOD_block]</code>
+</td></tr></table>
+
+MOD block.
