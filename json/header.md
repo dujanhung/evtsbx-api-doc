@@ -6,7 +6,7 @@
  "icon":"image.png"
  "version":""
  "simpleModBlocks":{
-  /block.json
+  #block.json
  }
 }
 ```
