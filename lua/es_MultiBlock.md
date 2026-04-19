@@ -55,8 +55,6 @@ behavior
 |
 </td><td>
 <code>getter</code>
-<br>
-<code>setter</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -82,8 +80,6 @@ behavior
 |
 </td><td>
 <code>getter</code>
-<br>
-<code>setter</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
