@@ -40,6 +40,8 @@ mandatory
 <code>root</code>
 </td><td>
 <code>relPos</code>
+</td><td>
+<code>relRot</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -53,6 +55,8 @@ type
 <code>es.MultiBlock.Root</code>
 </td><td>
 <code>{float,float,float}</code>
+</td><td>
+<code>es.Quaternion.Euler(float,float,float)</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -65,5 +69,7 @@ block's types listed in <a href="https://github.com/dujanhung/evtsbx-api-doc/blo
 </td><td>
 block's root
 </td><td>
-block's relative position, use XYZ convention, use <code>0.5</code> unit.
+block's relative position, use XYZ convention, use <code>0.5</code> unit
+</td><td>
+block's relative rotation, use XYZ convention
 </td></tr></table>
