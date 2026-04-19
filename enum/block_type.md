@@ -249,7 +249,7 @@ ___
 "RubberDuck"
 ```
 
-a yellow rubber duck.
+a decorative yellow rubber duck.
 
 this block could float on water.
 
@@ -259,7 +259,7 @@ ___
 "GreenRubberDuck"
 ```
 
-a green rubber duck.
+a decorative green rubber duck.
 
 this block could float on water.
 
