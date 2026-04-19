@@ -146,7 +146,7 @@ return type
 <code>void</code>
 </td></tr></table>
 
-destroy this block, and perform m
+destroy this block, and perform split operations when needed.
 
 >[!WARNING]
 >when destroyed, some blocks would have long cooldown. so, use `es.MultiBlock.DestroyFast()` instead.
