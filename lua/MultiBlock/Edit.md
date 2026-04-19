@@ -36,6 +36,8 @@ mandatory
 |
 </td><td>
 <code>blockType</code>
+</td><td>
+<code>root</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
@@ -45,6 +47,8 @@ type
 |
 </td><td>
 <code>String</code>
+</td><td>
+<code>es.MultiBlock.Root</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
