@@ -191,3 +191,19 @@ value type
 </td></tr></table>
 
 collider. look up this enum.
+
+___
+
+```json
+"normScale"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td></tr></table>
+
+normal texture repeate scale.
