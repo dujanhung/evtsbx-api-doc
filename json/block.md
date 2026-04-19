@@ -60,3 +60,19 @@ value type
 </td></tr></table>
 
 MOD block name.
+
+___
+
+```json
+"description"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+MOD block description.
