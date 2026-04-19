@@ -94,7 +94,7 @@ default
 >this one is used for MOD text input, and MOD screen.
 
 >[!NOTE]
->at some updates until now, `Sign` text's font is changed, and the vertical spacing is increased. so, some ASCII arts would be broken, and display incorrectly on the `Sign` .
+>at some updates until now, `Sign` text's font is changed, and the vertical spacing is increased. so, some ASCII arts would be broken, and displays incorrectly on the `Sign` .
 
 ___
 
