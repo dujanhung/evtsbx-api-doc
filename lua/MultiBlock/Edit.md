@@ -168,3 +168,45 @@ return type
 </td></tr></table>
 
 destroy this block.
+
+___
+
+```lua
+es.MultiBlock.Paint(value)
+```
+
+<table><tr><td>
+return type
+</td><td>
+|
+</td><td>
+<code>void</code>
+</td></tr></table>
+
+<table><tr><td>
+mandatory
+</td><td>
+|
+</td><td>
+<code>value</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+type
+</td><td>
+|
+</td><td>
+<code>{float,float,float}</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+description
+</td><td>
+|
+</td><td>
+RGB color
+</td></tr></table>
+
+paint this block.
