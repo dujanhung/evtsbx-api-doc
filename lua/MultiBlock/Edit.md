@@ -35,7 +35,7 @@ mandatory
 </td><td>
 |
 </td><td>
-<code>itemType</code>
+<code>blockType</code>
 </td></tr><tr><td>
 </td><td>
 </td><td>
