@@ -159,3 +159,19 @@ value type
 </td></tr></table>
 
 3D mesh filepath.
+
+___
+
+```json
+"script"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+Lua script filepath.
