@@ -587,12 +587,6 @@ ___
 
 a sign block (size 1x3 height 1), could read, write and store texts.
 
->[!CAUTION]
->don't use `<quad>` , because it would cause lag.
-
->[!NOTE]
->in old versions, `Sign` text color could change alpha value. however, at some updates until now, it's removed to deal with `<quad>` bug.
-
 ___
 
 ```lua
