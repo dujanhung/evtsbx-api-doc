@@ -19,4 +19,4 @@ inherit
 <code>Switch</code>
 </td></tr></table>
 
-a switch block.
+a `Switch` block.
