@@ -124,4 +124,4 @@ default
 <code>{0.32,0.32,0.32}</code>
 </td></tr></table>
 
-`Sign` text color.
+`Sign` text color, use RGB linear color.
