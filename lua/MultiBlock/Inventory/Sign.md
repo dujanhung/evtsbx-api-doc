@@ -2,7 +2,9 @@
 <code>es.MultiBlock.Sign</code>
 </h2>
 
-a `Sign` block from player's inventory. "Evertech Sandbox" Lua API.
+a `Sign` block from player's inventory.
+
+"Evertech Sandbox" Lua API.
 
 >[!CAUTION]
 >this block is <i>very</i> dangerous, because it don't have safeguards for the text contents.
