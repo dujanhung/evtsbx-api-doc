@@ -50,7 +50,7 @@ observed risks include:
 - external activity switching triggered by AD overlays,
 - application restart during long editing sessions.
 
-these interruptions may result in partial writes or corrupted sign data.
+**these interruptions may result in partial writes or corrupted sign data**.
 
 <h3>
 💡 recommended workflow
