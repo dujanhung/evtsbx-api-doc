@@ -58,7 +58,7 @@ this block stores and renders arbitrary text content inside the game world.
 >- prepare text externally before inserting it into the block,
 >- paste content from clipboard instead of typing in-game,
 >- temporarily disable internet connectivity,
->- test large sign datasets on devices with sufficient RAM (16 GB recommended),
+>- use devices with sufficient RAM (16 GB recommended),
 
 ___
 
