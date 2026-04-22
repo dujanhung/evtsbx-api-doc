@@ -8,7 +8,7 @@ This block stores and renders arbitrary text content inside the game world.
 The text renderer does **not perform validation or sanitization**, so developers must ensure content safety manually when reading or writing sign data.
 
 <h3>
-⚠️ Security Notice
+🛡️ Security Notice
 </h3>
 
 The <code>Sign</code> block accepts raw text input and may render unsupported or abusive formatting tags.
@@ -24,7 +24,7 @@ Loading sign data from untrusted sources may expose the runtime to:
 **Only load sign data from trusted save files or verified multiplayer environments.**
 
 <h3>
-⚠️ Runtime Stability Notice
+☢️ Runtime Stability Notice
 </h3>
 
 Editing large sign contents directly in-game is not recommended.
@@ -38,7 +38,7 @@ Observed risks include:
 These interruptions may result in partial writes or corrupted sign data.
 
 <h3>
-Recommended Workflow
+💡 Recommended Workflow
 </h3>
 
 For safer sign content editing:
