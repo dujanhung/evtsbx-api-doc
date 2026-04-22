@@ -19,7 +19,7 @@ inherit
 <code>Sign</code>
 </td></tr></table>
 
-a `Sign` block.
+a `Sign` block from "Evertech Sandbox" Lua API.
 
 >[!CAUTION]
 >this block is <i>very</i> dangerous, because it could store malicious script, malicious link, OOM bomb, `<quad>` bomb, bad ASCII arts and bad words. don't get it from untrusted file sources, or random multiplayer.
