@@ -36,7 +36,7 @@ loading sign data from untrusted sources may expose the runtime to:
 - excessive `<quad>` tag rendering ("quad bomb"),
 - excessive unicode characters rendering ("unicode bomb")
 
-**only load sign data from trusted save files or verified multiplayer environments.**
+**only load sign data from trusted save files or verified multiplayer environments**.
 
 <h3>
 ☢️ runtime stability notice
