@@ -31,7 +31,7 @@ the text renderer does **not perform validation or sanitization**, so developers
 
 loading sign data from untrusted sources may expose the runtime to:
 
-- malicious script-like payloads embedded in text,
+- remote code execution.
 - memory exhaustion (OOM) via oversized text buffers,
 - excessive `<quad>` tag rendering ("quad bomb"),
 - rendering corruption from unicode characters.
