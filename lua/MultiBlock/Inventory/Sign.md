@@ -18,7 +18,7 @@ a `Sign` block from "Evertech Sandbox" Lua API.
 >[!CAUTION]
 >don't write texts directly in-game, because ADs may interrupt, force open other apps to close AD, and restart the app.
 >
->stronger RAM (256 GB) is recommended.
+>stronger RAM (64 GB) is recommended.
 >
 >instead, you should turn off internet connections, or copy-and-paste the text from clipboard.
 
