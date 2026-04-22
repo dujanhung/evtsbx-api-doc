@@ -2,6 +2,19 @@
 <code>es.MultiBlock.Sign</code>
 </h2>
 
+a `Sign` block from "Evertech Sandbox" Lua API.
+
+>[!CAUTION]
+>this block is <i>very</i> dangerous, because it don't have safeguards for the text contents.
+>
+>by using this block, you have consent to be under attack of:
+>- malicious scripts and links,
+>- OOM bomb,
+>- `<quad>` bomb,
+>- bad texts and ASCII arts.
+>
+>so, don't get it from untrusted file sources, or random multiplayer.
+
 <table><tr><td>
 inherit
 </td><td>
@@ -18,19 +31,6 @@ inherit
 </td><td>
 <code>Sign</code>
 </td></tr></table>
-
-a `Sign` block from "Evertech Sandbox" Lua API.
-
->[!CAUTION]
->this block is <i>very</i> dangerous, because it don't have safeguards for the text contents.
->
->by using this block, you have consent to be under attack of:
->- malicious scripts and links,
->- OOM bomb,
->- `<quad>` bomb,
->- bad texts and ASCII arts.
->
->so, don't get it from untrusted file sources, or random multiplayer.
 
 ___
 
