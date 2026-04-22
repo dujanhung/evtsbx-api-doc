@@ -54,9 +54,6 @@ type
 
 get MOD block's instance.
 
->[!NOTE]
->the main block itself is a MOD block. so, this constructor is always be available.
-
 ___
 
 <h2>
