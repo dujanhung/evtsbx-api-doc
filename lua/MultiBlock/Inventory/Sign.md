@@ -34,7 +34,7 @@ loading sign data from untrusted sources may expose the runtime to:
 - remote code execution.
 - memory exhaustion (OOM) via oversized text buffers,
 - excessive `<quad>` tag rendering ("quad bomb"),
-- rendering corruption from unicode characters.
+- excessive unicode characters rendering ("unicode bomb")
 
 **only load sign data from trusted save files or verified multiplayer environments.**
 
