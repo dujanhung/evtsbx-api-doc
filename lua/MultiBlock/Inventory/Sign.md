@@ -22,7 +22,7 @@ inherit
 a `Sign` block from "Evertech Sandbox" Lua API.
 
 >[!CAUTION]
->this block is <i>very</i> dangerous, because it don't have safeguards.
+>this block is <i>very</i> dangerous, because it don't have safeguards for the text content.
 >
 >by using this block, you have consent to be under attack of:
 >- malicious scripts and links,
