@@ -59,7 +59,7 @@ default
 depends on <code>info.JSON</code> content
 </td></tr></table>
 
-change albedo texture.
+change albedo texture. use filepath.
 
 ___
 
@@ -95,7 +95,7 @@ default
 depends on <code>info.JSON</code> content
 </td></tr></table>
 
-change normal texture.
+change normal texture. use filepath.
 
 ___
 
@@ -131,7 +131,7 @@ default
 depends on <code>info.JSON</code> content
 </td></tr></table>
 
-change metallic texture.
+change metallic texture. use filepath.
 
 ___
 
@@ -167,7 +167,7 @@ default
 depends on <code>info.JSON</code> content
 </td></tr></table>
 
-change mesh.
+change mesh. use filepath.
 
 ___
 
