@@ -63,7 +63,7 @@ for safer sign content editing:
 - temporarily disable internet connectivity,
 - test large sign datasets on devices with sufficient RAM (16 GB recommended),
 
-when manipulating large or formatted sign content, prefer MOD environments.
+when manipulating large or formatted sign content, **prefer MOD environments**.
 
 ___
 
