@@ -16,7 +16,7 @@ a `Sign` block from "Evertech Sandbox" Lua API.
 >so, don't get it from untrusted file sources, or random multiplayer.
 
 >[!CAUTION]
->don't write texts directly in-game, because ADs may interrupt, force open other apps to close, and cancel all your texts.
+>don't write texts directly in-game, because ADs may interrupt, force open other apps to close AD, and cancel all your texts.
 >
 >instead, you should turn off internet connections, or copy-and-paste the text from clipboard.
 
