@@ -31,10 +31,10 @@ the text renderer does **not perform validation or sanitization**, so developers
 
 loading sign data from untrusted sources may expose the runtime to:
 
-- remote code execution.
+- remote code execution,
 - memory exhaustion (OOM) via oversized text buffers,
 - excessive `<quad>` tag rendering ("quad bomb"),
-- excessive unicode characters rendering ("unicode bomb")
+- excessive unicode characters rendering ("unicode bomb").
 
 **only load sign data from trusted save files or verified multiplayer environments**.
 
