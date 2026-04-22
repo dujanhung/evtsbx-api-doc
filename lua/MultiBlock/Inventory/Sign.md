@@ -25,6 +25,7 @@ a `Sign` block from "Evertech Sandbox" Lua API.
 >- use stronger RAM (16 GB) .
 >- turn off internet connections.
 >- copy-and-paste the text from clipboard.
+>- use MOD.
 
 <table><tr><td>
 inherit
