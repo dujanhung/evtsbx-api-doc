@@ -23,7 +23,7 @@ inherit
 <code>SizableWheelModBlock</code>
 </td></tr></table>
 
-a MOD block.
+represents a MOD block from **Evertech Sandbox Lua API**.
 
 ___
 
