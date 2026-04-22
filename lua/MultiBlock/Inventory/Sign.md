@@ -11,15 +11,14 @@ The text renderer does **not perform validation or sanitization**, so developers
 🛡️ Security Notice
 </h3>
 
-The <code>Sign</code> block accepts raw text input and may render unsupported or abusive formatting tags.
+The <code>Sign</code> block accepts raw text input and may render abusive formatting tags or unicode characters.
 
 Loading sign data from untrusted sources may expose the runtime to:
 
 - malicious script-like payloads embedded in text,
 - memory exhaustion (OOM) via oversized text buffers,
 - excessive `<quad>` tag rendering ("quad bomb"),
-- rendering corruption from malformed formatting sequences,
-- disruptive ASCII payloads affecting UI readability.
+- rendering corruption from unicode characters.
 
 **Only load sign data from trusted save files or verified multiplayer environments.**
 
