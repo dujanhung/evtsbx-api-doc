@@ -59,9 +59,9 @@ ___
 property description
 </h2>
 
-```lua
+<codeblocks lang="lua">
 es.MultiBlock.Sign.Text
-```
+</codeblocks>
 
 <table><tr><td>
 behavior
