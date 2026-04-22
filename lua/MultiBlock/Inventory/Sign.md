@@ -63,7 +63,8 @@ this block stores and renders arbitrary text content inside the game world.
 >- paste content from clipboard instead of typing in-game,
 >- temporarily disable internet connectivity,
 >- test large sign datasets on devices with sufficient RAM (16 GB recommended),
->
+
+>[!NOTE]
 >when manipulating large or formatted sign content, **prefer MOD environments**.
 
 ___
