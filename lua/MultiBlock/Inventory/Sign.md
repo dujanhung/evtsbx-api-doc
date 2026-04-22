@@ -53,10 +53,6 @@ this block stores and renders arbitrary text content inside the game world.
 >**these interruptions may result in lost or corrupted sign data**.
 
 >[!TIP]
-><h3>
->💡 recommended workflow
-></h3>
->
 >for safer sign content editing:
 >
 >- prepare text externally before inserting it into the block,
