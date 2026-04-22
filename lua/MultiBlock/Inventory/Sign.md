@@ -47,7 +47,7 @@ editing large sign contents directly in-game is not recommended.
 observed risks include:
 
 - interruption during editing caused by ADs,
-- external activity switching triggered by AD overlays,
+- external apps switching triggered by ADs,
 - application restart during long editing sessions.
 
 **these interruptions may result in partial writes or corrupted sign data**.
