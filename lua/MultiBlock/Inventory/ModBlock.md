@@ -61,7 +61,8 @@ get MOD block's instance.
 >to get other MOD blocks, use:
 >- `es.TryGetMultiBlock()` ,
 >- `es.MultiBlock.Transform.Up` ,  `es.MultiBlock.Transform.Down` , `es.MultiBlock.Transform.Left` , `es.MultiBlock.Transform.Right` , `es.MultiBlock.Transform.Front` , `es.MultiBlock.Transform.Back` ,
->- `es.Root.Up` ,  `es.Root.Down` , `es.Root.Left` , `es.Root.Right` , `es.Root.Front` , `es.Root.Back` .
+>- `es.Root.Up` ,  `es.Root.Down` , `es.Root.Left` , `es.Root.Right` , `es.Root.Front` , `es.Root.Back` ,
+>- `es.TryGetMultiBlockFromGuid()`
 
 ___
 
