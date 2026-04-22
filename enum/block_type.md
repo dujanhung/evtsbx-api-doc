@@ -2,7 +2,7 @@
 <code>es.MultiBlock.Type</code> enum
 </h2>
 
-Provides the complete list of block types available in the **Evertech Sandbox** Lua API.
+provides the complete list of block types available in the **Evertech Sandbox** Lua API.
 
 > [!NOTE]
 > unless otherwise specified, the term **paintable** means:
