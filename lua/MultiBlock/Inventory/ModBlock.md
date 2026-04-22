@@ -25,7 +25,7 @@ inherit
 
 represents a MOD block from **Evertech Sandbox Lua API**.
 
-this block could send messages to other blocks.
+this block could send message to other blocks.
 
 ___
 
