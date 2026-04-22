@@ -20,7 +20,7 @@ a `Sign` block from "Evertech Sandbox" Lua API.
 >
 >stronger RAM (64 GB) is recommended.
 >
->you should turn off internet connections, or copy-and-paste the text from clipboard.
+>also, you should turn off internet connections, or copy-and-paste the text from clipboard.
 
 <table><tr><td>
 inherit
