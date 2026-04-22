@@ -10,7 +10,7 @@ expands
 <code>es</code>
 </td></tr></table>
 
-a helper class to change MOD material.
+a helper class to change MOD block's materials at runtime.
 
 >[!IMPORTANT]
 >"Evertech Sandbox" support `PNG` and `JPG` files. other files would fire an error.
