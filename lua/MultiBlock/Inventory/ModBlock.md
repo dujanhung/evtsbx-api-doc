@@ -25,6 +25,8 @@ inherit
 
 represents a MOD block from **Evertech Sandbox Lua API**.
 
+this block could render 3D meshes, change materials, and run Lua scripts.
+
 ___
 
 <h2>
