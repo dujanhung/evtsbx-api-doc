@@ -23,47 +23,48 @@ represents a <code>Sign</code> block from the **Evertech Sandbox Lua API**.
 
 this block stores and renders arbitrary text content inside the game world.
 
-<h3>
-🛡️ security notice
-</h3>
+>[!CAUTION]
+><h3>
+>🛡️ security notice
+></h3>
+>
+>the text renderer does **not perform validation or sanitization**, so developers must ensure content safety manually when reading or writing sign data.
+>
+>loading sign data from untrusted sources may expose the runtime to:
+>- remote code execution,
+>- memory exhaustion (OOM) via oversized text buffers,
+>- excessive `<quad>` tag rendering,
+>- excessive unicode characters rendering.
+>
+>**only load sign data from trusted save files or verified multiplayer environments**.
 
-the text renderer does **not perform validation or sanitization**, so developers must ensure content safety manually when reading or writing sign data.
+>
+><h3>
+>☢️ runtime stability notice
+></h3>
+>
+>editing large sign contents directly in-game is not recommended.
+>
+>observed risks include:
+>- interruption during editing caused by ADs,
+>- external apps switching triggered by ADs,
+>- application restart during long editing sessions.
+>
+>**these interruptions may result in lost or corrupted sign data**.
 
-loading sign data from untrusted sources may expose the runtime to:
-
-- remote code execution,
-- memory exhaustion (OOM) via oversized text buffers,
-- excessive `<quad>` tag rendering,
-- excessive unicode characters rendering.
-
-**only load sign data from trusted save files or verified multiplayer environments**.
-
-<h3>
-☢️ runtime stability notice
-</h3>
-
-editing large sign contents directly in-game is not recommended.
-
-observed risks include:
-
-- interruption during editing caused by ADs,
-- external apps switching triggered by ADs,
-- application restart during long editing sessions.
-
-**these interruptions may result in lost or corrupted sign data**.
-
-<h3>
-💡 recommended workflow
-</h3>
-
-for safer sign content editing:
-
-- prepare text externally before inserting it into the block,
-- paste content from clipboard instead of typing in-game,
-- temporarily disable internet connectivity,
-- test large sign datasets on devices with sufficient RAM (16 GB recommended),
-
-when manipulating large or formatted sign content, **prefer MOD environments**.
+>[!TIP]
+><h3>
+>💡 recommended workflow
+></h3>
+>
+>for safer sign content editing:
+>
+>- prepare text externally before inserting it into the block,
+>- paste content from clipboard instead of typing in-game,
+>- temporarily disable internet connectivity,
+>- test large sign datasets on devices with sufficient RAM (16 GB recommended),
+>
+>when manipulating large or formatted sign content, **prefer MOD environments**.
 
 ___
 
