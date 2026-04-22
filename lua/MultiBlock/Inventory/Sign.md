@@ -18,6 +18,8 @@ a `Sign` block from "Evertech Sandbox" Lua API.
 >[!CAUTION]
 >don't write texts directly in-game, because ADs may interrupt, force open other apps to close, and clear all your texts.
 >
+>big RAM is ok, but small RAM would happens.
+>
 >instead, you should copy-and-paste the text from clipboard.
 
 <table><tr><td>
