@@ -137,7 +137,7 @@ default
 >this variable is commonly used for MOD - player interface, and ASCII art generator.
 
 >[!WARNING]
->at some updates until now, `Sign` text's font is changed, and the vertical spacing is increased. so, some ASCII arts would be broken, and displays incorrectly on the `Sign` .
+>at some updates until now, `Sign` text's font is changed, and the vertical spacing is increased. so, some ASCII arts would be broken, and renders incorrectly on the `Sign` .
 
 >[!CAUTION]
 >don't use `<quad>` , because it would cause lag.
