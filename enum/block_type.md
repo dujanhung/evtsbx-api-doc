@@ -8,7 +8,7 @@ a full list of block types from "Evertech Sandbox" API in Lua.
 >unless otherwise noted, the word "paintable" means `es.MultiBlock.isPaintable` would returns `True` , and `es.MultiBlock.Paint()` would works.
 
 >[!CAUTION]
->when using `es.CreateMultiblock()` , don't create blocks that goes outside <b><a>the MOD restriction § default unlocked items</a></b>, because the outside is listed as <i>illegal</i> acts of shoplifting or ADs prevention, unless you <i>actually</i> need it to validate enum.
+>when using `es.CreateMultiblock()` , don't create blocks that goes outside <b><a>the MOD restriction § inventory</a></b>, because the outside is listed as <i>illegal</i> acts of shoplifting or ADs prevention, unless you <i>actually</i> need it to validate enum.
 
 ___
 
