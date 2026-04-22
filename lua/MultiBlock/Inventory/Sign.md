@@ -4,14 +4,13 @@
 
 represents a <code>Sign</code> block from the **Evertech Sandbox Lua API**.
 
-this block stores and renders arbitrary text content inside the game world.  
-the text renderer does **not perform validation or sanitization**, so developers must ensure content safety manually when reading or writing sign data.
+this block stores and renders arbitrary text content inside the game world.
 
 <h3>
 🛡️ security notice
 </h3>
 
-the <code>Sign</code> block accepts raw text input and may render abusive formatting tags or unicode characters.
+the text renderer does **not perform validation or sanitization**, so developers must ensure content safety manually when reading or writing sign data.
 
 loading sign data from untrusted sources may expose the runtime to:
 
