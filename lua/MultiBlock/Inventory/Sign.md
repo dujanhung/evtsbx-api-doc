@@ -60,9 +60,6 @@ this block stores and renders arbitrary text content inside the game world.
 >- temporarily disable internet connectivity,
 >- test large sign datasets on devices with sufficient RAM (16 GB recommended),
 
->[!NOTE]
->when manipulating large or formatted sign content, **prefer MOD environments**.
-
 ___
 
 <h2>
