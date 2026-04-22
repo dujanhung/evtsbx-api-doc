@@ -25,7 +25,7 @@ a `Sign` block from "Evertech Sandbox" Lua API.
 >this block is <i>very</i> dangerous, because it don't have safeguards.
 >
 >by using this block, you have consent to be under attack of:
->- malicious script and link,
+>- malicious scripts and links,
 >- OOM bomb,
 >- `<quad>` bomb,
 >- the text itself.
