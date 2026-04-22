@@ -38,7 +38,7 @@ this block stores and renders arbitrary text content inside the game world.
 >
 >**only load sign data from trusted save files or verified multiplayer environments**.
 
->
+>[!CAUTION]
 ><h3>
 >☢️ runtime stability notice
 ></h3>
