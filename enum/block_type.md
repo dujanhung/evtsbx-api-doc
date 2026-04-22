@@ -5,19 +5,19 @@
 Provides the complete list of block types available in the **Evertech Sandbox** Lua API.
 
 > [!NOTE]
-> Unless otherwise specified, the term **paintable** means:
+> unless otherwise specified, the term **paintable** means:
 > - `es.MultiBlock.isPaintable` returns `True` ,
 > - `es.MultiBlock.Paint()` works as expected on the block.
 
 > [!CAUTION]
-> When using `es.CreateMultiblock()` , avoid creating blocks outside the limits defined in
+> when using `es.CreateMultiblock()` , avoid creating blocks outside the limits defined in
 > <b><a>MOD Restriction § Default Inventory</a></b>.
 >
-> According to moderation rules in the official **Evertech Sandbox Mods (VK)** community,
+> according to moderation rules in the official **Evertech Sandbox Mods (VK)** community,
 > spawning blocks outside the default inventory scope may be treated as **shoplifting**
-> or **ad-restriction bypassing**.
+> or **AD-restriction bypassing**.
 >
-> Only create such blocks if necessary for **enum validation or testing purposes**.
+> only create such blocks if necessary for **enum validation or testing purposes**.
 
 ___
 
