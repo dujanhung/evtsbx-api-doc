@@ -17,9 +17,9 @@ a `Sign` block from "Evertech Sandbox" Lua API.
 
 >[!CAUTION]
 >don't write texts directly in-game, because:
-> ADs may interrupt,
-> AD force open other apps to close,
-> the app is restarted.
+>- ADs may interrupt,
+>- AD force open other apps to close,
+>- the app is restarted.
 >
 >to deal with this, you should:
 >- use stronger RAM (16 GB) .
