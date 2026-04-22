@@ -6,8 +6,8 @@ Provides the complete list of block types available in the **Evertech Sandbox** 
 
 > [!NOTE]
 > Unless otherwise specified, the term **paintable** means:
-> - `es.MultiBlock.isPaintable` returns `True`
-> - `es.MultiBlock.Paint()` works as expected on the block
+> - `es.MultiBlock.isPaintable` returns `True` ,
+> - `es.MultiBlock.Paint()` works as expected on the block.
 
 > [!CAUTION]
 > When using `es.CreateMultiblock()`, avoid creating blocks outside the limits defined in
