@@ -2,51 +2,51 @@
 <code>es.MultiBlock.Sign</code>
 </h2>
 
-Represents a <code>Sign</code> block from the **Evertech Sandbox Lua API**.
+represents a <code>Sign</code> block from the **Evertech Sandbox Lua API**.
 
-This block stores and renders arbitrary text content inside the game world.  
-The text renderer does **not perform validation or sanitization**, so developers must ensure content safety manually when reading or writing sign data.
+this block stores and renders arbitrary text content inside the game world.  
+the text renderer does **not perform validation or sanitization**, so developers must ensure content safety manually when reading or writing sign data.
 
 <h3>
-🛡️ Security Notice
+🛡️ security notice
 </h3>
 
-The <code>Sign</code> block accepts raw text input and may render abusive formatting tags or unicode characters.
+the <code>Sign</code> block accepts raw text input and may render abusive formatting tags or unicode characters.
 
-Loading sign data from untrusted sources may expose the runtime to:
+loading sign data from untrusted sources may expose the runtime to:
 
 - malicious script-like payloads embedded in text,
 - memory exhaustion (OOM) via oversized text buffers,
 - excessive `<quad>` tag rendering ("quad bomb"),
 - rendering corruption from unicode characters.
 
-**Only load sign data from trusted save files or verified multiplayer environments.**
+**only load sign data from trusted save files or verified multiplayer environments.**
 
 <h3>
-☢️ Runtime Stability Notice
+☢️ runtime stability notice
 </h3>
 
-Editing large sign contents directly in-game is not recommended.
+editing large sign contents directly in-game is not recommended.
 
-Observed risks include:
+observed risks include:
 
 - interruption during editing caused by ADs,
 - external activity switching triggered by AD overlays,
 - application restart during long editing sessions.
 
-These interruptions may result in partial writes or corrupted sign data.
+these interruptions may result in partial writes or corrupted sign data.
 
 <h3>
-💡 Recommended Workflow
+💡 recommended workflow
 </h3>
 
-For safer sign content editing:
+for safer sign content editing:
 
 - prepare text externally before inserting it into the block,
 - paste content from clipboard instead of typing in-game,
 - temporarily disable internet connectivity when editing large payloads,
 - test large sign datasets on devices with sufficient RAM (16 GB recommended),
-- prefer controlled/modded environments when manipulating large or formatted sign content.
+- prefer MOD environments when manipulating large or formatted sign content.
 
 <table><tr><td>
 inherit
