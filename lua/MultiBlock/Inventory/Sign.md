@@ -28,7 +28,7 @@ a `Sign` block from "Evertech Sandbox" Lua API.
 >- malicious scripts and links,
 >- OOM bomb,
 >- `<quad>` bomb,
->- the text itself.
+>- the text content.
 >
 >so, don't get it from untrusted file sources, or random multiplayer.
 
