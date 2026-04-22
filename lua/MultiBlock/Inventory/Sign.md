@@ -94,7 +94,7 @@ default
 `Sign` text.
 
 >[!TIP]
->this variable is used for MOD - player communication, and MOD ASCII-style screen.
+>this variable is commonly used for MOD - player interface, and MOD ASCII-style screen.
 
 >[!WARNING]
 >at some updates until now, `Sign` text's font is changed, and the vertical spacing is increased. so, some ASCII arts would be broken, and displays incorrectly on the `Sign` .
