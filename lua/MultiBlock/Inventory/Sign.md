@@ -25,7 +25,7 @@ this block stores and renders arbitrary text content inside the game world.
 
 >[!CAUTION]
 ><h3>
->🛡️ security notice
+>🛡️ security risk
 ></h3>
 >
 >the text renderer does **not perform validation or sanitization**, so developers must ensure content safety manually when reading or writing sign data.
@@ -40,7 +40,7 @@ this block stores and renders arbitrary text content inside the game world.
 
 >[!CAUTION]
 ><h3>
->☢️ runtime stability notice
+>☢️ runtime stability
 ></h3>
 >
 >editing large sign contents directly in-game is not recommended.
