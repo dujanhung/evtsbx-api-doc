@@ -2,7 +2,7 @@
 <code>es.MultiBlock.Type</code> enum
 </h2>
 
-a full list of block types from "Evertech Sandbox" in Lua.
+a full list of block types from "Evertech Sandbox" API in Lua.
 
 >[!NOTE]
 >unless otherwise noted, the word "paintable" means `es.MultiBlock.isPaintable` would returns `True` , and `es.MultiBlock.Paint()` would works.
