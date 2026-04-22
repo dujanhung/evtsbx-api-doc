@@ -54,6 +54,15 @@ type
 
 get MOD block's instance.
 
+>[!NOTE]
+>the main block itself is already a MOD block. so, this constructor is always be available.
+
+>[!IMPORTANT]
+>to get other MOD blocks, use:
+>- `es.TryGetMultiBlock()` ,
+>- `es.MultiBlock.Transform.Up` ,  `Down` , `Left` , `Right` , `Front` , `Back` ,
+>- `es.Root.Up` ,  `Down` , `Left` , `Right` , `Front` , `Back` .
+
 ___
 
 <h2>
