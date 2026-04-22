@@ -99,7 +99,7 @@ range
 more than <code>0.0</code>
 </td></tr></table>
 
-the time between screen rendering frames.
+the interval of screen rendering frames.
 
 ___
 
@@ -133,4 +133,4 @@ range
 more than <code>0.0</code>
 </td></tr></table>
 
-the time between physics rendering frames. usually about <code>0.02</code> .
+the interval of physics rendering frames. usually about <code>0.02</code> .
