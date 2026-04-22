@@ -94,7 +94,7 @@ default
 `Sign` text.
 
 >[!TIP]
->this one is used for MOD text input, and MOD screen.
+>this one is recommended for MOD text input, and MOD ASCII-style screen.
 
 >[!WARNING]
 >at some updates until now, `Sign` text's font is changed, and the vertical spacing is increased. so, some ASCII arts would be broken, and displays incorrectly on the `Sign` .
