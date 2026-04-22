@@ -18,11 +18,10 @@ a `Sign` block from "Evertech Sandbox" Lua API.
 >[!CAUTION]
 >don't write texts directly in-game, because ADs may interrupt, force open other apps to close AD, and restart the app.
 >
->stronger RAM (16 GB) is recommended.
->
->also, you should turn off internet connections.
->
->in multiplayer, you should copy-and-paste the text from clipboard.
+>instead, you should:
+>- use stronger RAM (16 GB) .
+>- turn off internet connections.
+>- copy-and-paste the text from clipboard.
 
 <table><tr><td>
 inherit
