@@ -42,7 +42,7 @@ expanded by
 <code>es.Time</code>
 </td></tr></table>
 
-the "Evertech Sandbox" API in Lua.
+represents **Evertech Sandbox Lua API**.
 
 ___
 
