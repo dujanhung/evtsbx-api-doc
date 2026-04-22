@@ -55,7 +55,7 @@ type
 get MOD block's instance.
 
 >[!NOTE]
->the main block itself is already a MOD block. so, this constructor is always be available.
+>the main block itself is a MOD block. so, this constructor is always be available.
 
 ___
 
