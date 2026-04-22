@@ -10,7 +10,7 @@ Provides the complete list of block types available in the **Evertech Sandbox** 
 > - `es.MultiBlock.Paint()` works as expected on the block.
 
 > [!CAUTION]
-> When using `es.CreateMultiblock()`, avoid creating blocks outside the limits defined in
+> When using `es.CreateMultiblock()` , avoid creating blocks outside the limits defined in
 > <b><a>MOD Restriction § Default Inventory</a></b>.
 >
 > According to moderation rules in the official **Evertech Sandbox Mods (VK)** community,
