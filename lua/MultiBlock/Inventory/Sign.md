@@ -60,9 +60,10 @@ for safer sign content editing:
 
 - prepare text externally before inserting it into the block,
 - paste content from clipboard instead of typing in-game,
-- temporarily disable internet connectivity when editing large payloads,
+- temporarily disable internet connectivity,
 - test large sign datasets on devices with sufficient RAM (16 GB recommended),
-- prefer MOD environments when manipulating large or formatted sign content.
+
+when manipulating large or formatted sign content, prefer MOD environments.
 
 ___
 
