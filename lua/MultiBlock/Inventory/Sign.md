@@ -20,8 +20,8 @@ a `Sign` block from "Evertech Sandbox" Lua API.
 >
 >instead, you should:
 >- use stronger RAM (16 GB) .
->- turn off internet connections.
->- copy-and-paste the text from clipboard.
+>- (singleplayer) turn off internet connections.
+>- (multiplayer) copy-and-paste the text from clipboard.
 
 <table><tr><td>
 inherit
