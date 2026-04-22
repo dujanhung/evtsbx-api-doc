@@ -2,6 +2,23 @@
 <code>es.MultiBlock.Sign</code>
 </h2>
 
+<table><tr><td>
+inherit
+</td><td>
+|
+</td><td>
+<code>es.MultiBlock</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+<code>es.MultiBlock.Type</code> specific
+</td><td>
+|
+</td><td>
+<code>Sign</code>
+</td></tr></table>
+
 represents a <code>Sign</code> block from the **Evertech Sandbox Lua API**.
 
 this block stores and renders arbitrary text content inside the game world.
@@ -46,23 +63,6 @@ for safer sign content editing:
 - temporarily disable internet connectivity when editing large payloads,
 - test large sign datasets on devices with sufficient RAM (16 GB recommended),
 - prefer MOD environments when manipulating large or formatted sign content.
-
-<table><tr><td>
-inherit
-</td><td>
-|
-</td><td>
-<code>es.MultiBlock</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-<code>es.MultiBlock.Type</code> specific
-</td><td>
-|
-</td><td>
-<code>Sign</code>
-</td></tr></table>
 
 ___
 
