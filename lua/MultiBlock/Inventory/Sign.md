@@ -50,7 +50,7 @@ observed risks include:
 - external apps switching triggered by ADs,
 - application restart during long editing sessions.
 
-**these interruptions may result in loss or corrupted sign data**.
+**these interruptions may result in lost or corrupted sign data**.
 
 <h3>
 💡 recommended workflow
