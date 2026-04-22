@@ -13,7 +13,7 @@ a `Sign` block from "Evertech Sandbox" Lua API.
 >- `<quad>` bomb,
 >- bad texts and ASCII arts.
 >
->so, don't collect it from untrusted file sources, or random multiplayer.
+>so, don't get it from untrusted file sources, or random multiplayer.
 
 >[!CAUTION]
 >don't write texts directly in-game, because:
