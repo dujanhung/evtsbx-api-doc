@@ -25,12 +25,10 @@ a `Sign` block from "Evertech Sandbox" Lua API.
 >this block is <i>very</i> dangerous, because it don't have safeguards.
 >
 >by using this block, you have consent to be under attack of:
->- malicious script,
->- malicious link,
+>- malicious script and link,
 >- OOM bomb,
 >- `<quad>` bomb,
->- bad ASCII arts,
->- bad words.
+>- bad text itself.
 >
 >so, don't get it from untrusted file sources, or random multiplayer.
 
