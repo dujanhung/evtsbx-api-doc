@@ -89,3 +89,19 @@ more than <code>0.0</code>
 </td></tr></table>
 
 wheel ellipse.
+
+___
+
+```json
+"OffsetX"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td></tr></table>
+
+offset X.
