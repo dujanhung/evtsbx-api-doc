@@ -3,7 +3,12 @@ missing API
 </h2>
 
 `es.Audio`
+
 `es.GUI`
+
+`es.Sensor`
+
+`es.MultiPlayer`
 
 ___
 
