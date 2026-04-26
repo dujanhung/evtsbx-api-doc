@@ -38,7 +38,7 @@ range
 more than <code>0.0</code>
 </td></tr></table>
 
-wheel ellispe.
+wheel width.
 
 ___
 
@@ -88,7 +88,7 @@ range
 more than <code>0.0</code>
 </td></tr></table>
 
-wheel ellipse.
+wheel height.
 
 ___
 
