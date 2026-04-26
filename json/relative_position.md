@@ -10,7 +10,7 @@ MOD_block_connection_relative_position
 }
 ```
 
-represents MOD block's connection point relative position.
+represents MOD block's connection point's relative position.
 
 ___
 
