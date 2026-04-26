@@ -8,7 +8,11 @@ missing API
 ___
 
 <h2>
-missing <code>es.MultiBlock.Type</code> API
+missing
+
+<code>es.MultiBlock.Type</code>
+
+API
 </h2>
 
 >[!NOTE]
