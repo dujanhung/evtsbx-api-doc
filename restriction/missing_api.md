@@ -1,99 +1,33 @@
-```lua
-es.MultiBlock.DriverSeat
-```
+`es.MultiBlock.DriverSeat`
 
-___
+`es.MultiBlock.PassengerSeat`
 
-```lua
-es.MultiBlock.PassengerSeat
-```
+`es.MultiBlock.Bearing`
 
-___
+`es.MultiBlock.Engine`
 
-```lua
-es.MultiBlock.Bearing
-```
+`es.MultiBlock.RotationController`
 
-___
+`es.MultiBlock.Thruster`
 
-```lua
-es.MultiBlock.Engine
-```
+`es.MultiBlock.VK1_A_Jet`
 
-___
+`es.MultiBlock.Suspension`
 
-```lua
-es.MultiBlock.RotationController
-```
+`es.MultiBlock.Piston`
 
-___
+`es.MultiBlock.Mortar`
 
-```lua
-es.MultiBlock.Thruster
-```
+`es.MultiBlock.MortarMarine`
 
-___
+`es.MultiBlock.Timer`
 
-```lua
-es.MultiBlock.VK1_A_Jet
-```
+`es.MultiBlock.SpeechBlock`
 
-___
+`es.MultiBlock.Shield`
 
-```lua
-es.MultiBlock.Suspension
-```
+`es.MultiBlock.SciFiCab`
 
-___
+`es.MultiBlock.StrobleLights`
 
-```lua
-es.MultiBlock.Piston
-```
-
-___
-
-```lua
-es.MultiBlock.Mortar
-```
-
-___
-
-```lua
-es.MultiBlock.MortarMarine
-```
-
-___
-
-```lua
-es.MultiBlock.Timer
-```
-
-___
-
-```lua
-es.MultiBlock.SpeechBlock
-```
-
-___
-
-```lua
-es.MultiBlock.Shield
-```
-
-___
-
-```lua
-es.MultiBlock.SciFiCab
-```
-
-___
-
-```lua
-es.MultiBlock.StrobleLights
-```
-
-___
-
-```lua
-es.MultiBlock.Toilet
-```
+`es.MultiBlock.Toilet`
