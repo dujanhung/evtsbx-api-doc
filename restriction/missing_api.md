@@ -12,6 +12,10 @@ missing API
 
 `es.MultiPlayer`
 
+`es.BluePrint`
+
+`es.World`
+
 ___
 
 <h2>
