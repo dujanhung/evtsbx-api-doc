@@ -25,3 +25,17 @@ ___
 ```lua
 es.MultiBlock.VK1_A_Jet
 ```
+
+___
+
+```lua
+es.MultiBlock.Suspension
+```
+
+___
+
+```lua
+es.MultiBlock.Piston
+```
+
+___
