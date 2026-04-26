@@ -70,7 +70,7 @@ range
 more than or equal to <code>0</code> .
 </td></tr></table>
 
-connection type.
+connection point's type. see this enum.
 
 ___
 
