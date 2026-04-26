@@ -38,7 +38,7 @@ range
 more than <code>0.0</code>
 </td></tr></table>
 
-wheel width.
+wheel collider width.
 
 ___
 
@@ -63,7 +63,7 @@ range
 more than <code>0.0</code>
 </td></tr></table>
 
-wheel thickness.
+wheel collider thickness.
 
 ___
 
@@ -88,7 +88,7 @@ range
 more than <code>0.0</code>
 </td></tr></table>
 
-wheel height.
+wheel collider height.
 
 ___
 
@@ -104,7 +104,7 @@ value type
 <code>float</code>
 </td></tr></table>
 
-offset X.
+wheel collider offset X.
 
 ___
 
@@ -120,7 +120,7 @@ value type
 <code>float</code>
 </td></tr></table>
 
-offset Y.
+wheel collider offset Y.
 
 ___
 
@@ -136,4 +136,4 @@ value type
 <code>float</code>
 </td></tr></table>
 
-offset Z.
+wheel collider offset Z.
