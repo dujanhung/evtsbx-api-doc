@@ -2,12 +2,15 @@
 missing API
 </h2>
 
+`es.Audio`
+`es.GUI`
+
+___
+
 >[!NOTE]
 >```lua
 >mb=es.MultiBlock
 >```
-
-___
 
 `mb.DriverSeat`
 
