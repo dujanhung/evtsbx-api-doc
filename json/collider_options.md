@@ -39,3 +39,53 @@ more than <code>0.0</code>
 </td></tr></table>
 
 wheel diameter.
+
+___
+
+```json
+"SizeY"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td><tr><tr><td>
+</td><td>
+</td><td>
+</td><tr><tr><td>
+range
+</td><td>
+|
+</td><td>
+more than <code>0.0</code>
+</td></tr></table>
+
+wheel thickness.
+
+___
+
+```json
+"SizeZ"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td><tr><tr><td>
+</td><td>
+</td><td>
+</td><tr><tr><td>
+range
+</td><td>
+|
+</td><td>
+more than <code>0.0</code>
+</td></tr></table>
+
+wheel diameter.
