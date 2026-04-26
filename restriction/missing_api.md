@@ -16,6 +16,27 @@ missing API
 
 `es.World`
 
+`es.Currency`
+
+`es.Inventory`
+
+___
+
+<h2>
+missing `es.Player` API
+</h2>
+
+>[!NOTE]
+>```lua
+>pl=es.Player
+>```
+
+`pl.Name`
+
+`pl.Skin`
+
+`pl.JetpackMode`
+
 ___
 
 <h2>
