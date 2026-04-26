@@ -16,3 +16,19 @@ MOD_block_connection
 ```
 
 represents MOD block's connection.
+
+___
+
+```json
+"type"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+connection type. see this enum.
