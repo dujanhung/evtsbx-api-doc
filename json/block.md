@@ -271,3 +271,19 @@ value type
 </td></tr></table>
 
 `SizableWheelModBlock` mesh options.
+
+___
+
+```json
+"connections"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>MOD_connection</code>
+</td></tr></table>
+
+connection.
