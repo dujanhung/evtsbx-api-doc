@@ -6,8 +6,8 @@ missing API
 >unless otherwise specified, `mb` means `es.MultiBlock` .
 >
 >```lua
-mb=es.MultiBlock
-```
+>mb=es.MultiBlock
+>```
 
 ___
 
