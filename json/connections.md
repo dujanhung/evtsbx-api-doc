@@ -71,3 +71,19 @@ more than or equal to<code>0</code> .
 </td></tr></table>
 
 connection type.
+
+___
+
+```json
+"color"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>MOD_block_connection_relative_position</code>
+</td></tr></table>
+
+connection point's relative position.
