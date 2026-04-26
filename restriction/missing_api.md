@@ -53,6 +53,24 @@ es.MultiBlock.Piston
 ___
 
 ```lua
+es.MultiBlock.Mortar
+```
+
+___
+
+```lua
+es.MultiBlock.MortarMarine
+```
+
+___
+
+```lua
+es.MultiBlock.Timer
+```
+
+___
+
+```lua
 es.MultiBlock.SpeechBlock
 ```
 
