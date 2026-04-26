@@ -48,3 +48,28 @@ value type
 </td></tr></table>
 
 connection point's color. use HEX color.
+
+___
+
+```json
+"connectionsLimit"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>int</code>
+</td></tr><tr><td>
+</td><td>
+</td><td>
+</td></tr><tr><td>
+range
+</td><td>
+|
+</td><td>
+more than or equal to<code>0</code> .
+</td></tr></table>
+
+connection type.
