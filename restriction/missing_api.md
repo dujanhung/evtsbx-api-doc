@@ -59,6 +59,12 @@ es.MultiBlock.SpeechBlock
 ___
 
 ```lua
+es.MultiBlock.Shield
+```
+
+___
+
+```lua
 es.MultiBlock.SciFiCab
 ```
 
