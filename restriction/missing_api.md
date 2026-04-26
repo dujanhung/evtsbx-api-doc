@@ -35,6 +35,10 @@ missing <code>es.Player</code> API
 
 `pl.Skin`
 
+`pl.MovementSpeed`
+
+`pl.FOV`
+
 `pl.JetpackMode`
 
 `pl.IsHost`
