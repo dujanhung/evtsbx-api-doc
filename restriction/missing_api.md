@@ -31,12 +31,3 @@
 `es.MultiBlock.StrobleLights`
 
 `es.MultiBlock.Toilet`
-
-<ol start="1" sort>
-<li>
-b
-</li>
-<li>
-a
-</li>
-</ol>
