@@ -51,3 +51,13 @@ es.MultiBlock.Piston
 ```
 
 ___
+
+```lua
+es.MultiBlock.SciFiCab
+```
+
+___
+
+```lua
+es.MultiBlock.StrobleLights
+```
