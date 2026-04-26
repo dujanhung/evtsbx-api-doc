@@ -1,4 +1,16 @@
 ```lua
+es.MultiBlock.DriverSeat
+```
+
+___
+
+```lua
+es.MultiBlock.PassengerSeat
+```
+
+___
+
+```lua
 es.MultiBlock.Engine
 ```
 
