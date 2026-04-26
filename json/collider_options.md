@@ -88,4 +88,4 @@ range
 more than <code>0.0</code>
 </td></tr></table>
 
-wheel diameter.
+wheel ellipse.
