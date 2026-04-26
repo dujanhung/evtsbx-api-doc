@@ -13,7 +13,7 @@
 }
 ```
 
-the "Evertech Sandbox" MOD collider options in JSON.
+represents `SizableWheelModBlock` collider options in JSON.
 
 ___
 
