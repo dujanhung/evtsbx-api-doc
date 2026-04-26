@@ -7,7 +7,7 @@ represents "MOD block connection point's type"
 ___
 
 ```json
-SignalReceiver
+"SignalReceiver"
 ```
 
 signal receiver, also called "input" .
@@ -15,7 +15,7 @@ signal receiver, also called "input" .
 ___
 
 ```json
-SignalSender
+"SignalSender"
 ```
 
 signal sender, also called "output" .
@@ -23,7 +23,7 @@ signal sender, also called "output" .
 ___
 
 ```json
-SignalReceiverSender
+"SignalReceiverSender"
 ```
 
 both receiver and sender, also called "universal" .
