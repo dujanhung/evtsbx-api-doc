@@ -9,7 +9,7 @@ MOD_block_connection
  "connectionsLimit":32767,
  "relativePosition":{
   "X":0.0,
-  "Y":1.0,
+  "Y":0.0,
   "Z":0.0
  }
 }
