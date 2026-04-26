@@ -15,7 +15,7 @@ MOD_block_connection
 }
 ```
 
-represents MOD block's connection.
+represents MOD block's connection point.
 
 ___
 
@@ -31,4 +31,20 @@ value type
 <code>String</code>
 </td></tr></table>
 
-connection type. see this enum.
+connection point's type. see this enum.
+
+___
+
+```json
+"color"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>String</code>
+</td></tr></table>
+
+connection point's color. use HEX color.
