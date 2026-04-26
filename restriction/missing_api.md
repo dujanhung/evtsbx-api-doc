@@ -43,6 +43,10 @@ missing <code>es.Player</code> API
 
 `pl.IsRunning`
 
+`pl.IsJumping`
+
+`pl.IsClimbing`
+
 `pl.IsHost`
 
 `pl.IsEditable`
