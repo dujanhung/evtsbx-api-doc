@@ -27,6 +27,15 @@ value type
 |
 </td><td>
 <code>float</code>
+</td><tr><tr><td>
+</td><td>
+</td><td>
+</td><tr><tr><td>
+range
+</td><td>
+|
+</td><td>
+more than <code>0.0</code>
 </td></tr></table>
 
-collider size X.
+wheel diameter.
