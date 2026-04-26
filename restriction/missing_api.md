@@ -53,6 +53,14 @@ missing <code>es.Player</code> API
 
 `pl.Jump()`
 
+`pl.ForceEnterDriverSeat()`
+
+`pl.ForceExitDriverSeat()`
+
+`pl.ForceEnterPassengerSeat()`
+
+`pl.ForceExitPassengerSeat()`
+
 ___
 
 <h2>
