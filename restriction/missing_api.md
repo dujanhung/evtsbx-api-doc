@@ -7,6 +7,10 @@ missing API
 
 ___
 
+<h2>
+missing `es.MultiBlock.Type` API
+</h2>
+
 >[!NOTE]
 >```lua
 >mb=es.MultiBlock
