@@ -47,6 +47,8 @@ missing <code>es.Player</code> API
 
 `pl.IsFlyable`
 
+`pl.Kick()`
+
 ___
 
 <h2>
