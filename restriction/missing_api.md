@@ -91,3 +91,9 @@ ___
 ```lua
 es.MultiBlock.StrobleLights
 ```
+
+___
+
+```lua
+es.MultiBlock.Toilet
+```
