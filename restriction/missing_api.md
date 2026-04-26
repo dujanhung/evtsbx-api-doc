@@ -43,7 +43,7 @@ missing <code>es.Player</code> API
 
 `pl.IsRunning`
 
-`pl.IsFloating`
+`pl.IsOnGround`
 
 `pl.IsClimbing`
 
