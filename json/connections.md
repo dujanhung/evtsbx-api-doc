@@ -14,3 +14,5 @@ MOD_block_connection
  }
 }
 ```
+
+represents MOD block's connection.
