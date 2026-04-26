@@ -11,3 +11,51 @@ MOD_block_connection_relative_position
 ```
 
 represents MOD block's connection point relative position.
+
+___
+
+```json
+"X"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td></tr></table>
+
+position X.
+
+___
+
+```json
+"Y"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td></tr></table>
+
+position Y.
+
+___
+
+```json
+"Z"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td></tr></table>
+
+position Z.
