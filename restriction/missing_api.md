@@ -11,13 +11,13 @@ es.MultiBlock.PassengerSeat
 ___
 
 ```lua
-es.MultiBlock.Engine
+es.MultiBlock.Bearing
 ```
 
 ___
 
 ```lua
-es.MultiBlock.Bearing
+es.MultiBlock.Engine
 ```
 
 ___
