@@ -3,8 +3,6 @@ missing API
 </h2>
 
 >[!NOTE]
->unless otherwise specified, `mb` means `es.MultiBlock` .
->
 >```lua
 >mb=es.MultiBlock
 >```
