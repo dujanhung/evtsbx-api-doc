@@ -23,7 +23,7 @@ missing API
 ___
 
 <h2>
-missing `es.Player` API
+missing <code>es.Player</code> API
 </h2>
 
 >[!NOTE]
