@@ -2,6 +2,8 @@
 missing API
 </h2>
 
+`es.IO`
+
 `es.Audio`
 
 `es.GUI`
