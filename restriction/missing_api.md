@@ -41,6 +41,8 @@ missing <code>es.Player</code> API
 
 `pl.JetpackMode`
 
+`pl.IsRunning`
+
 `pl.IsHost`
 
 `pl.IsEditable`
@@ -48,6 +50,8 @@ missing <code>es.Player</code> API
 `pl.IsFlyable`
 
 `pl.Kick()`
+
+`pl.Jump()`
 
 ___
 
