@@ -47,13 +47,13 @@ missing <code>es.Player</code> API
 
 `pl.IsClimbing`
 
-`pl.IsHost`
+`pl.MultiplayerIsHost`
 
 `pl.IsEditable`
 
 `pl.IsFlyable`
 
-`pl.Kick()`
+`pl.MultiplayerKick()`
 
 `pl.Jump()`
 
