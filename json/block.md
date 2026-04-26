@@ -20,7 +20,7 @@ MOD_block
  "colliderOptions":{
   "MOD_collider_option"
  },
- "meshOption":{
+ "meshOptions":{
   "MOD_mesh_option"
  },
  "connections":[
