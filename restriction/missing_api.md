@@ -53,6 +53,12 @@ es.MultiBlock.Piston
 ___
 
 ```lua
+es.MultiBlock.SpeechBlock
+```
+
+___
+
+```lua
 es.MultiBlock.SciFiCab
 ```
 
