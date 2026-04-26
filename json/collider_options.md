@@ -105,3 +105,35 @@ value type
 </td></tr></table>
 
 offset X.
+
+___
+
+```json
+"OffsetY"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td></tr></table>
+
+offset Y.
+
+___
+
+```json
+"OffsetZ"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td></tr></table>
+
+offset Z.
