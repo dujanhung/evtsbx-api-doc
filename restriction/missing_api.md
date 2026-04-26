@@ -31,7 +31,7 @@ missing <code>es.Player</code> API
 >pl=es.Player
 >```
 
-`pl.Nickname`
+`pl.Username`
 
 `pl.CharacterSkin`
 
