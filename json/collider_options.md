@@ -1,1 +1,32 @@
-.
+<h2>
+collider options
+</h2>
+
+```json
+{
+ "SizeX":1.0,
+ "SizeY":1.0,
+ "SizeZ":1.0,
+ "OffsetX":0.0,
+ "OffsetY":0.0,
+ "OffsetZ":0.0
+}
+```
+
+the "Evertech Sandbox" MOD collider options in JSON.
+
+___
+
+```json
+"SizeX"
+```
+
+<table><tr><td>
+value type
+</td><td>
+|
+</td><td>
+<code>float</code>
+</td></tr></table>
+
+collider size X.
