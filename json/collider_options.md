@@ -1,5 +1,5 @@
 <h2>
-collider options
+`SizableWheelModBlock` collider options
 </h2>
 
 ```json
