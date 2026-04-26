@@ -8,7 +8,7 @@ missing API
 ___
 
 <h2>
-missing `es.MultiBlock.Type` API
+missing <code>es.MultiBlock.Type</code> API
 </h2>
 
 >[!NOTE]
