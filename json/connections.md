@@ -70,7 +70,7 @@ range
 more than or equal to <code>0</code> .
 </td></tr></table>
 
-connection point's limit.
+connection point's connection limit.
 
 ___
 
