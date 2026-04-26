@@ -8,9 +8,7 @@ MOD_block_connection
  "color":"#ffffff",
  "connectionsLimit":32767,
  "relativePosition":{
-  "X":0.0,
-  "Y":0.0,
-  "Z":0.0
+  "MOD_block_connection_relative_position"
  }
 }
 ```
