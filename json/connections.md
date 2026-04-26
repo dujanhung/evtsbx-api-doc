@@ -67,7 +67,7 @@ range
 </td><td>
 |
 </td><td>
-more than or equal to<code>0</code> .
+more than or equal to <code>0</code> .
 </td></tr></table>
 
 connection type.
