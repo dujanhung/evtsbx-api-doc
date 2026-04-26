@@ -34,9 +34,9 @@
 
 <ol start="1">
 <li>
-a
+b
 </li>
 <li>
-b
+a
 </li>
 </ol>
