@@ -4,6 +4,10 @@ missing API
 
 >[!NOTE]
 >unless otherwise specified, `mb` means `es.MultiBlock` .
+>
+>```lua
+mb=es.MultiBlock
+```
 
 ___
 
