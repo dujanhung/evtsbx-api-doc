@@ -37,6 +37,12 @@ missing <code>es.Player</code> API
 
 `pl.JetpackMode`
 
+`pl.IsHost`
+
+`pl.IsEditable`
+
+`pl.IsFlyable`
+
 ___
 
 <h2>
