@@ -12,7 +12,7 @@ missing API
 
 `es.MultiPlayer`
 
-`es.BluePrint`
+`es.Blueprint`
 
 `es.World`
 
