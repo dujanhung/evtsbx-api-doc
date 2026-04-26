@@ -254,7 +254,7 @@ value type
 <code>MOD_collider_option</code>
 </td></tr></table>
 
-`SimpleModBlock` collider options.
+`SizableWheelModBlock` collider options.
 
 ___
 
@@ -270,4 +270,4 @@ value type
 <code>MOD_mesh_option</code>
 </td></tr></table>
 
-`SimpleModBLCJ`
+`SizableWheelModBlock` mesh options.
