@@ -84,7 +84,7 @@ missing <code>es.MultiBlock.Type</code> API
 
 `mb.Engine`
 
-`mb.RotationController`
+`mb.Controller`
 
 `mb.Thruster`
 
