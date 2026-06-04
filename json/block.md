@@ -39,80 +39,40 @@ icon texture filepath.
 ___
 
 ```json
-"dif"
+"dif|@required,filepath_flag(png)":"str"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table
 
 albedo texture filepath.
 
 ___
 
 ```json
-"nor"
+"nor|filepath_flag(png)":"str"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
 
 normal texture filepath.
 
 ___
 
 ```json
-"met"
+"met|filepath_flag(png)":"str"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
 
 metallic texture filepath.
 
 ___
 
 ```json
-"mesh"
+"mesh|@required,filepath_flag(obj)":"str"
 ```
 
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
-
-3D mesh filepath.
+OBJ filepath.
 
 ___
 
 ```json
-"script"
+"script|filepath_flag(lua)":"str"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
 
 Lua script filepath.
 
