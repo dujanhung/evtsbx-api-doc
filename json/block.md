@@ -134,16 +134,8 @@ OBJ scale.
 ___
 
 ```json
-"colliderOptions"
+"colliderOptions|need(collider.value==collider.enum.slot(2))":"dict"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>MOD_collider_option</code>
-</td></tr></table>
 
 `SizableWheelModBlock` collider options.
 
@@ -153,16 +145,8 @@ value type
 ___
 
 ```json
-"meshOptions"
+"meshOptions|need(collider.value==collider.enum.slot(2))":"dict"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>MOD_mesh_option</code>
-</td></tr></table>
 
 `SizableWheelModBlock` mesh options.
 
