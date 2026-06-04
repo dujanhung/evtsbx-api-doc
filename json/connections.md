@@ -2,17 +2,6 @@
 MOD_block_connection
 </h2>
 
-```json
-{
- "type":"signalReceiverSender",
- "color":"#ffffff",
- "connectionsLimit":32767,
- "relativePosition":{
-  "MOD_block_connection_relative_position"
- }
-}
-```
-
 represents MOD block's connection point.
 
 ___
@@ -21,15 +10,9 @@ ___
 "type"
 ```
 
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
+connection point's type.
 
-connection point's type. see this enum.
+see this enum.
 
 ___
 
