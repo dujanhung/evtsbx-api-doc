@@ -2,19 +2,6 @@
 MOD_header
 </h2>
 
-```json
-{
- "name|@required":"str",
- "description|@required":"str",
- "author|@required":"str",
- "version|@required":"str",
- "preview|@required,external_file(png)":"str",
- "simpleblocks|@required,list_flag(allow_multiple)":[
-  "MOD_block"
- ]
-}
-```
-
 the "Evertech Sandbox" MOD header in JSON.
 
 >[!IMPORTANT]
