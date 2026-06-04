@@ -15,48 +15,24 @@ MOD block UUID.
 ___
 
 ```json
-"name"
+"name|@required":"str"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
 
 MOD block name.
 
 ___
 
 ```json
-"description"
+"description|@required":"str"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
 
 MOD block description.
 
 ___
 
 ```json
-"icon"
+"icon|@required,filepath_flag(png)":"str"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
 
 icon texture filepath.
 
