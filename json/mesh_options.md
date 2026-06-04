@@ -2,13 +2,7 @@
 <code>SizableWheelModBlock</code> mesh options
 </h2>
 
-```json
-{
- "OffsetY":0.0
-}
-```
-
-represents `SizableWheelModBlock` mesh options in JSON.
+represents `SizableWheelModBlock` mesh options.
 
 ___
 
@@ -16,12 +10,4 @@ ___
 "OffsetY"
 ```
 
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td></tr></table>
-
-wheel mesh offset Y.
+mesh offset Y.
