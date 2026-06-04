@@ -2,32 +2,7 @@
 MOD_block
 </h2>
 
-```json
-{
- "uuid":"random_uuid",
- "name":"new MOD block",
- "description":"sample text",
- "icon":"icon.png",
- "dif":"dif.png",
- "nor":"nor.png",
- "met":"met.png",
- "mesh":"mesh.obj",
- "script":"script.lua",
- "collider":"sizable_wheel",
- "normScale":1.0,
- "smoothness":0.5,
- "scale":1.0,
- "colliderOptions":{
-  "MOD_collider_option"
- },
- "meshOptions":{
-  "MOD_mesh_option"
- },
- "connections":[
-  "MOD_connection"
- ]
-}
-```
+a MOD block data.
 
 ___
 
