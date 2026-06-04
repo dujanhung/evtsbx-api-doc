@@ -10,7 +10,7 @@ the "Evertech Sandbox" MOD header in JSON.
 ___
 
 ```json
-"name|@required":"str"
+"name|@required,external_content(inline_txt)":"str"
 ```
 
 MOD name.
@@ -18,7 +18,7 @@ MOD name.
 ___
 
 ```json
-"description|@required":"str"
+"description|@required,external_content(multiline_txt)":"str"
 ```
 
 MOD description.
@@ -26,15 +26,10 @@ MOD description.
 ___
 
 ```json
-"author|@required,remap_flag(author)":"int"
+"author|@required,external_content(inline_txt)":"str"
 ```
 
 MOD author name.
-
-> [!NOTE]
-> the value is restricted to a remap file.
->
-> to assign your name, please visit a repo.
 
 ___
 
