@@ -39,7 +39,7 @@ MOD version.
 ___
 
 ```json
-"preview|@required,filepath_flag(png,jpg)":"str"
+"preview|@required,filepath_flag(png)":"str"
 ```
 
 MOD preview image filepath.
