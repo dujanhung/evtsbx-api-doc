@@ -7,21 +7,13 @@ a MOD block data.
 ___
 
 ```json
-"uuid"
+"uuid|@required,@unique":"str"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
 
 MOD block UUID.
 
->[!CAUTION]
->this value must be unique among others from inside the `info.json` and from other MODs. otherwise, the conflict would happen.
+> [!CAUTION]
+> this value must be unique from the file itself and from other MODs. otherwise, the conflict would happen.
 
 ___
 
