@@ -26,10 +26,15 @@ MOD description.
 ___
 
 ```json
-"author|@required":"str"
+"author|@required,remap_flag(author)":"int"
 ```
 
 MOD author name.
+
+> [!NOTE]
+> the value is restricted to a remap file.
+>
+> to assign your name, please visit a repo.
 
 ___
 
