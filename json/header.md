@@ -18,7 +18,7 @@ MOD name.
 ___
 
 ```json
-"description"
+"description|@required":"str"
 ```
 
 <table><tr><td>
