@@ -2,91 +2,29 @@
 <code>SizableWheelModBlock</code> collider options
 </h2>
 
-```json
-{
- "SizeX":1.0,
- "SizeY":1.0,
- "SizeZ":1.0,
- "OffsetX":0.0,
- "OffsetY":0.0,
- "OffsetZ":0.0
-}
-```
-
-represents `SizableWheelModBlock` collider options in JSON.
+represents `SizableWheelModBlock` collider options.
 
 ___
 
 ```json
-"SizeX"
+"SizeX|range_flag(exp)":"float"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td><tr><tr><td>
-</td><td>
-</td><td>
-</td><tr><tr><td>
-range
-</td><td>
-|
-</td><td>
-more than <code>0.0</code>
-</td></tr></table>
 
 wheel collider width.
 
 ___
 
 ```json
-"SizeY"
+"SizeY|range_flag(exp)":"float"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td><tr><tr><td>
-</td><td>
-</td><td>
-</td><tr><tr><td>
-range
-</td><td>
-|
-</td><td>
-more than <code>0.0</code>
-</td></tr></table>
 
 wheel collider thickness.
 
 ___
 
 ```json
-"SizeZ"
+"SizeZ|range_flag(exp)":"float"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td><tr><tr><td>
-</td><td>
-</td><td>
-</td><tr><tr><td>
-range
-</td><td>
-|
-</td><td>
-more than <code>0.0</code>
-</td></tr></table>
 
 wheel collider height.
 
