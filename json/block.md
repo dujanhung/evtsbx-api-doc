@@ -7,7 +7,7 @@ a MOD block data.
 ___
 
 ```json
-"uuid|@required,@unique,@unique_external(/storage/emulated/0/Android/data/com.evertechsandbox/files/mods/)":"str"
+"uuid|@required,@unique,@unique_external(../*.json)":"str"
 ```
 
 MOD block UUID.
