@@ -7,7 +7,7 @@ a MOD block data.
 ___
 
 ```json
-"uuid|@required,@unique,@unique_external(../*/*.json)":"str"
+"uuid|@required,@unique":"str"
 ```
 
 MOD block UUID.
