@@ -21,29 +21,13 @@ ___
 "description|@required":"str"
 ```
 
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
-
 MOD description.
 
 ___
 
 ```json
-"author"
+"author|@required":"str"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
 
 MOD author name.
 
