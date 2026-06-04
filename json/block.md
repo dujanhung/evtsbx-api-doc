@@ -156,15 +156,7 @@ ___
 ___
 
 ```json
-"connections"
+"connections|array_flag(allow_multiple)":"list"
 ```
 
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>MOD_connection</code>
-</td></tr></table>
-
-connection.
+an list of connection points.
