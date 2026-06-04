@@ -31,47 +31,23 @@ wheel collider height.
 ___
 
 ```json
-"OffsetX"
+"OffsetX":"float"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td></tr></table>
 
 wheel collider offset X.
 
 ___
 
 ```json
-"OffsetY"
+"OffsetY":"float"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td></tr></table>
 
 wheel collider offset Y.
 
 ___
 
 ```json
-"OffsetZ"
+"OffsetZ":"float"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td></tr></table>
 
 wheel collider offset Z.
