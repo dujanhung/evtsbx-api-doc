@@ -10,7 +10,7 @@ the "Evertech Sandbox" MOD header in JSON.
 ___
 
 ```json
-"name|@required,external_content(inline_txt)":"str"
+"name|@required,external_content(txt,inline)":"str"
 ```
 
 MOD name.
@@ -18,7 +18,7 @@ MOD name.
 ___
 
 ```json
-"description|@required,external_content(multiline_txt)":"str"
+"description|@required,external_content(txt,multiline)":"str"
 ```
 
 MOD description.
@@ -26,7 +26,7 @@ MOD description.
 ___
 
 ```json
-"author|@required,external_content(inline_txt)":"str"
+"author|@required,external_content(txt,inline)":"str"
 ```
 
 MOD author name.
@@ -36,14 +36,6 @@ ___
 ```json
 "version"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
 
 MOD version.
 
