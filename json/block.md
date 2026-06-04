@@ -90,7 +90,12 @@ value type
 <code>String</code>
 </td></tr></table>
 
-collider. look up this enum.
+change collider type.
+
+look up this enum.
+
+> [WARNING]
+> this entry may be changed in the future.
 
 ___
 
