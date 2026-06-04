@@ -42,31 +42,15 @@ MOD version.
 ___
 
 ```json
-"preview"
+"preview|@required,filepath_flag(png)":"str"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
 
 MOD preview image filepath.
 
 ___
 
 ```json
-"simpleblocks"
+"simpleblocks|@required,list_flag(allow_multiple)":"list"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>Array[MOD_block]</code>
-</td></tr></table>
 
 a list of MOD blocks.
