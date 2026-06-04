@@ -4,12 +4,12 @@ MOD_header
 
 ```json
 {
- "name":"new MOD",
- "description":"sample text",
- "author":"user",
- "version":"1.0",
- "preview":"image.png",
- "simpleblocks":[
+ "name|@required":"str",
+ "description|@required":"str",
+ "author|@required":"str",
+ "version|@required":"str",
+ "preview|@required,external_file(png)":"str",
+ "simpleblocks|@required,list_flag(allow_multiple)":[
   "MOD_block"
  ]
 }
