@@ -159,4 +159,4 @@ ___
 "connections|array_flag(allow_multiple)":"list"
 ```
 
-an list of connection points.
+a list of connection points.
