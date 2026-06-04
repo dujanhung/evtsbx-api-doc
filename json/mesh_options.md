@@ -7,7 +7,7 @@ represents `SizableWheelModBlock` mesh options.
 ___
 
 ```json
-"OffsetY"
+"OffsetY":"float"
 ```
 
 mesh offset Y.
