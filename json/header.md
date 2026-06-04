@@ -23,16 +23,8 @@ the "Evertech Sandbox" MOD header in JSON.
 ___
 
 ```json
-"name"
+"name|@required"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
 
 MOD name.
 
