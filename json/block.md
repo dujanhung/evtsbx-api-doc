@@ -88,16 +88,8 @@ Lua script filepath.
 ___
 
 ```json
-"collider"
+"collider|enum(wheel,sizable_wheel)":"str"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
 
 change collider type.
 
@@ -109,18 +101,10 @@ look up this enum.
 ___
 
 ```json
-"normScale"
+"normScale|range_flag(exp)":"float"
 ```
 
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td></tr></table>
-
-normal texture repeate scale.
+normal texture repeat scale.
 
 > [!WARNING]
 > this entry may be changed in the future.
@@ -128,16 +112,8 @@ normal texture repeate scale.
 ___
 
 ```json
-"smoothness"
+"smoothness|range_flag(linear)":"float"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td></tr></table>
 
 metallic texture smoothness.
 
@@ -147,18 +123,10 @@ metallic texture smoothness.
 ___
 
 ```json
-"scale"
+"scale|range_flag(exp)":"float"
 ```
 
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td></tr></table>
-
-3D mesh scale.
+OBJ scale.
 
 > [!WARNING]
 > this entry may be changed in the future.
