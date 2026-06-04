@@ -44,6 +44,9 @@ ___
 
 albedo texture filepath.
 
+> [!WARNING]
+> this entry may be changed in the future.
+
 ___
 
 ```json
@@ -52,6 +55,9 @@ ___
 
 normal texture filepath.
 
+> [!WARNING]
+> this entry may be changed in the future.
+
 ___
 
 ```json
@@ -59,6 +65,9 @@ ___
 ```
 
 metallic texture filepath.
+
+> [!WARNING]
+> this entry may be changed in the future.
 
 ___
 
@@ -113,6 +122,9 @@ value type
 
 normal texture repeate scale.
 
+> [!WARNING]
+> this entry may be changed in the future.
+
 ___
 
 ```json
@@ -128,6 +140,9 @@ value type
 </td></tr></table>
 
 metallic texture smoothness.
+
+> [!WARNING]
+> this entry may be changed in the future.
 
 ___
 
@@ -145,6 +160,9 @@ value type
 
 3D mesh scale.
 
+> [!WARNING]
+> this entry may be changed in the future.
+
 ___
 
 ```json
@@ -161,6 +179,9 @@ value type
 
 `SizableWheelModBlock` collider options.
 
+> [!WARNING]
+> this entry may be changed in the future.
+
 ___
 
 ```json
@@ -176,6 +197,9 @@ value type
 </td></tr></table>
 
 `SizableWheelModBlock` mesh options.
+
+> [!WARNING]
+> this entry may be changed in the future.
 
 ___
 
