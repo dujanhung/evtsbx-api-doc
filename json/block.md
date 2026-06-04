@@ -94,7 +94,7 @@ change collider type.
 
 look up this enum.
 
-> [WARNING]
+> [!WARNING]
 > this entry may be changed in the future.
 
 ___
