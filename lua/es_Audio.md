@@ -25,22 +25,22 @@ ___
 method description
 </h2>
 
-```lua
-es.PlaySound(path)
-/*
-
-  -> void
-
-  mandatory
-
-  name  | path
-  ------+-------------------
-  type  | str
-  ------+-------------------
-  range | filepath_flag(wav)
-
-*/
-```
+> ```lua
+> es.PlaySound(path)
+> /*
+>
+>   -> void
+>
+>   mandatory
+>
+>   name  | path
+>   ------+-------------------
+>   type  | str
+>   ------+-------------------
+>   range | filepath_flag(wav)
+>
+> */
+> ```
 
 play a `WAV` file.
 
