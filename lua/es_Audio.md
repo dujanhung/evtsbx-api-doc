@@ -28,7 +28,7 @@ es.PlaySound(path)
 ```
 
 ```lua
-nil
+-> nil
 ```
 
 <table><thread><tr><td>
