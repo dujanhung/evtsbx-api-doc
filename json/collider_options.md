@@ -4,7 +4,7 @@
 
 represents `SizableWheelModBlock` collider options.
 
-___
+<table><thread><tr><td>
 
 ```json
 "SizeX|range_flag(exp)":"float"
@@ -12,7 +12,7 @@ ___
 
 wheel collider width.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "SizeY|range_flag(exp)":"float"
@@ -20,7 +20,7 @@ ___
 
 wheel collider thickness.
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```json
 "SizeZ|range_flag(exp)":"float"
@@ -28,7 +28,7 @@ ___
 
 wheel collider height.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "OffsetX":"float"
@@ -36,7 +36,7 @@ ___
 
 wheel collider offset X.
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```json
 "OffsetY":"float"
@@ -44,10 +44,12 @@ ___
 
 wheel collider offset Y.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "OffsetZ":"float"
 ```
 
 wheel collider offset Z.
+
+</td></tr></tbody></table>
