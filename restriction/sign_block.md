@@ -26,7 +26,7 @@ observed risks include:
 
 **these interruptions may result in lost or corrupted sign data**.
 
-## recommended workflows
+## 💡 recommended workflows
 
 for safer sign contents editing, users must:
 
