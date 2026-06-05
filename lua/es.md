@@ -32,7 +32,7 @@ es
 
 <code>getter</code>
 
-represents **Evertech Sandbox API** instance.
+construct **Evertech Sandbox API** instance.
 
 </td></tr></table>
 
