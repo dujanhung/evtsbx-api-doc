@@ -7,7 +7,7 @@ a full **Evertech Sandbox API** documentation in MD files.
 <img src="https://github.com/dujanhung/evtsbx-gallery/blob/main/meme/famous.jpg"/>
 
 <sup>
-a norm about docs
+how users see authors in multiplayer
 </sup>
 
 </td></tr></table>
