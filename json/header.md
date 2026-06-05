@@ -50,6 +50,6 @@ MOD preview image filepath.
 "simpleblocks|@required,list_flag(allow_multiple)":"list"
 ```
 
-a list of MOD blocks.
+a list of MOD block's data.
 
 </td></tr></tbody></table>
