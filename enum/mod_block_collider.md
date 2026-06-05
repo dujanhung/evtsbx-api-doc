@@ -4,7 +4,7 @@ MOD block collider enum
 
 represents MOD block's collider variants.
 
-___
+<table><thread><tr><td>
 
 ```json
 "wheel"
@@ -12,10 +12,12 @@ ___
 
 use `WheelModBlock` .
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "sizable_wheel"
 ```
 
 use `SizableWheelModBlock` .
+
+</td></tr></tbody></table>
