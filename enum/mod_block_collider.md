@@ -2,7 +2,7 @@
 MOD block collider enum
 </h2>
 
-a list of "Evertech Sandbox" MOD block collider in JSON.
+represents MOD block's collider variants.
 
 ___
 
@@ -15,7 +15,7 @@ use `WheelModBlock` .
 ___
 
 ```json
-"sizableWheel"
+"sizable_wheel"
 ```
 
 use `SizableWheelModBlock` .
