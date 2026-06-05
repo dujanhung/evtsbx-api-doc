@@ -4,10 +4,12 @@
 
 represents `SizableWheelModBlock` mesh options.
 
-___
+<table><tr><td>
 
 ```json
 "OffsetY":"float"
 ```
 
 mesh offset Y.
+
+</td></tr></table>
