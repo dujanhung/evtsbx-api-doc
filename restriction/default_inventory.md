@@ -6,6 +6,8 @@ according to moderation rules in the official **Evertech Sandbox Mods (VK)** com
 
 only create such blocks if necessary for enum validation or testing purposes.
 
+<img src="https://github.com/dujanhung/evtsbx-gallery/blob/main/meme/pirates2.png"/>
+
 # default inventory
 
 `Cube`
