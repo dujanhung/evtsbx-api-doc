@@ -34,7 +34,7 @@ this block stores and renders arbitrary text content inside the game world.
 > - remote code execution
 > - memory exhaustion (OOM) via oversized text buffers
 > - excessive `<quad>` tag rendering
-> - excessive unicode characters rendering.
+> - excessive Unicode characters rendering.
 >
 > **only load sign data from trusted save files or verified multiplayer environments**.
 
