@@ -18,14 +18,6 @@ ___
 
 # usage
 
-## copy
-
-## extract
-
-## remap
-
-## mixdown
-
 ___
 
 # credits
