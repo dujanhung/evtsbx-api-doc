@@ -454,3 +454,14 @@ Quaternion es.Quaternion.RotateTowards(Quaternion from, Quaternion to, float max
 Quaternion es.Quaternion.AngleAxis(float angle, Vector3 axis) - Creates a rotation which rotates angle degrees around axis.
 es.CreateMultiblock
 string es.CreateMultiblock(string itemType, Root root, Vector3 relativePosition, Quaternion relativeRotation) - creates a multiblock
+string es.CreateMultiblock(string itemType, Root root, Vector3 relativePosition, Quaternion relativeRotation, string moduuid) - creates a multiblock with additional parameter moduuid. To create a cubic modblock use itemType = SimpleModBlock, for a wheel mod - WheelModBlock This method returns a guid of newly created multiblock, but it is not guaranteed to create a multiblock. Use the returned guid to find a multiblock. If you can't find a multiblock then possibly it failed to create it.
+es.FindMultiBlock
+MultiBlock es.FindMultiBlock(string guid) - find a multiblock by it's guid, if not found then it returns nil
+es.TryGetMultiBlock - getting the multiblock with help of raycast
+es.TryGetMultiBlock(Vector3 pos, Vector3 dir, float rayLength) - pos - position of the start of the ray, dir - direction, rayLength - the lenght of the ray, the more the rayLength the lower the fps
+es.TryGetMultiBlockFromConnection - get multiblock from connection
+es.TryGetMultiBlockFromConnection(int connectionPointIndex, bool incoming, int connectionIndex) - returns MultiBlock or nil, arguments: connectionPointIndex - index of a connection point of the current item, incoming - incoming or outcoming connection (these are different lists), connectionIndex - index of the connection. Indices start with 1.
+es.ConnectConnections - connect two multiblock connections
+bool es.ConnectConnections(string multiblockAguid, int connectionAindex, string multiblockBguid, int connectionBindex) - connects two connection points between multiblocks. Returns true if connection was successful, false otherwise. Parameters: multiblockAguid - GUID of first multiblock, connectionAindex - connection point index of first multiblock (1-based), multiblockBguid - GUID of second multiblock, connectionBindex - connection point index of second multiblock (1-based).
+es.DisconnectConnections - disconnect two multiblock connections
+void es.DisconnectConnections(string multiblockAguid, int connectionAindex, string multiblockBguid, int connectionBindex) - disconnects two connection points between multiblocks. Parameters: multiblockAguid - GUID of first multiblock, connectionAindex - connection point index of first multiblock (1-based), multiblockBguid - GUID of second multiblock, connectionBindex - connection point index of second multiblock (1-based).
