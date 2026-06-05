@@ -35,7 +35,7 @@ represents **Evertech Sandbox API** instance.
 ___
 
 <h2>
-virtual method description
+method description
 </h2>
 
 ```lua
