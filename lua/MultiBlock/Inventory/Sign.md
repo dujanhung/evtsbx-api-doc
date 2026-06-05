@@ -48,7 +48,7 @@ this block stores and renders arbitrary text content inside the game world.
 > observed risks include:
 > - interruptions caused by ADs
 > - external apps switching triggered by ADs
-> - forced application restart due to OOM
+> - forced application restart caused by OOM
 >
 > **these interruptions may result in lost or corrupted sign data**.
 
