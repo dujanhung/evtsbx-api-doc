@@ -46,9 +46,9 @@ this block stores and renders arbitrary text content inside the game world.
 > editing large text contents directly in-game is not recommended.
 >
 > observed risks include:
-> - interruption during editing caused by ADs
+> - interruption caused by ADs
 > - external apps switching triggered by ADs
-> - application restart during long editing sessions
+> - application restart
 >
 > **these interruptions may result in lost or corrupted sign data**.
 
