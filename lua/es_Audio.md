@@ -89,18 +89,25 @@ change sound volume.
 
 ```lua
 es.SetSoundLoop(v)
-/*
-
-  -> str
-
-  mandatory
-
-  name  | v
-  ------+-----
-  type  | bool
-
-*/
 ```
+
+```lua
+-> nil
+```
+
+<table><thread><tr><td>
+name
+</td><td>
+<code>
+v
+</code>
+</td></tr></thread><tbody><tr><td>
+type
+</td><td>
+<code>
+bool
+</code>
+</td></tr></tbody></table>
 
 change loop mode.
 
