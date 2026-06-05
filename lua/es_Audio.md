@@ -43,19 +43,19 @@ return type
 <code>void</code>
 </td></tr></table>
 
-<table><thread><tr><thr>
+<table><thread><tr><td>
 mandatory
-</thr><thr>
+</td><td>
 <code>path</code>
-</thr></tr></thread><tbody><tr><td>
+</td></tr></thread><tbody><tr><td>
 type
 </td><td>
 <code>String</code>
-</td></tr></tbody><thread><tr><thr>
+</td></tr></tbody><thread><tr><td>
 description
-</thr><thr>
+</td><td>
 <code>WAV</code> filepath
-</thr></tr></thread></table>
+</td></tr></thread></table>
 
 play a `WAV` file from `path` .
 
