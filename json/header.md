@@ -2,9 +2,9 @@
 MOD_header
 </h2>
 
-the "Evertech Sandbox" MOD header in JSON.
+represents **Evertech Sandbox MOD** header.
 
-___
+<table><thread><tr><td>
 
 ```json
 "name|@required":"str"
@@ -12,7 +12,7 @@ ___
 
 MOD name.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "description|@required":"str"
@@ -20,7 +20,7 @@ ___
 
 MOD description.
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```json
 "author|@required":"str"
@@ -28,7 +28,7 @@ ___
 
 MOD author name.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "version|@required":"str"
@@ -36,7 +36,7 @@ ___
 
 MOD version.
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```json
 "preview|@required,filepath_flag(png)":"str"
@@ -44,10 +44,12 @@ ___
 
 MOD preview image filepath.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "simpleblocks|@required,list_flag(allow_multiple)":"list"
 ```
 
 a list of MOD blocks.
+
+</td></tr></tbody></table>
