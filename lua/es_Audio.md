@@ -49,7 +49,7 @@ range
 <code>
 filepath_flag(wav)
 </code>
-</td></tr></thread><table>
+</td></tr></thread></table>
 
 play a `WAV` file.
 
