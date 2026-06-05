@@ -2,9 +2,9 @@
 "MOD block connection point's type" enum
 </h2>
 
-represents "MOD block connection point's type"
+represents MOD block connection point's type.
 
-___
+<table><thread><tr><td>
 
 ```json
 "SignalReceiver"
@@ -12,7 +12,7 @@ ___
 
 signal receiver, also called "input" .
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "SignalSender"
@@ -20,10 +20,12 @@ ___
 
 signal sender, also called "output" .
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```json
 "SignalReceiverSender"
 ```
 
 both receiver and sender, also called "universal" .
+
+</td></tr></thread></table>
