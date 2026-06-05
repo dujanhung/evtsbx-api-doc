@@ -9,16 +9,6 @@ provides the complete list of block types available in the **Evertech Sandbox** 
 > - `es.MultiBlock.isPaintable` returns `True` ,
 > - `es.MultiBlock.Paint()` works as expected on the block.
 
-> [!CAUTION]
-> when using `es.CreateMultiblock()` , avoid creating blocks outside the limits defined in
-> <b><a>MOD Restriction § Default Inventory</a></b>.
->
-> according to moderation rules in the official **Evertech Sandbox Mods (VK)** community,
-> spawning blocks outside the default inventory scope may be treated as **shoplifting**
-> or **AD-restriction bypassing**.
->
-> only create such blocks if necessary for **enum validation or testing purposes**.
-
 ___
 
 ```lua
