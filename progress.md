@@ -35,5 +35,3 @@ Lua
 </td><td>
 🟡
 </td></tr></thread></table>
-
-<video src="https://github.com/dujanhung/evtsbx-gallery/blob/main/tutorial/car.mp4" controls/>
