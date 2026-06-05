@@ -2,21 +2,7 @@
 <code>es.GUI</code>
 </h2>
 
-<table><tr><td>
-expands
-</td><td>
-|
-</td><td>
-<code>es</code>
-</td></tr></table>
-
 a helper class to interact with MOD GUI.
-
->[!IMPORTANT]
->"Evertech Sandbox" support `PNG` and `JPG` files. other files would fire an error.
-
->[!TIP]
->if the file's source don't have such outputs, use file converter apps to convert them.
 
 >[!IMPORTANT]
 >"Evertech Sandbox" don't support multiple buttons, pinned button, set button transform and set button color.
@@ -31,30 +17,12 @@ virtual method description
 </h2>
 
 ```lua
-function onButtonClick()
+function onButtonClick()->nil:
+ 
+end
 ```
 
-<table><tr><td>
-behavior
-</td><td>
-|
-</td><td>
-<code>virtual</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-return type
-</td><td>
-|
-</td><td>
-<code>void</code>
-</td></tr></table>
-
 called when player release the button within it's area.
-
->[!TIP]
->this one is suitable for consensual actions.
 
 ___
 
