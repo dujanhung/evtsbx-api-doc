@@ -44,7 +44,9 @@ str
 </td></tr></tbody><thread><tr><td>
 range
 </td><td>
+<code>
 filepath_flag(wav)
+</code>
 </td></tr></thread><table>
 
 play a `WAV` file.
