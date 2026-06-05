@@ -30,9 +30,7 @@ function fixedUpdate()->nil:end
 
 ___
 
-<h2>
-constructor description
-</h2>
+# constructor description
 
 <table><tr><td>
 
@@ -48,9 +46,7 @@ construct **Evertech Sandbox API** instance.
 
 ___
 
-<h2>
-method description
-</h2>
+# method description
 
 ```lua
 function onPlace()->nil:
