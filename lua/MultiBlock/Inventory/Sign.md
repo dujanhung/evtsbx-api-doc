@@ -39,26 +39,27 @@ this block stores and renders arbitrary text content inside the game world.
 > **only load sign data from trusted save files or verified multiplayer environments**.
 
 >[!CAUTION]
-><h3>
->☢️ runtime stability
-></h3>
 >
->editing large sign contents directly in-game is not recommended.
+> ### ☢️ runtime stability
 >
->observed risks include:
->- interruption during editing caused by ADs,
->- external apps switching triggered by ADs,
->- application restart during long editing sessions.
 >
->**these interruptions may result in lost or corrupted sign data**.
+> editing large text contents directly in-game is not recommended.
+>
+> observed risks include:
+> - interruption during editing caused by ADs
+> - external apps switching triggered by ADs
+> - application restart during long editing sessions
+>
+> **these interruptions may result in lost or corrupted sign data**.
 
 >[!TIP]
->for safer sign content editing:
 >
->- prepare text externally before inserting it into the block,
->- paste content from clipboard instead of typing in-game,
->- temporarily disable internet connectivity,
->- use devices with sufficient RAM (16 GB recommended).
+> for safer sign content editing, users must:
+>
+> - prepare text externally before inserting it into the block,
+> - paste content from clipboard instead of typing in-game,
+> - temporarily disable internet connectivity,
+> - use devices with sufficient RAM (16 GB recommended).
 
 ___
 
