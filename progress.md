@@ -1,15 +1,3 @@
-# JSON
-
-- ✅ doc
-- ✅ schema
-- ❌ schema validator script
-
-# Lua
-
-- ❌ doc
-- ❌ schema
-- ❌ schema validator script
-
 <table><thread><tr><td>
 📝
 </td><td>
@@ -33,7 +21,7 @@ schema
 </td><td>
 ❌
 </td></tr></thread><tbody><tr><td>
-handler script
+script
 </td><td>
 ❌
 </td><td>
