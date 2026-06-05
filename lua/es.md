@@ -39,7 +39,7 @@ es
 ```
 
 ```lua
-return userdata
+return ESAPI
 ```
 
 <code>getter</code>
