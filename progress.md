@@ -25,7 +25,7 @@ Lua
 </td></tr></thread><tbody><tr><td>
 📜 script
 </td><td>
-❌
+🟡
 </td><td>
 ❌
 </td></tr></tbody></table>
