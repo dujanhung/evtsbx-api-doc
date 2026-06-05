@@ -10,6 +10,7 @@
    "name|@required":"string",
    "description|@required":"string",
    "icon|@required,filepath_flag(png)":"string",
+   "dif|@required,filepath_flag(png)":"string",
    "mesh|@required,filepath_flag(obj)":"string"
   }
  ]
