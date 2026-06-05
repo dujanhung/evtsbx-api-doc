@@ -63,7 +63,7 @@ es.SetSoundVolume(volume)
 
 change sound volume.
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```lua
 es.SetSoundLoop(v)
@@ -81,3 +81,5 @@ es.SetSoundLoop(v)
 ```
 
 change loop mode.
+
+</td></tr></thread></table>
