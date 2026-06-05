@@ -2,11 +2,11 @@
 <code>es</code>
 </h2>
 
-<table><tr><td>
+<table><thread><tr><td>
 inherit
 </td><td>
 <code>userdata</code>
-</td></tr><tr><td>
+</td></tr></thread><tbody><tr><td>
 inherited by
 </td><td>
 <code>es.Player</code>
@@ -14,7 +14,7 @@ inherited by
 <code>es.MultiBlock</code>
 <br>
 <code>es.Quaternion</code>
-</td></tr></table>
+</td></tr></tbody></table>
 
 represents **Evertech Sandbox API**.
 
