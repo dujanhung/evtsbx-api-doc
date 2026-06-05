@@ -52,51 +52,30 @@ method description
 </h2>
 
 ```lua
-es.enableButton(value)
+es.enableButton(v)
 ```
 
-<table><tr><td>
-return type
-</td><td>
-|
-</td><td>
-<code>void</code>
-</td></tr></table>
+```lua
+return nil
+```
 
-<table><tr><td>
-mandatory
+<table><thread><tr><td>
+name
 </td><td>
-|
-</td><td>
-<code>value</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
+<code>v</code>
+</td></tr></thread><tbody><tr><td>
 type
 </td><td>
-|
-</td><td>
 <code>bool</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
+</td></tr></tbody><thread><tr><td>
 default
 </td><td>
-|
-</td><td>
 <code>false</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
+</td></tr></thread><tbody><tr><td>
 description
 </td><td>
-|
-</td><td>
 button visibility
-</td></tr></table>
+</td></tr></tbody></table>
 
 change button visibility.
 
