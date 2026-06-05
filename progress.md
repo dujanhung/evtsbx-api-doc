@@ -28,4 +28,10 @@ Lua
 🟡
 </td><td>
 ❌
-</td></tr></tbody></table>
+</td></tr></tbody><thread><tr><td>
+🧱 restriction
+</td><td>
+🟡
+</td><td>
+🟡
+</td></tr></thread></table>
