@@ -1,1 +1,1 @@
-<input type="checkbox" value="true"/>
+<checkbox/>
