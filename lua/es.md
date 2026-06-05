@@ -1,6 +1,4 @@
-<h2>
-<code>es</code>
-</h2>
+# <code>es</code>
 
 <table><thread><tr><td>
 inherit
@@ -20,8 +18,20 @@ represents **Evertech Sandbox API**.
 
 ___
 
+# minimap
+
+```lua
+es
+function onPlace()->nil:end
+function start()->nil:end
+function update()->nil:end
+function fixedUpdate()->nil:end
+```
+
+___
+
 <h2>
-constructor
+constructor description
 </h2>
 
 <table><tr><td>
