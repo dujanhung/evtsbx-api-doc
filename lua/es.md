@@ -34,7 +34,7 @@ return ESAPI
 
 <code>getter</code>
 
-represents *Evertech Sandbox* instance.
+represents **Evertech Sandbox API** instance.
 
 ___
 
