@@ -40,36 +40,22 @@ es.PlaySound(path)
 <table><tr><td>
 return type
 </td><td>
-|
-</td><td>
 <code>void</code>
 </td></tr></table>
 
-<table><tr><td>
+<table><thread><tr><thr>
 mandatory
-</td><td>
-|
-</td><td>
+</thr><thr>
 <code>path</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
+</thr></tr></thread><tbody><tr><td>
 type
 </td><td>
-|
-</td><td>
 <code>String</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
+</td></tr></tbody><thread><tr><thr>
 description
-</td><td>
-|
-</td><td>
+</thr><thr>
 <code>WAV</code> filepath
-</td></tr></table>
+</thr></tr></thread></table>
 
 play a `WAV` file from `path` .
 
