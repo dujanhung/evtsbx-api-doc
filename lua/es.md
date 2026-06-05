@@ -52,6 +52,8 @@ ___
 
 # method description
 
+<table><thread><tr><td>
+
 ```lua
 function onPlace()->nil:
  
@@ -62,7 +64,7 @@ end
 
 called when player place this MOD block.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```lua
 function start()->nil:
@@ -74,7 +76,7 @@ end
 
 called when player place this MOD block, or this MOD block is loaded from world file.
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```lua
 function update()->nil:
@@ -86,7 +88,7 @@ end
 
 called during screen rendering frame iteration.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```lua
 function fixedUpdate()->nil:
@@ -97,3 +99,5 @@ end
 <code>virtual</code>
 
 called during physics rendering frame iteration, usually about 50 FPS.
+
+</td></tr></tbody></table>
