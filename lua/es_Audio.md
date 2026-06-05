@@ -56,64 +56,20 @@ ___
 
 ```lua
 es.SetSoundVolume(volume)
+/*
+
+  -> str
+
+  mandatory
+
+  name  | volume
+  ------+-------------------
+  type  | float
+  ------+-------------------
+  range | range_flag(linear)
+
+*/
 ```
-
-<table><tr><td>
-return type
-</td><td>
-|
-</td><td>
-<code>void</code>
-</td></tr></table>
-
-<table><tr><td>
-mandatory
-</td><td>
-|
-</td><td>
-<code>volume</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-default
-</td><td>
-|
-</td><td>
-<code>1.0</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-range
-</td><td>
-|
-</td><td>
-<table><tr><td>
-more than or equal to <code>0.0</code>
-</td></tr><tr><td>
-</td></tr><tr><td>
-less than or equal to <code>1.0</code>
-</td></tr></table>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-description
-</td><td>
-|
-</td><td>
-sound volume
-</td></tr></table>
 
 change sound volume.
 
