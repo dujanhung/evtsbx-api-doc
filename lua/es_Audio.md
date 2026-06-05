@@ -34,7 +34,9 @@ es.PlaySound(path)
 <table><thread><tr><td>
 name
 </td><td>
+<code>
 path
+</code>
 </td></tr></thread><tbody><tr><td>
 type
 </td><td>
