@@ -37,7 +37,7 @@ method description
 es.PlaySound(path)
 /*
 
-  -> str
+  -> void
 
   mandatory
 
@@ -58,7 +58,7 @@ ___
 es.SetSoundVolume(volume)
 /*
 
-  -> str
+  -> void
 
   mandatory
 
