@@ -18,6 +18,12 @@ ___
 
 # usage
 
+## download official web content
+
+```bash
+curl https://vitsum.com/evertech/docs/#/en-US/ -o /storage/emulated/0/a.txt
+```
+
 ___
 
 # credits
