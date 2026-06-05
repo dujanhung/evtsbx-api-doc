@@ -27,8 +27,8 @@ ___
 es.PlaySound(path)
 ```
 
-```py
--> void
+```lua
+nil
 ```
 
 <table><thread><tr><td>
