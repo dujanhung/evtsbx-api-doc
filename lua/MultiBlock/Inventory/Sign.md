@@ -56,7 +56,7 @@ this block stores and renders arbitrary text content inside the game world.
 >
 > for safer sign contents editing, users must:
 >
-> - store contents in an external files
+> - store contents in an external file
 > - paste contents from clipboard
 > - disable network connectivity
 > - use devices with sufficient RAM (16 GB recommended)
