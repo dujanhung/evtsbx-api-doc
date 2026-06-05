@@ -2,60 +2,30 @@
 MOD_block_connection_relative_position
 </h2>
 
-```json
-{
- "X":0.0,
- "Y":0.0,
- "Z":0.0
-}
-```
-
 represents MOD block's connection point's relative position.
 
-___
+<table><thread><tr><td>
 
 ```json
-"X"
+"X":"float"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td></tr></table>
 
 position X.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
-"Y"
+"Y":"float"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td></tr></table>
 
 position Y.
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```json
-"Z"
+"Z":"float"
 ```
 
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>float</code>
-</td></tr></table>
-
 position Z.
+
+</td></tr></thread></table>
