@@ -11,8 +11,15 @@
 - ❌ schema validator script
 
 <table><thread><tr><td>
+📝
 </td><td>
+<code>
+JSON
+</code>
 </td><td>
+<code>
+Lua
+</code>
 </td></tr></thread><tbody><tr><td>
 </td><td>
 </td><td>
