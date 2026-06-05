@@ -23,20 +23,19 @@ represents a <code>Sign</code> block from the **Evertech Sandbox Lua API**.
 
 this block stores and renders arbitrary text content inside the game world.
 
->[!CAUTION]
-><h3>
->🛡️ security risk
-></h3>
+> [!CAUTION]
 >
->the text renderer does **not perform validation or sanitization**, so developers must ensure content safety manually when reading or writing sign data.
+> ### 🛡️ security risk
 >
->loading sign data from untrusted sources may expose the runtime to:
->- remote code execution,
->- memory exhaustion (OOM) via oversized text buffers,
->- excessive `<quad>` tag rendering,
->- excessive unicode characters rendering.
+> the text renderer does **not perform validation or sanitization**. so, developers must ensure content safety manually.
 >
->**only load sign data from trusted save files or verified multiplayer environments**.
+> loading sign data from untrusted sources may expose the runtime to:
+> - remote code execution
+> - memory exhaustion (OOM) via oversized text buffers
+> - excessive `<quad>` tag rendering
+> - excessive unicode characters rendering.
+>
+> **only load sign data from trusted save files or verified multiplayer environments**.
 
 >[!CAUTION]
 ><h3>
