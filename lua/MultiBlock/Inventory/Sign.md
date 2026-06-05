@@ -27,7 +27,7 @@ this block stores and renders arbitrary text content inside the game world.
 >
 > ### 🛡️ security risk
 >
-> the text renderer does **NOT** perform validation or sanitization by itself. so, MOD authors must ensure content safety manually.
+> the text renderer does **NOT** perform validation or sanitization by itself.
 >
 > loading sign data from untrusted sources may expose the runtime to:
 > - malicious hyperlinks
