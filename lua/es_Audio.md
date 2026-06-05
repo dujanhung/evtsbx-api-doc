@@ -31,7 +31,7 @@ es.PlaySound(path)
 -> void
 ```
 
-```md
+```log
 mandatory
 
 name  | path
