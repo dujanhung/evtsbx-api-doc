@@ -43,7 +43,9 @@ virtual method description
 </h2>
 
 ```lua
-function onPlace()->nil
+function onPlace()->nil:
+ 
+end
 ```
 
 <code>virtual</code>
@@ -53,74 +55,35 @@ called when player place this MOD block.
 ___
 
 ```lua
-function start()
+function start()->nil:
+ 
+end
 ```
 
-<table><tr><td>
-behavior
-</td><td>
-|
-</td><td>
 <code>virtual</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-return type
-</td><td>
-|
-</td><td>
-<code>void</code>
-</td></tr></table>
 
 called when player place this MOD block, or this MOD block is loaded from world file.
 
 ___
 
 ```lua
-function update()
+function update()->nil:
+ 
+end
 ```
 
-<table><tr><td>
-behavior
-</td><td>
-|
-</td><td>
 <code>virtual</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-return type
-</td><td>
-|
-</td><td>
-<code>void</code>
-</td></tr></table>
 
 called via screen rendering frame iteration.
 
 ___
 
 ```lua
-function fixedUpdate()
+function fixedUpdate()->nil:
+ 
+end
 ```
 
-<table><tr><td>
-behavior
-</td><td>
-|
-</td><td>
 <code>virtual</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-return type
-</td><td>
-|
-</td><td>
-<code>void</code>
-</td></tr></table>
 
-called via physics rendering frame iteration, usually about 50 FPS.
+called during physics rendering frame iteration, usually about 50 FPS.
