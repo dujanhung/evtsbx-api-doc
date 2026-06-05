@@ -22,7 +22,7 @@ function onButtonClick()->nil:
 end
 ```
 
-called when player release the button within it's area.
+called when player press the button.
 
 ___
 
