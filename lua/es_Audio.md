@@ -36,33 +36,21 @@ method description
 ```lua
 es.PlaySound(path)
 /*
+
   -> str
+
   mandatory
-  path
+
+  name  | path
+  ------+-------------------
+  type  | str
+  ------+-------------------
+  range | filepath_flag(wav)
+
 */
 ```
 
-<table><tr><td>
-return type
-</td><td>
-<code>void</code>
-</td></tr></table>
-
-<table><thread><tr><td>
-mandatory
-</td><td>
-<code>path</code>
-</td></tr></thread><tbody><tr><td>
-type
-</td><td>
-<code>str</code>
-</td></tr></tbody><thread><tr><td>
-description
-</td><td>
-<code>WAV</code> filepath
-</td></tr></thread></table>
-
-play a `WAV` file from `path` .
+play a `WAV` file.
 
 ___
 
