@@ -2,9 +2,9 @@
 MOD_block
 </h2>
 
-a MOD block data.
+a MOD block's data.
 
-___
+<table><thread><tr><td>
 
 ```json
 "uuid|@required,@unique":"str"
@@ -12,7 +12,7 @@ ___
 
 MOD block UUID.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "name|@required":"str"
@@ -20,7 +20,7 @@ ___
 
 MOD block name.
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```json
 "description|@required":"str"
@@ -28,7 +28,7 @@ ___
 
 MOD block description.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "icon|@required,filepath_flag(png)":"str"
@@ -36,7 +36,7 @@ ___
 
 icon texture filepath.
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```json
 "dif|@required,filepath_flag(png)":"str"
@@ -47,7 +47,7 @@ albedo texture filepath.
 > [!WARNING]
 > this entry may be changed in the future.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "nor|filepath_flag(png)":"str"
@@ -58,7 +58,7 @@ normal texture filepath.
 > [!WARNING]
 > this entry may be changed in the future.
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```json
 "met|filepath_flag(png)":"str"
@@ -69,7 +69,7 @@ metallic texture filepath.
 > [!WARNING]
 > this entry may be changed in the future.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "mesh|@required,filepath_flag(obj)":"str"
@@ -77,7 +77,7 @@ ___
 
 OBJ filepath.
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```json
 "script|filepath_flag(lua)":"str"
@@ -85,7 +85,7 @@ ___
 
 Lua script filepath.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "collider|enum(wheel,sizable_wheel)":"str"
@@ -98,7 +98,7 @@ look up this enum.
 > [!WARNING]
 > this entry may be changed in the future.
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```json
 "normScale|range_flag(exp)":"float"
@@ -109,7 +109,7 @@ normal texture repeat scale.
 > [!WARNING]
 > this entry may be changed in the future.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "smoothness|range_flag(linear)":"float"
@@ -120,7 +120,7 @@ metallic texture smoothness.
 > [!WARNING]
 > this entry may be changed in the future.
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```json
 "scale|range_flag(exp)":"float"
@@ -131,7 +131,7 @@ OBJ scale.
 > [!WARNING]
 > this entry may be changed in the future.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "colliderOptions|condition(collider.value==collider.enum.slot(2))":"dict"
@@ -142,7 +142,7 @@ ___
 > [!WARNING]
 > this entry may be changed in the future.
 
-___
+</td></tr></tbody><thread><tr><td>
 
 ```json
 "meshOptions|condition(collider.value==collider.enum.slot(2))":"dict"
@@ -153,10 +153,12 @@ ___
 > [!WARNING]
 > this entry may be changed in the future.
 
-___
+</td></tr></thread><tbody><tr><td>
 
 ```json
 "connections|array_flag(allow_multiple)":"list"
 ```
 
 a list of connection points.
+
+</td></tr></tbody></table>
