@@ -76,50 +76,18 @@ change sound volume.
 ___
 
 ```lua
-es.SetSoundLoop(value)
+es.SetSoundLoop(v)
+/*
+
+  -> str
+
+  mandatory
+
+  name  | v
+  ------+-----
+  type  | bool
+
+*/
 ```
-
-<table><tr><td>
-return type
-</td><td>
-|
-</td><td>
-<code>void</code>
-</td></tr></table>
-
-<table><tr><td>
-mandatory
-</td><td>
-|
-</td><td>
-<code>value</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-type
-</td><td>
-|
-</td><td>
-<code>bool</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-default
-</td><td>
-|
-</td><td>
-<code>false</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-description
-</td><td>
-|
-</td><td>
-loop mode
-</td></tr></table>
 
 change loop mode.
