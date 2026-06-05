@@ -38,7 +38,7 @@ path
 </td></tr></thread><tbody><tr><td>
 type
 </td><td>
-<code lang="lua">
+<code>
 str
 </code>
 </td></tr></tbody><thread><tr><td>
