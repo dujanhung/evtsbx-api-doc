@@ -57,20 +57,31 @@ play a `WAV` file.
 
 ```lua
 es.SetSoundVolume(volume)
-/*
-
-  -> void
-
-  mandatory
-
-  name  | volume
-  ------+-------------------
-  type  | float
-  ------+-------------------
-  range | range_flag(linear)
-
-*/
 ```
+
+```lua
+-> nil
+```
+
+<table><thread><tr><td>
+name
+</td><td>
+<code>
+volume
+</code>
+</td></tr></thread><tbody><tr><td>
+type
+</td><td>
+<code>
+float
+</code>
+</td></tr></tbody><thread><tr><td>
+range
+</td><td>
+<code>
+range_flag(linear)
+</code>
+</td></tr></thread></table>
 
 change sound volume.
 
