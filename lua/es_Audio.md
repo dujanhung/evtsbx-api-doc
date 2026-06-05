@@ -31,13 +31,19 @@ es.PlaySound(path)
 -> void
 ```
 
-```md
-name  | path
-------+-------------------
-type  | str
-------+-------------------
-range | filepath_flag(wav)
-```
+<table><thread><tr><td>
+name
+</td><td>
+path
+</td></tr></thread><tbody><tr><td>
+type
+</td><td>
+str
+</td></tr></tbody><thread><tr><td>
+range
+</td><td>
+filepath_flag(wav)
+</td></tr></thread><table>
 
 play a `WAV` file.
 
