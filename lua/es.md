@@ -43,25 +43,10 @@ virtual method description
 </h2>
 
 ```lua
-function onPlace()
+function onPlace()->nil
 ```
 
-<table><tr><td>
-behavior
-</td><td>
-|
-</td><td>
 <code>virtual</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-return type
-</td><td>
-|
-</td><td>
-<code>void</code>
-</td></tr></table>
 
 called when player place this MOD block.
 
