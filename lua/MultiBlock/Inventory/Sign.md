@@ -43,12 +43,12 @@ this block stores and renders arbitrary text content inside the game world.
 > ### ☢️ runtime stability
 >
 >
-> editing large text contents directly in-game is not recommended.
+> editing large contents directly in-game is not recommended.
 >
 > observed risks include:
-> - interruption caused by ADs
+> - interruptions caused by ADs
 > - external apps switching triggered by ADs
-> - application restart
+> - forced application restart due to OOM
 >
 > **these interruptions may result in lost or corrupted sign data**.
 
