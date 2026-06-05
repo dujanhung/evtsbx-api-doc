@@ -25,19 +25,20 @@ ___
 
 ```lua
 es.PlaySound(path)
-/*
+```
 
-  -> void
+```py
+-> void
+```
 
-  mandatory
+```md
+mandatory
 
-  name  | path
-  ------+-------------------
-  type  | str
-  ------+-------------------
-  range | filepath_flag(wav)
-
-*/
+name  | path
+------+-------------------
+type  | str
+------+-------------------
+range | filepath_flag(wav)
 ```
 
 play a `WAV` file.
