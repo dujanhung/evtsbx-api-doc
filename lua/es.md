@@ -24,6 +24,8 @@ ___
 constructor
 </h2>
 
+<table><tr><td>
+
 ```lua
 es
 ```
@@ -31,6 +33,8 @@ es
 <code>getter</code>
 
 represents **Evertech Sandbox API** instance.
+
+</td></tr></table>
 
 ___
 
