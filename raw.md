@@ -465,3 +465,9 @@ es.ConnectConnections - connect two multiblock connections
 bool es.ConnectConnections(string multiblockAguid, int connectionAindex, string multiblockBguid, int connectionBindex) - connects two connection points between multiblocks. Returns true if connection was successful, false otherwise. Parameters: multiblockAguid - GUID of first multiblock, connectionAindex - connection point index of first multiblock (1-based), multiblockBguid - GUID of second multiblock, connectionBindex - connection point index of second multiblock (1-based).
 es.DisconnectConnections - disconnect two multiblock connections
 void es.DisconnectConnections(string multiblockAguid, int connectionAindex, string multiblockBguid, int connectionBindex) - disconnects two connection points between multiblocks. Parameters: multiblockAguid - GUID of first multiblock, connectionAindex - connection point index of first multiblock (1-based), multiblockBguid - GUID of second multiblock, connectionBindex - connection point index of second multiblock (1-based).
+read the texture path (example: es.DifTexture = "textures/dif1.png")
+es.NorTexture
+es.MetTexture
+Mesh
+es.Mesh - you can change or read the mesh path (example: es.Mesh = "meshes/newmesh.obj")
+es.Scale - you can change the scale of a mesh (example: es.Scale = 2)
