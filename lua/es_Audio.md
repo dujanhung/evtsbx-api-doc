@@ -47,6 +47,9 @@ filepath_flag(wav)
 
 play a `WAV` file.
 
+> [!WARNING]
+> this method may be changed in the future.
+
 </td></tr></thread><tbody><tr><td>
 
 ```lua
@@ -79,6 +82,9 @@ range_flag(linear)
 
 change sound volume.
 
+> [!WARNING]
+> this method may be changed in the future.
+
 </td></tr></tbody><thread><tr><td>
 
 ```lua
@@ -103,6 +109,9 @@ bool
 </code>
 </td></tr></tbody></table>
 
-change loop mode.
+change audio loop mode.
+
+> [!WARNING]
+> this method may be changed in the future.
 
 </td></tr></thread></table>
