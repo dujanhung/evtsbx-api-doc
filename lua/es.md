@@ -38,6 +38,10 @@ ___
 es
 ```
 
+```lua
+return userdata
+```
+
 <code>getter</code>
 
 construct **Evertech Sandbox API** instance.
