@@ -70,7 +70,7 @@ end
 
 <code>virtual</code>
 
-called via screen rendering frame iteration.
+called during screen rendering frame iteration.
 
 ___
 
