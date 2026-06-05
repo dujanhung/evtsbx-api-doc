@@ -38,9 +38,9 @@ path
 </td></tr></thread><tbody><tr><td>
 type
 </td><td>
-```lua
-str
-```
+> ```lua
+> str
+> ```
 </td></tr></tbody><thread><tr><td>
 range
 </td><td>
