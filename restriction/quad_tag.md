@@ -1,6 +1,6 @@
 # <code>\<quad\></code>
 
-```xml
+```html
 <quad size=32 width=999999999 height=999999999>
 ```
 
