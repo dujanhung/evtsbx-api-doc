@@ -28,7 +28,7 @@ es.PlaySound(path)
 ```
 
 ```lua
--> nil
+return nil
 ```
 
 <table><thread><tr><td>
@@ -60,7 +60,7 @@ es.SetSoundVolume(volume)
 ```
 
 ```lua
--> nil
+return nil
 ```
 
 <table><thread><tr><td>
@@ -92,7 +92,7 @@ es.SetSoundLoop(v)
 ```
 
 ```lua
--> nil
+return nil
 ```
 
 <table><thread><tr><td>
