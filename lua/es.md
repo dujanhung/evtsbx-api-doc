@@ -50,7 +50,7 @@ construct **Evertech Sandbox API** instance.
 
 ___
 
-# method description
+# virtual method description
 
 <table><thread><tr><td>
 
@@ -59,8 +59,6 @@ function onPlace()->nil:
  
 end
 ```
-
-<code>virtual</code>
 
 called when player place this MOD block.
 
@@ -72,8 +70,6 @@ function start()->nil:
 end
 ```
 
-<code>virtual</code>
-
 called when player place this MOD block, or this MOD block is loaded from world file.
 
 </td></tr></tbody><thread><tr><td>
@@ -84,8 +80,6 @@ function update()->nil:
 end
 ```
 
-<code>virtual</code>
-
 called during screen rendering frame iteration.
 
 </td></tr></thread><tbody><tr><td>
@@ -95,8 +89,6 @@ function fixedUpdate()->nil:
  
 end
 ```
-
-<code>virtual</code>
 
 called during physics rendering frame iteration, usually about 50 FPS.
 
