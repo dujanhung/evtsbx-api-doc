@@ -7,7 +7,7 @@ represents MOD block's connection point.
 ___
 
 ```json
-"type"
+"type|@required,enum(SignalReceiver,SignalSender,SignalReceiverSender)":"str"
 ```
 
 connection point's type.
@@ -17,56 +17,23 @@ see this enum.
 ___
 
 ```json
-"color"
+"color|@required,hex_flag(tag,no-alpha)":"str"
 ```
 
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>String</code>
-</td></tr></table>
-
-connection point's color. use HEX color.
+connection point's color.
 
 ___
 
 ```json
-"connectionsLimit"
+"connectionsLimit|@required,range_flag(unsigned)":"int"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>int</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-range
-</td><td>
-|
-</td><td>
-more than or equal to <code>0</code> .
-</td></tr></table>
 
 connection point's connection limit.
 
 ___
 
 ```json
-"color"
+"relativePosition|@required":"dict"
 ```
-
-<table><tr><td>
-value type
-</td><td>
-|
-</td><td>
-<code>MOD_block_connection_relative_position</code>
-</td></tr></table>
 
 connection point's relative position.
