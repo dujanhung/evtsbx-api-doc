@@ -28,53 +28,20 @@ ___
 
 
 ```lua
-function onButtonDown()
+function onButtonDown()->nil:
+ 
+end
 ```
 
-<table><tr><td>
-behavior
-</td><td>
-|
-</td><td>
-<code>virtual</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-return type
-</td><td>
-|
-</td><td>
-<code>void</code>
-</td></tr></table>
-
-called when player touch the button.
-
->[!CAUTION]
->don't use this thing for consensual actions, as it would cause health risks.
+called when player hold the button.
 
 ___
 
 ```lua
-function onButtonUp()
+function onButtonUp()->nil:
+ 
+end
 ```
-
-<table><tr><td>
-behavior
-</td><td>
-|
-</td><td>
-<code>virtual</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-return type
-</td><td>
-|
-</td><td>
-<code>void</code>
-</td></tr></table>
 
 called when player release the button.
 
