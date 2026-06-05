@@ -28,24 +28,13 @@ constructor
 es
 ```
 
-<table><tr><td>
-behavior
-</td><td>
-|
-</td><td>
-<code>getter</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-type
-</td><td>
-|
-</td><td>
-<code>ESAPI</code>
-</td></tr></table>
+```lua
+return ESAPI
+```
 
-access to "Evertech Sandbox" instance.
+<code>getter</code>
+
+represents *Evertech Sandbox* instance.
 
 ___
 
