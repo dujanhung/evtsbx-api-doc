@@ -38,9 +38,9 @@ path
 </td></tr></thread><tbody><tr><td>
 type
 </td><td>
-<codeblock lang="lua">
+<linguist lang="lua">
 str
-</codeblock>
+</linguist>
 </td></tr></tbody><thread><tr><td>
 range
 </td><td>
