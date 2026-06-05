@@ -25,8 +25,7 @@ constructor
 </h2>
 
 ```lua
-es=userdata(ESAPI)
-return es
+es
 ```
 
 <code>getter</code>
