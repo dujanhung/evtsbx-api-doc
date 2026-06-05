@@ -54,11 +54,11 @@ this block stores and renders arbitrary text content inside the game world.
 
 >[!TIP]
 >
-> for safer sign content editing, users must:
+> for safer sign contents editing, users must:
 >
-> - prepare text externally before inserting it into the block,
-> - paste content from clipboard instead of typing in-game,
-> - temporarily disable internet connectivity,
+> - prepare text contents externally before inserting it into the block
+> - paste content from clipboard instead of typing in-game directly.
+> - disable network connectivity.
 > - use devices with sufficient RAM (16 GB recommended).
 
 ___
