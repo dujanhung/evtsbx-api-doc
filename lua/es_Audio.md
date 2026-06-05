@@ -35,6 +35,11 @@ method description
 
 ```lua
 es.PlaySound(path)
+/*
+  -> str
+  mandatory
+  path
+*/
 ```
 
 <table><tr><td>
@@ -50,7 +55,7 @@ mandatory
 </td></tr></thread><tbody><tr><td>
 type
 </td><td>
-<code>String</code>
+<code>str</code>
 </td></tr></tbody><thread><tr><td>
 description
 </td><td>
