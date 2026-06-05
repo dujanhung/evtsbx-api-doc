@@ -71,11 +71,7 @@ type
 default
 </td><td>
 <code>false</code>
-</td></tr></thread><tbody><tr><td>
-description
-</td><td>
-button visibility
-</td></tr></tbody></table>
+</td></tr></thread></table>
 
 change button visibility.
 
