@@ -12,7 +12,7 @@ represents a MOD block's connection point.
 
 connection point's type.
 
-see this enum.
+see [this enum]().
 
 </td></tr></thread><tbody><tr><td>
 
