@@ -1,3 +1,3 @@
 # <code>es.MultiBlock.Sign.Text</code> shortcut enum
 
-represents a shortcut to a full `str`.
+represents a shortcut to the built-in hardcoded text content.
