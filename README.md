@@ -71,7 +71,7 @@ inherited by
 ### minimap
 
 ```
-int property1 getter setter
+int property1        getter setter
 nil method1(float v) virtual required
 ```
 
