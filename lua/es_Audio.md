@@ -1,6 +1,6 @@
 # <code>es.Audio</code>
 
-play audio files.
+play waveform audio files directly in **Evertech Sandbox**
 
 > [!TIP]
 > if the file's source don't have `WAV` output, use file converter apps to convert them to `WAV` file.
