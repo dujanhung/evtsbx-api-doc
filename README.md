@@ -138,7 +138,7 @@ Lua property description.
  "type":"nil",
  "mandatory":[
   {
-   "name":"v"
+   "name":"v",
    "type":"number",
    "range":"0<=x<=1"
   }
