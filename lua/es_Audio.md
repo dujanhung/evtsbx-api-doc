@@ -1,6 +1,6 @@
 # <code>es.Audio</code>
 
-a helper class to play audio files.
+play audio files.
 
 > [!TIP]
 > if the file's source don't have `WAV` output, use file converter apps to convert them to `WAV` file.
