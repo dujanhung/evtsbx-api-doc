@@ -28,7 +28,7 @@ connection point's color.
 "connectionsLimit|@required,range_flag(unsigned)":"int"
 ```
 
-connection point's connection limit.
+connection point's connections limit.
 
 </td></tr></thread><tbody><tr><td>
 
