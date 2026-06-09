@@ -2,7 +2,7 @@
 
 play waveform audio files directly in **Evertech Sandbox**
 
-> [!WARNING]
+> [!CAUTION]
 > don't make the audio length too short. otherwise, lag would occur upon playing it.
 
 ___
