@@ -56,7 +56,7 @@ ___
 
 ```lua
 function onPlace()->nil:
- 
+
 end
 ```
 
@@ -66,7 +66,7 @@ called when player place this MOD block.
 
 ```lua
 function start()->nil:
- 
+
 end
 ```
 
@@ -76,7 +76,7 @@ called when player place this MOD block, or this MOD block is loaded from world 
 
 ```lua
 function update()->nil:
- 
+
 end
 ```
 
@@ -86,7 +86,7 @@ called during screen rendering frame iteration.
 
 ```lua
 function fixedUpdate()->nil:
- 
+
 end
 ```
 
