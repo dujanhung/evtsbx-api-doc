@@ -76,7 +76,7 @@ inherited by
 
 ```lua
 variant property1 getter setter
-variant method1() virtual required
+variant method1(v:float) virtual required
 ```
 
 ### property description
