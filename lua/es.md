@@ -20,7 +20,7 @@ ___
 
 # minimap
 
-```
+```lua
 ESAPI es            getter
 nil   onPlace()     virtual
 nil   start()       virtual
