@@ -21,11 +21,11 @@ ___
 # minimap
 
 ```lua
-es
-function onPlace()->nil:end
-function start()->nil:end
-function update()->nil:end
-function fixedUpdate()->nil:end
+ESAPI es
+nil onPlace()
+nil start()
+nil update()
+nil fixedUpdate()
 ```
 
 ___
