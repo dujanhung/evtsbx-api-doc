@@ -31,10 +31,10 @@ ___
 <table><tr><td>
 
 ```json
-"name|@required":"str"
+"name|flag1,flag2,...":"variant"
 ```
 
-MOD name.
+JSON entry description
 
 </td></tr></table>
 
