@@ -74,9 +74,9 @@ inherited by
 
 ### minimap
 
-```lua
+```
 variant property1 getter setter
-variant method1(v:float) virtual required
+variant method1(float v) virtual required
 ```
 
 ### property description
