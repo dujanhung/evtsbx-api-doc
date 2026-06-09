@@ -28,6 +28,22 @@ ___
 
 # example doc entry
 
+## JSON
+
+### enum
+
+<table><tr><td>
+
+```json
+"a"
+```
+
+JSON enum description
+
+</td></tr></table>
+
+### entry
+
 <table><tr><td>
 
 ```json
@@ -37,6 +53,10 @@ ___
 JSON entry description
 
 </td></tr></table>
+
+## Lua
+
+### inheritance
 
 <table><thread><tr><td>
 inherit
@@ -52,10 +72,14 @@ inherited by
 <code>child3</code>
 </td></tr></tbody></table>
 
+### minimap
+
 ```lua
 variant property1 getter setter
 variant method1() virtual required
 ```
+
+### property description
 
 <table><tr><td>
 
