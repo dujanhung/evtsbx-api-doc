@@ -71,8 +71,8 @@ inherited by
 ### minimap
 
 ```md
-|number|property1|getter setter|
-|nil|method1(number v)|virtual required|
+|`number`|`property1`|`getter`<br>`setter`|
+|`nil`|`method1(number v)`|`virtual`<br>`required`|
 ```
 
 ### property description
