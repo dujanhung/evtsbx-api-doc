@@ -21,11 +21,11 @@ ___
 # minimap
 
 ```lua
-ESAPI es
-nil onPlace()
-nil start()
-nil update()
-nil fixedUpdate()
+ESAPI es          -- getter
+nil onPlace()     -- virtual
+nil start()       -- virtual
+nil update()      -- virtual
+nil fixedUpdate() -- virtual
 ```
 
 ___
