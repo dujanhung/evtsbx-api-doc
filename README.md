@@ -50,6 +50,22 @@ nil   update()      virtual
 nil   fixedUpdate() virtual
 ```
 
+<table><tr><td>
+
+```lua
+es
+```
+
+```lua
+return ESAPI
+```
+
+<code>getter</code>
+
+construct **Evertech Sandbox API** instance.
+
+</td></tr></table>
+
 ___
 
 # usage
