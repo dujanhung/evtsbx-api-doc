@@ -42,6 +42,14 @@ inherited by
 <code>es.Quaternion</code>
 </td></tr></tbody></table>
 
+```lua
+ESAPI es            getter
+nil   onPlace()     virtual
+nil   start()       virtual
+nil   update()      virtual
+nil   fixedUpdate() virtual
+```
+
 ___
 
 # usage
