@@ -74,6 +74,25 @@ inherited by
 |`number`|`property1`        |`getter`<br>`setter`   |
 |`nil`   |`method1(number v)`|`virtual`<br>`required`|
 ```
+<table><thread><tr><td>
+name
+</td><td>
+variant type
+</td><td>
+flag
+</td></tr></thread><tbody><tr><td>
+`property1`
+</td><td>
+`number`
+</td><td>
+`getter`<br>`setter`
+</td></tr></tbody><thread><tr><td>
+`method1()`
+</td><td>
+`nil`
+</td><td>
+`virtual`<br>`required`
+</td></tr></thread></table>
 
 ### property description
 
