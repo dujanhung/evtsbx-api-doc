@@ -26,6 +26,10 @@ works in **Evertech Sandbox** out-of-the-box.
 
 ___
 
+# example doc
+
+___
+
 # usage
 
 ___
