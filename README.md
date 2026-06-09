@@ -70,10 +70,10 @@ inherited by
 
 ### minimap
 
-```
-number property1         getter setter
-nil    method1(number v) virtual required
-```
+`
+int property1        getter setter
+nil method1(float v) virtual required
+`
 
 ### property description
 
@@ -84,7 +84,7 @@ property1
 ```
 
 ```lua
-return number
+int
 ```
 
 <code>getter</code><code>setter</code>
@@ -115,7 +115,7 @@ v
 type
 </td><td>
 <code>
-number
+float
 </code>
 </td></tr></tbody><thread><tr><td>
 range
