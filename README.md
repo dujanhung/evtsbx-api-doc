@@ -30,7 +30,7 @@ ___
 
 ## JSON
 
-### enum
+### enum description
 
 <table><tr><td>
 
@@ -42,7 +42,7 @@ JSON enum description
 
 </td></tr></table>
 
-### entry
+### entry description
 
 <table><tr><td>
 
