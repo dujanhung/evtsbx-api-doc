@@ -115,7 +115,8 @@ required
 <table><tr><td>
 
 ```json
-"property1":{
+{
+ "name":"property1",
  "type":"number",
  "flag":"getter,setter"
 }
@@ -134,7 +135,8 @@ Lua property description.
 <table><tr><td>
 
 ```json
-"method1":{
+{
+ "name":"method1",
  "type":"nil",
  "mandatory":[
   {
