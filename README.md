@@ -97,6 +97,42 @@ Lua property description.
 
 </td></tr></table>
 
+### method description
+
+<table><tr><td>
+
+```lua
+method1(v)
+```
+
+```lua
+return nil
+```
+
+<table><thread><tr><td>
+name
+</td><td>
+<code>
+v
+</code>
+</td></tr></thread><tbody><tr><td>
+type
+</td><td>
+<code>
+float
+</code>
+</td></tr></tbody><thread><tr><td>
+range
+</td><td>
+<code>
+0<=x<=1
+</code>
+</td></tr></thread></table>
+
+Lua method description.
+
+</td></tr></table>
+
 ___
 
 # usage
