@@ -70,10 +70,6 @@ inherited by
 
 ### minimap
 
-```md
-|`number`|`property1`        |`getter`<br>`setter`   |
-|`nil`   |`method1(number v)`|`virtual`<br>`required`|
-```
 <table><thread><tr><td>
 name
 </td><td>
@@ -81,17 +77,37 @@ variant type
 </td><td>
 flag
 </td></tr></thread><tbody><tr><td>
-`property1`
+<code>
+property1
+</code>
 </td><td>
-`number`
+<code>
+number
+</code>
 </td><td>
-`getter`<br>`setter`
+<code>
+getter
+</code>
+<br>
+<code>
+setter
+</code>
 </td></tr></tbody><thread><tr><td>
-`method1()`
+<code>
+method1()
+</code>
 </td><td>
-`nil`
+<code>
+nil
+</code>
 </td><td>
-`virtual`<br>`required`
+<code>
+virtual
+</code>
+<br>
+<code>
+required
+</code>
 </td></tr></thread></table>
 
 ### property description
