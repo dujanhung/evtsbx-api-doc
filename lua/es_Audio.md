@@ -2,12 +2,6 @@
 
 play waveform audio files directly in **Evertech Sandbox**
 
-> [!TIP]
-> if the file's source don't have `WAV` output, use file converter apps to convert them to `WAV` file.
-
-> [!TIP]
-> to play multiple audio files at a same time, you should create more blocks whose scripts are pointing to different audio files.
-
 > [!WARNING]
 > don't make the audio length too short. otherwise, lag would occur upon playing it.
 
