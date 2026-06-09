@@ -17,7 +17,7 @@ see [this enum]().
 </td></tr></thread><tbody><tr><td>
 
 ```json
-"color|@required,hex_flag(tag,no-alpha)":"str"
+"color|@required,hex_flag(tag_no-alpha)":"str"
 ```
 
 connection point's color.
