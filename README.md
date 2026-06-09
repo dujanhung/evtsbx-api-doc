@@ -70,10 +70,10 @@ inherited by
 
 ### minimap
 
-```
-|number|property1        |getter setter
-+------+-----------------+-------------+
-|nil   |method1(number v)|virtual required|
+```md
+|number|property1|getter setter|
++-+-+-+
+|nil|method1(number v)|virtual required|
 ```
 
 ### property description
