@@ -156,7 +156,7 @@ OBJ scale.
 </td></tr></thread><tbody><tr><td>
 
 ```json
-"connections|array_flag(allow_multiple)":"list"
+"connections|list_flag(allow_multiple)":"list"
 ```
 
 a list of connection points.
