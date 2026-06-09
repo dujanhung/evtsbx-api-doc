@@ -1,7 +1,7 @@
 # progress
 
 <table><thread><tr><td>
-📝 citeria
+📝 type
 </td><td>
 <code>
 JSON
