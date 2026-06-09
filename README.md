@@ -28,6 +28,16 @@ ___
 
 # example doc entry
 
+<table><tr><td>
+
+```json
+"name|@required":"str"
+```
+
+MOD name.
+
+</td></tr></table>
+
 <table><thread><tr><td>
 inherit
 </td><td>
