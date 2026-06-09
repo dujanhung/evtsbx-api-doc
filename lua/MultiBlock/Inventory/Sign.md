@@ -19,9 +19,9 @@ inherit
 <code>Sign</code>
 </td></tr></table>
 
-represents a <code>Sign</code> block from the **Evertech Sandbox Lua API**.
+represents a <code>Sign</code> block.
 
-this block stores and renders arbitrary text content inside the game world.
+this block could store and render arbitrary text contents in the game world.
 
 ___
 
