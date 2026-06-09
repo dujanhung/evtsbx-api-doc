@@ -41,23 +41,20 @@ JSON entry description
 <table><thread><tr><td>
 inherit
 </td><td>
-<code>userdata</code>
+<code>parent1</code>
 </td></tr></thread><tbody><tr><td>
 inherited by
 </td><td>
-<code>es.Player</code>
+<code>child1</code>
 <br>
-<code>es.MultiBlock</code>
+<code>child2</code>
 <br>
-<code>es.Quaternion</code>
+<code>child3</code>
 </td></tr></tbody></table>
 
 ```lua
-ESAPI es            getter
-nil   onPlace()     virtual
-nil   start()       virtual
-nil   update()      virtual
-nil   fixedUpdate() virtual
+variant property1 getter setter
+variant method1() virtual required
 ```
 
 <table><tr><td>
