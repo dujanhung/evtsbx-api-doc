@@ -72,7 +72,6 @@ inherited by
 
 ```md
 |number|property1|getter setter|
-+-+-+-+
 |nil|method1(number v)|virtual required|
 ```
 
