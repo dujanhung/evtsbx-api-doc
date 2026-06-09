@@ -117,7 +117,7 @@ required
 ```json
 {
  "name":"property1",
- "type":"number",
+ "variant-type":"number",
  "flag":"getter,setter"
 }
 ```
@@ -137,11 +137,11 @@ Lua property description.
 ```json
 {
  "name":"method1",
- "type":"nil",
+ "variant-type":"nil",
  "mandatory":[
   {
    "name":"v",
-   "type":"number",
+   "variant-type":"number",
    "range":"0<=x<=1"
   }
  ]
