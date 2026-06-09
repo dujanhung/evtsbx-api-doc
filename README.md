@@ -60,16 +60,16 @@ variant method1() virtual required
 <table><tr><td>
 
 ```lua
-es
+property1
 ```
 
 ```lua
-return ESAPI
+return variant
 ```
 
-<code>getter</code>
+<code>getter</code><code>setter</code>
 
-construct **Evertech Sandbox API** instance.
+Lua property description.
 
 </td></tr></table>
 
