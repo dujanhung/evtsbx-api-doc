@@ -1,6 +1,6 @@
 # evtsbx-api-doc
 
-a full **Evertech Sandbox API** documentation in MD files.
+a full **Evertech Sandbox API documentation** in MD files.
 
 <table><tr><td>
 
