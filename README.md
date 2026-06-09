@@ -115,7 +115,10 @@ required
 <table><tr><td>
 
 ```json
-"property1|@getter,@setter":"float"
+"property1":{
+ "type":"number",
+ "flag":"getter,setter"
+}
 ```
 
 ```lua
@@ -130,33 +133,19 @@ Lua property description.
 
 <table><tr><td>
 
-```lua
-method1(v)
+```json
+"method1":{
+ "type":"nil",
+ "mandatory":[
+  {
+   "v":{
+    "type":"number",
+    "range":"0<=x<=1"
+   }
+  }
+ ]
+}
 ```
-
-```lua
-return nil
-```
-
-<table><thread><tr><td>
-name
-</td><td>
-<code>
-v
-</code>
-</td></tr></thread><tbody><tr><td>
-type
-</td><td>
-<code>
-number
-</code>
-</td></tr></tbody><thread><tr><td>
-range
-</td><td>
-<code>
-0<=x<=1
-</code>
-</td></tr></thread></table>
 
 Lua method description.
 
