@@ -147,6 +147,10 @@ Lua property description.
 }
 ```
 
+```lua
+method1(v)
+```
+
 Lua method description.
 
 </td></tr></table>
