@@ -26,7 +26,21 @@ works in **Evertech Sandbox** out-of-the-box.
 
 ___
 
-# example doc
+# example doc entry
+
+<table><thread><tr><td>
+inherit
+</td><td>
+<code>userdata</code>
+</td></tr></thread><tbody><tr><td>
+inherited by
+</td><td>
+<code>es.Player</code>
+<br>
+<code>es.MultiBlock</code>
+<br>
+<code>es.Quaternion</code>
+</td></tr></tbody></table>
 
 ___
 
