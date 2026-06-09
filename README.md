@@ -114,15 +114,13 @@ required
 
 <table><tr><td>
 
+```json
+"property1|@getter,@setter":"float"
+```
+
 ```lua
 property1
 ```
-
-```lua
-return number
-```
-
-<code>getter</code><code>setter</code>
 
 Lua property description.
 
