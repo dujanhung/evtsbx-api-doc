@@ -66,10 +66,6 @@ inherit
 inherited by
 </td><td>
 <code>child1</code>
-<br>
-<code>child2</code>
-<br>
-<code>child3</code>
 </td></tr></tbody></table>
 
 ### minimap
