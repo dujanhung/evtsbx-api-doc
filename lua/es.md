@@ -20,6 +20,7 @@ ___
 
 # minimap
 
+<p>
 ┣ constructors
 ┃ ┗ [`es`](#constructor_es)
 ┣ virtual methods
@@ -27,6 +28,7 @@ ___
 ┃ ┣ [`start()`](#method_virtual_start)
 ┃ ┣ [`update()`](#method_virtual_update)
 ┃ ┗ [`fixedUpdate()`](#method_virtual_fixedUpdate)
+</p>
 
 ___
 
