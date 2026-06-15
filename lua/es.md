@@ -20,11 +20,11 @@ ___
 
 # minimap
 
-- es
-- onPlace()
-- start()
-- update()
-- fixedUpdate()
+- [`es`](#constructor_es)
+- [`onPlace()`](#method_virtual_onPlace)
+- [`start()`](#method_virtual_start)
+- [`update()`](#method_virtual_update)
+- [`fixedUpdate()`](#method_virtual_fixedUpdate)
 
 ___
 
