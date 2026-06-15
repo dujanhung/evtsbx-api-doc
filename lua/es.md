@@ -48,7 +48,7 @@ ___
 
 # virtual method description
 
-## <code>onPlace()</code>
+## <code id="method_virtual_onPlace">onPlace()</code>
 
 ```lua
 function onPlace()
