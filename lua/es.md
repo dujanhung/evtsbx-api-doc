@@ -58,7 +58,7 @@ end
 
 called when player place this MOD block.
 
-## <code>start()</code>
+## <code id="method_virtual_start">start()</code>
 
 ```lua
 function start()
@@ -68,7 +68,7 @@ end
 
 called when player place this MOD block, or this MOD block is loaded from world file.
 
-## <code>update()</code>
+## <code id="method_virtual_update">update()</code>
 
 ```lua
 function update()
@@ -78,7 +78,7 @@ end
 
 called during screen rendering frame iteration.
 
-## <code>fixedUpdate()</code>
+## <code id="method_virtual_fixedUpdate">fixedUpdate()</code>
 
 ```lua
 function fixedUpdate()
