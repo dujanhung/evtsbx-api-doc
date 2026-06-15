@@ -88,22 +88,4 @@ end
 
 called during physics rendering frame iteration, usually about 50 FPS.
 
-𒐪
-
-𒐪
-
-𒐪
-
-𒐪
-
-𒐪
-
-𒐪
-
-𒐪
-
-𒐪
-
-𒐪
-
-𒐪
+𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪𒐪
