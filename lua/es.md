@@ -52,7 +52,7 @@ ___
 
 # virtual method description
 
-<table><thread><tr><td>
+## <code>onPlace()</code>
 
 ```lua
 function onPlace()
@@ -62,7 +62,7 @@ end
 
 called when player place this MOD block.
 
-</td></tr></thread><tbody><tr><td>
+## <code>start()</code>
 
 ```lua
 function start()
@@ -72,7 +72,7 @@ end
 
 called when player place this MOD block, or this MOD block is loaded from world file.
 
-</td></tr></tbody><thread><tr><td>
+## <code>update()</code>
 
 ```lua
 function update()
@@ -82,7 +82,7 @@ end
 
 called during screen rendering frame iteration.
 
-</td></tr></thread><tbody><tr><td>
+## <code>fixedUpdate()</code>
 
 ```lua
 function fixedUpdate()
@@ -91,5 +91,3 @@ end
 ```
 
 called during physics rendering frame iteration, usually about 50 FPS.
-
-</td></tr></tbody></table>
