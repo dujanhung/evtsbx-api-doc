@@ -12,7 +12,7 @@ how users see MOD authors in multiplayer
 
 </td></tr></table>
 
-___
+---
 
 # features
 
@@ -24,143 +24,7 @@ improve readability.
 
 works in **Evertech Sandbox** out-of-the-box.
 
-___
-
-# doc schema
-
-## JSON
-
-### enum description
-
-<table><tr><td>
-
-```json
-"a"
-```
-
-JSON enum description
-
-</td></tr></table>
-
-### entry description
-
-<table><tr><td>
-
-```json
-"name|flag1,flag2,...":"variant"
-```
-
-JSON entry description
-
-</td></tr></table>
-
-## Lua
-
-### inheritance
-
-<table><thread><tr><td>
-inherit
-</td><td>
-<code>parent1</code>
-</td></tr></thread><tbody><tr><td>
-inherited by
-</td><td>
-<code>child1</code>
-</td></tr></tbody></table>
-
-### minimap
-
-<table><thread><tr><td>
-name
-</td><td>
-variant type
-</td><td>
-flag
-</td></tr></thread><tbody><tr><td>
-<code>
-property1
-</code>
-</td><td>
-<code>
-number
-</code>
-</td><td>
-<code>
-getter
-</code>
-<br>
-<code>
-setter
-</code>
-</td></tr></tbody><thread><tr><td>
-<code>
-method1()
-</code>
-</td><td>
-<code>
-nil
-</code>
-</td><td>
-<code>
-virtual
-</code>
-<br>
-<code>
-required
-</code>
-</td></tr></thread></table>
-
-### property description
-
-<table><tr><td>
-
-```json
-{
- "name":"property1",
- "variant-type":"number",
- "flag":"getter,setter"
-}
-```
-
-```lua
-property1
-```
-
-Lua property description.
-
-</td></tr></table>
-
-### method description
-
-<table><tr><td>
-
-```json
-{
- "name":"method1",
- "variant-type":"nil",
- "mandatory":[
-  {
-   "name":"v",
-   "variant-type":"number",
-   "range":"0<=x<=1"
-  }
- ]
-}
-```
-
-```lua
-method1(v)
-```
-
-Lua method description.
-
-</td></tr></table>
-
-___
-
-# usage
-
-___
+---
 
 # credits
 
