@@ -20,13 +20,13 @@ ___
 
 # minimap
 
-- constructors
-- - [`es`](#constructor_es)
-- virtual methods
-- - [`onPlace()`](#method_virtual_onPlace)
-- - [`start()`](#method_virtual_start)
-- - [`update()`](#method_virtual_update)
-- - [`fixedUpdate()`](#method_virtual_fixedUpdate)
+┣ constructors
+┃ ┗ [`es`](#constructor_es)
+┣ virtual methods
+┃ ┣ [`onPlace()`](#method_virtual_onPlace)
+┃ ┣ [`start()`](#method_virtual_start)
+┃ ┣ [`update()`](#method_virtual_update)
+┃ ┗ [`fixedUpdate()`](#method_virtual_fixedUpdate)
 
 ___
 
