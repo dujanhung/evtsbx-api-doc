@@ -1,6 +1,6 @@
 # <code>es</code>
 
-represents **Evertech Sandbox API**.
+represents an **Evertech Sandbox API** entry.
 
 ---
 
