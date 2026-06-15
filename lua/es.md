@@ -1,6 +1,6 @@
 # <code>es</code>
 
-represents an **Evertech Sandbox API** entry.
+allows access to **Evertech Sandbox API**.
 
 ---
 
