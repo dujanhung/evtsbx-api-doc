@@ -1,5 +1,11 @@
 # <code>es</code>
 
+represents **Evertech Sandbox API**.
+
+---
+
+# inheritance
+
 <table><thread><tr><td>
 inherit
 </td><td>
@@ -13,8 +19,6 @@ inherited by
 <br>
 <code>es.Quaternion</code>
 </td></tr></tbody></table>
-
-represents **Evertech Sandbox API**.
 
 ___
 
