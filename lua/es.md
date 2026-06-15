@@ -14,7 +14,9 @@ inherited by
 <code>es.Quaternion</code>
 </td></tr></tbody></table>
 
+$$
 represents **Evertech Sandbox API**.
+$$
 
 ___
 
