@@ -55,7 +55,7 @@ ___
 <table><thread><tr><td>
 
 ```lua
-function onPlace()->nil
+function onPlace()
 
 end
 ```
