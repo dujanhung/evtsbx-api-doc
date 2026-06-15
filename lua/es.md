@@ -25,12 +25,12 @@ ___
 # minimap
 
 ┣━ 🛠️ constructors<br>
-┃ ┗━ [`es`](#constructor_es)<br>
+┃  ┗━ [`es`](#constructor_es)<br>
 ┣━ 🛰️ virtual methods<br>
-┃ ┣━ [`onPlace()`](#method_virtual_onPlace)<br>
-┃ ┣━ [`start()`](#method_virtual_start)<br>
-┃ ┣━ [`update()`](#method_virtual_update)<br>
-┃ ┗━ [`fixedUpdate()`](#method_virtual_fixedUpdate)
+┃  ┣━ [`onPlace()`](#method_virtual_onPlace)<br>
+┃  ┣━ [`start()`](#method_virtual_start)<br>
+┃  ┣━ [`update()`](#method_virtual_update)<br>
+┃  ┗━ [`fixedUpdate()`](#method_virtual_fixedUpdate)
 
 ___
 
