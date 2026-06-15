@@ -20,19 +20,17 @@ ___
 
 # minimap
 
-```lua
-ESAPI es            getter
-nil   onPlace()     virtual
-nil   start()       virtual
-nil   update()      virtual
-nil   fixedUpdate() virtual
-```
+- es
+- onPlace()
+- start()
+- update()
+- fixedUpdate()
 
 ___
 
 # constructor description
 
-<table><tr><td>
+## <code>es</code>
 
 ```lua
 es
@@ -45,8 +43,6 @@ return ESAPI
 <code>getter</code>
 
 construct **Evertech Sandbox API** instance.
-
-</td></tr></table>
 
 ___
 
