@@ -5,16 +5,9 @@
 <table><tr><td>
 inherit
 </td><td>
-|
-</td><td>
 <code>es.MultiBlock</code>
 </td></tr><tr><td>
-</td><td>
-</td><td>
-</td></tr><tr><td>
-<code>es.MultiBlock.Type</code> specific
-</td><td>
-|
+<code>es.MultiBlock.Type</code>
 </td><td>
 <code>Sign</code>
 </td></tr></table>
