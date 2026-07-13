@@ -2,7 +2,7 @@
 
 performs quick text shortcuts.
 
-if a valid key entered into `es.MultiBlock.Sign.Text` (directly or via API), the block would:
+if a valid key is entered into `es.MultiBlock.Sign.Text` (directly or via API), the block would:
 
 - change text's visual appearance to it's corresponding value
 
