@@ -12,9 +12,7 @@ inherit
 <code>Sign</code>
 </td></tr></table>
 
-represents a <code>Sign</code> block.
-
-this block could store and render arbitrary text contents.
+stores and renders arbitrary text contents.
 
 ___
 
