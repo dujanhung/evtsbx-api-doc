@@ -17,18 +17,11 @@ es.MultiBlock.Sign
 <table><tr><td>
 behavior
 </td><td>
-|
-</td><td>
 <code>getter</code>
-</td></tr><tr><td>
-</td><td>
-</td><td>
 </td></tr><tr><td>
 type
 </td><td>
-|
-</td><td>
-<code>SIGNAPI</code>
+<code>evertech_SIGNAPI</code>
 </td></tr></table>
 
 get `Sign` instance.
