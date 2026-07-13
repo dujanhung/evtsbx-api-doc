@@ -14,6 +14,8 @@ constructor
 es.MultiBlock.Sign
 ```
 
+get instance.
+
 <table><tr><td>
 behavior
 </td><td>
@@ -23,8 +25,6 @@ type
 </td><td>
 <code>evertech_SIGNAPI</code>
 </td></tr></table>
-
-get `Sign` instance.
 
 ___
 
