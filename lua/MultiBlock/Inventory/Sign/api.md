@@ -2,16 +2,6 @@
 <code>es.MultiBlock.Sign</code>
 </h2>
 
-<table><tr><td>
-inherit
-</td><td>
-<code>es.MultiBlock</code>
-</td></tr><tr><td>
-<code>es.MultiBlock.Type</code>
-</td><td>
-<code>Sign</code>
-</td></tr></table>
-
 stores and renders arbitrary text contents.
 
 ___
