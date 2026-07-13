@@ -14,7 +14,7 @@ inherit
 
 represents a <code>Sign</code> block.
 
-this block could store and render arbitrary text contents in the game world.
+this block could store and render arbitrary text contents.
 
 ___
 
