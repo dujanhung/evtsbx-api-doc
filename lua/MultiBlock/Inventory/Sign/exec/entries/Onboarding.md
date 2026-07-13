@@ -2,10 +2,9 @@
 
 performs quick text shortcuts.
 
-if a valid key entered into a target container:
+if a valid key entered into `es.MultiBlock.Sign.Text` (directly or via API), the block would:
 
-- the text's visual appearance would change to it's corresponding value
-- the text buffer itself wouldn't change at all
+- change text's visual appearance to it's corresponding value
 
 # <a id="minimap"/> minimap
 
