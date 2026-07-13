@@ -36,7 +36,7 @@ if a valid key entered into a target container:
 
 # <a id="syntax"/> syntax
 
-```txt
+```py
 [{Onboarding.key}]
 ```
 
