@@ -2,7 +2,7 @@
 
 # security risks
 
-an arbitrary text may stores bad things.
+a text may stores bad things.
 
 ## 
 
