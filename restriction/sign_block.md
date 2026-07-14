@@ -2,8 +2,6 @@
 
 # security risks
 
-a text may contains bad things.
-
 ## exposed profanity
 
 unwanted bad words may be exposed to players as is.
