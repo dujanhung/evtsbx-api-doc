@@ -32,4 +32,4 @@ a text, such as `<quad>`, may reduces FPS.
 
 ## ellipsepsy
 
-suddenly exposing to large flashing high-contrast-colored texts may shock players.
+suddenly exposing to large flashing hue-colored texts may shock players.
