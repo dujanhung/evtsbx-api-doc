@@ -6,7 +6,7 @@ a text may stores bad things.
 
 ## exposed profanity
 
-texts are stored as is, and may contains bad words.
+texts are stored as is, and may contains unwanted bad words.
 
 ## malicious URLs
 
