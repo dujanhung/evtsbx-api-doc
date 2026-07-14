@@ -1,25 +1,29 @@
 # `es.MultiBlock.Sign`
 
-# 🛡️ security risk
+# security risks
 
-**`Sign` blocks can't sanitize it's own content**.
+arbitrary texts could open a backdoor.
 
-loading `Sign` blocks from untrusted sources may expose the runtime to dangers.
+this rule applies to:
+
+- multiplayer.
 
 ## malicious URLs
 
-## remote code execution
+some URLs may lead players to harmful websites.
 
-## memory exhaustion
+# runtime stability
 
-# ☢️ runtime stability
+## memory corruption
 
-editing large contents directly in-game is not recommended.
+texts, such as `move`, could overflow floating-point limits.
+
+## long edits
+
+editing large texts directly in-game is not recommended.
 
 observed risks include:
 
-- interruptions caused by ADs
-- external apps switching triggered by ADs
-- forced application restart caused by OOM
-
-**these interruptions may result in lost or corrupted sign data**.
+- ADs interruptions
+- broken textbox
+- memory overflow
