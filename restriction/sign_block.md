@@ -26,4 +26,8 @@ a text, such as `<quad>`, may reduces FPS.
 
 ## broken text rendering
 
-a text, such as `<quad>` or Zargo, may causes ellipsepsy.
+`<quad>` may occupy the entire screen.
+
+## negative health effects
+
+suddenly exposing to flashing high-contrast-colored texts may cause ellipsepsy.
