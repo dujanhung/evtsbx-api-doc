@@ -1,4 +1,4 @@
-# `es.MultiBlock.Sign`
+# `es.MultiBlock.Sign.Text` risks
 
 # security risks
 
