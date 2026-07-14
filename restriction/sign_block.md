@@ -20,4 +20,4 @@ a text, such as `move`, may inject `NaN` values into internal scripts.
 
 ## memory overflow
 
-a very huge text may instantly overwhelm RAM.
+a very huge text may inevitably overwhelm RAMs.
