@@ -16,7 +16,7 @@ some URLs may lead players to harmful websites.
 
 ## script injection
 
-a text, such as `move`, may inject `NaN` values into internal scripts.
+`move` may inject `NaN` values into internal scripts.
 
 ## memory overflow
 
@@ -24,4 +24,4 @@ a very heavy text, such as 1 TB, may inevitably overflow RAMs.
 
 ## reduced FPS
 
-a `<quad>` tag may reduce FPS.
+`<quad>` tags may reduce FPS.
