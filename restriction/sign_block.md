@@ -28,6 +28,6 @@ a text, such as `<quad>`, may reduces FPS.
 
 `<quad>` may occupy the entire screen.
 
-## negative health effects
+# negative health effects
 
 suddenly exposing to flashing high-contrast-colored texts may cause ellipsepsy.
