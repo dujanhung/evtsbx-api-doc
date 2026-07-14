@@ -2,13 +2,9 @@
 
 # security risks
 
-## exposed profanity
+## bad texts
 
-some texts, such as bad word, may be exposed to players as is.
-
-## exposed bad ASCII arts
-
-some ASCII arts, especially NSFW, may be exposed to players as is.
+some texts, such as bad word or NSFW ASCII art, may be exposed to players as is.
 
 ## malicious URLs
 
