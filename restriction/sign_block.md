@@ -4,7 +4,7 @@
 
 **`Sign` blocks can't sanitize it's own stored content**.
 
-loading sign data from untrusted sources may expose the runtime to:
+loading `Sign` blocks from untrusted sources may expose the runtime to:
 
 - malicious URLs
 - remote code execution
