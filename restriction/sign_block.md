@@ -4,7 +4,7 @@
 
 ## exposed profanity
 
-bad words may be exposed to players as is.
+some texts, such as bad word, may be exposed to players as is.
 
 ## exposed bad ASCII arts
 
