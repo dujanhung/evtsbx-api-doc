@@ -8,11 +8,9 @@ loading sign data from untrusted sources may expose the runtime to:
 
 - malicious hyperlinks
 - remote code execution
-- memory exhaustion (OOM) via oversized text buffers
-- excessive `<quad>` tag rendering
-- excessive Unicode characters rendering.
+- memory exhaustion
 
-**only load sign data from trusted save files or verified multiplayer environments**.
+**only load sign data from trusted sources or locked multiplayer rooms**.
 
 ## ☢️ runtime stability
 
@@ -25,12 +23,3 @@ observed risks include:
 - forced application restart caused by OOM
 
 **these interruptions may result in lost or corrupted sign data**.
-
-## 💡 recommended workflows
-
-for safer sign contents editing, users must:
-
-- prepare contents in an external file
-- paste contents from clipboard
-- disable network connectivity
-- use devices with sufficient RAM (16 GB recommended)
