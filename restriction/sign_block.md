@@ -12,7 +12,7 @@ some URLs may lead players to harmful websites.
 
 # runtime risks
 
-## unintended script injection
+## `move` misuse
 
 `move` may inject `NaN` values into internal scripts.
 
