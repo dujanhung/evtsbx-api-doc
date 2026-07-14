@@ -12,7 +12,7 @@ unwanted bad words may be exposed to players as is.
 
 some URLs may lead players to harmful websites.
 
-# performance risks
+# runtime risks
 
 ## script injection
 
