@@ -18,12 +18,12 @@ some URLs may lead players to harmful websites.
 
 ## memory overflow
 
-a very heavy text, such as 1 TB, may inevitably overflow RAMs.
+a very heavy text, such as 1 TB, may overflow RAMs.
 
 ## reduced FPS
 
-a text, such as `<quad>`, may reduce FPS.
+a text, such as `<quad>`, may reduces FPS.
 
 ## broken text rendering
 
-a text, such as `<quad>` or Zargo, may inevitably breaks text rendering.
+a text, such as `<quad>` or Zargo, may breaks text rendering.
