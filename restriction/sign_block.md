@@ -2,7 +2,7 @@
 
 ## 🛡️ security risk
 
-**`Sign` blocks can't sanitize on it's own content**.
+**`Sign` blocks can't sanitize it's own content**.
 
 loading `Sign` blocks from untrusted sources may expose the runtime to:
 
