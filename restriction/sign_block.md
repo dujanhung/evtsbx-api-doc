@@ -24,4 +24,4 @@ a very heavy text, such as 1 TB, may inevitably overflow RAMs.
 
 ## reduced FPS
 
-`<quad>` tag may reduce FPS.
+a `<quad>` tag may reduce FPS.
