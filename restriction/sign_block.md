@@ -2,11 +2,11 @@
 
 # security risks
 
-a text may stores bad things.
+a text may contains bad things.
 
 ## exposed profanity
 
-texts may contains unwanted bad words.
+unwanted bad words are exposed as is.
 
 ## malicious URLs
 
