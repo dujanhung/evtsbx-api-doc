@@ -25,3 +25,7 @@ a very heavy text, such as 1 TB, may inevitably overflow RAMs.
 ## reduced FPS
 
 `<quad>` tags may reduce FPS.
+
+## broken text rendering
+
+a text, such as `<quad>` or Zargo, may inevitably breaks text rendering.
