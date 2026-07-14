@@ -14,9 +14,9 @@ some URLs may lead players to harmful websites.
 
 # performance risks
 
-## memory corruption
+## memory injection
 
-a text, such as `move`, may end up with `NaN` values.
+a text, such as `move`, may inject `NaN` values into internal scripts.
 
 ## memory overflow
 
