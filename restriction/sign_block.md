@@ -12,18 +12,12 @@ texts are stored as is, and may contains unwanted bad words.
 
 some URLs may lead players to harmful websites.
 
-# runtime stability
+# performance risks
 
 ## memory corruption
 
-texts, such as `move`, could overflow floating-point limits.
+a text, such as `move`, may end up with `NaN` values.
 
-## long edits
+## memory overflow
 
-editing large texts directly in-game is not recommended.
-
-observed risks include:
-
-- ADs interruptions
-- broken textbox
-- memory overflow
+a very huge text may instantly overwhelm RAM.
