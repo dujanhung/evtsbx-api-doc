@@ -2,7 +2,7 @@
 
 ## 🛡️ security risk
 
-the text renderer does **NOT** perform validation or sanitization by itself.
+**`Sign` blocks can't sanitize it's own stored content**.
 
 loading sign data from untrusted sources may expose the runtime to:
 
