@@ -6,7 +6,7 @@ a text may contains bad things.
 
 ## exposed profanity
 
-unwanted bad words may be exposed to players as is.
+unwanted bad words may be exposed to players as is, which would cause many negative effects associated with profanity.
 
 ## malicious URLs
 
