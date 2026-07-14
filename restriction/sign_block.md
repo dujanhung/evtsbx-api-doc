@@ -1,18 +1,18 @@
 # `es.MultiBlock.Sign`
 
-## 🛡️ security risk
+# 🛡️ security risk
 
 **`Sign` blocks can't sanitize it's own content**.
 
-loading `Sign` blocks from untrusted sources may expose the runtime to:
+loading `Sign` blocks from untrusted sources may expose the runtime to dangers.
 
-- malicious URLs
-- remote code execution
-- memory exhaustion
+## malicious URLs
 
-**only load sign data from trusted sources or locked multiplayer rooms**.
+## remote code execution
 
-## ☢️ runtime stability
+## memory exhaustion
+
+# ☢️ runtime stability
 
 editing large contents directly in-game is not recommended.
 
