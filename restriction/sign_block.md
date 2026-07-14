@@ -26,4 +26,4 @@ a text, such as `<quad>`, may reduces FPS.
 
 ## broken text rendering
 
-a text, such as `<quad>` or Zargo, may breaks text rendering.
+a text, such as `<quad>` or Zargo, may causes ellipsepsy.
