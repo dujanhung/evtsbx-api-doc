@@ -30,4 +30,6 @@ a text, such as `<quad>`, may reduces FPS.
 
 # negative health effects
 
-suddenly exposing to flashing high-contrast-colored texts may cause ellipsepsy.
+## ellipsepsy
+
+suddenly exposing to flashing high-contrast-colored texts may shock players.
