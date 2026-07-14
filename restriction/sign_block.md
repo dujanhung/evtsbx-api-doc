@@ -6,6 +6,10 @@
 
 bad words may be exposed to players as is.
 
+## exposed bad ASCII arts
+
+some ASCII arts, especially NSFW, may be exposed to players as is.
+
 ## malicious URLs
 
 some URLs may lead players to harmful websites.
