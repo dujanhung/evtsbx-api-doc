@@ -6,7 +6,7 @@
 
 loading sign data from untrusted sources may expose the runtime to:
 
-- malicious hyperlinks
+- malicious URLs
 - remote code execution
 - memory exhaustion
 
