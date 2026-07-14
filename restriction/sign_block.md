@@ -6,7 +6,7 @@
 
 bad words may be exposed to players as is.
 
-## exposed bad arts
+## exposed bad ASCII arts
 
 some ASCII arts, especially NSFW, may be exposed to players as is.
 
