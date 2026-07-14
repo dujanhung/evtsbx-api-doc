@@ -4,7 +4,7 @@
 
 ## exposed profanity
 
-unwanted bad words may be exposed to players as is.
+unwanted bad words or NSFW ASCII arts may be exposed to players as is.
 
 ## malicious URLs
 
