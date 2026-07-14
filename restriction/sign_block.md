@@ -4,10 +4,6 @@
 
 an arbitrary text may stores bad things.
 
-this rule applies to:
-
-- multiplayer.
-
 ## 
 
 ## malicious URLs
