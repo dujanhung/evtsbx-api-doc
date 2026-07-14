@@ -2,11 +2,13 @@
 
 # security risks
 
-arbitrary texts could open a backdoor.
+an arbitrary text may stores bad things.
 
 this rule applies to:
 
 - multiplayer.
+
+## 
 
 ## malicious URLs
 
