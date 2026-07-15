@@ -53,4 +53,6 @@ a very heavy text, such as 1 TB, may overflow RAMs.
 
 `<quad>` may overflow.
 
+<img src="https://github.com/dujanhung/evtsbx-gallery/blob/main/meme/rain.jpg"/>
+
 [⛖](#minimap)
