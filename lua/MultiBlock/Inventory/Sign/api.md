@@ -2,6 +2,11 @@
 
 stores and renders arbitrary text contents.
 
+> [!WARNING]
+> **this block must only be used for testing purposes**.
+>
+> use it at your own (risks)[https://github.com/dujanhung/evtsbx-api-doc/blob/main/lua/MultiBlock/Inventory/Sign/risks.md].
+
 # <a id="minimap"/> minimap
 
 ╠╦ [constructor](#constructor)<br>
