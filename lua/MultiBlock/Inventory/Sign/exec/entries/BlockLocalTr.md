@@ -31,7 +31,7 @@ move block, relative to itself with `Sign` axises.
 block's position unit is `0.5 per block`.
 
 > [!WARNING]
-> **this command could cause memory overflow, which would corrupts multiplayer**.
+> **this command could cause memory overflow**.
 >
 > if you see `Sign` texts with 20 digits, such as:
 >
