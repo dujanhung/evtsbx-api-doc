@@ -1,6 +1,6 @@
-# Sign
+# <code>es.MultiBlock.Sign</code>
 
-stores and renders arbitrary text contents.
+stores and renders arbitrary text on a block.
 
 > [!WARNING]
 > **this block must only be used for testing purposes**.
