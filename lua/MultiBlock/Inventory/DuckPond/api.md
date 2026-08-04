@@ -2,5 +2,5 @@
 
 a green duck block that could floats on water.
 
-> [!DEPRECATED]
+> [!WARNING]
 > `Duck` already exists.
