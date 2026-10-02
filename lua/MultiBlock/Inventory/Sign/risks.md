@@ -7,8 +7,6 @@
 ┃┗╾ [malicious URLs](#securityRisks_maliciousURLs)<br>
 ╠╦ [runtime risks](#runtimeRisks)<br>
 ┃┣╾ [corruption](#runtimeRisks_corruption)<br>
-┃┣╾ [OOM](#runtimeRisks_OOM)<br>
-┃┣╾ [reduced FPS](#runtimeRisks_reducedFPS)<br>
 ┃┗╾ [broken text rendering](#runtimeRisks_brokenTextRendering)
 
 # <a id="securityRisks"/> security risks
@@ -31,21 +29,9 @@ some URLs may lead players to harmful websites.
 
 [⛖](#minimap)
 
-## <a id="runtimeRisks_corruption"/> corruption
+## <a id="runtimeRisks_corruption"/> memory corruption
 
-`move` may inject `NaN` values into internal scripts.
-
-[⛖](#minimap)
-
-## <a id="runtimeRisks_OOM"/> OOM
-
-a very heavy text, such as 1 TB, may overwhelm device hardware.
-
-[⛖](#minimap)
-
-## <a id="runtimeRisks_reducedFPS"/> reduced FPS
-
-`<quad>` may reduces FPS.
+`move` may inject `NaN` values.
 
 [⛖](#minimap)
 
