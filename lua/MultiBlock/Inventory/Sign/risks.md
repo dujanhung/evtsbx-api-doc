@@ -41,7 +41,7 @@ some URLs may lead players to harmful websites.
 
 although this glitch is useful in normal conditions, some players may misuse it for destructive intentions.
 
-- overwhelm hardware limit
+- overwhelm performance
 - pollute enviroment
 
 <img src="https://github.com/dujanhung/evtsbx-gallery/blob/main/meme/rain.jpg"/>
