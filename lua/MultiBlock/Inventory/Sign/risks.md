@@ -39,7 +39,7 @@ some URLs may lead players to harmful websites.
 
 ## <a id="runtimeRisks_OOM"/> OOM
 
-a very heavy text, such as 1 TB, may overflow RAMs.
+a very heavy text, such as 1 TB, may overwhelm device hardware.
 
 [⛖](#minimap)
 
@@ -51,7 +51,7 @@ a very heavy text, such as 1 TB, may overflow RAMs.
 
 ## <a id="runtimeRisks_brokenTextRendering"/> broken text rendering
 
-`<quad>` may overflow.
+`<quad>` may break rendering.
 
 <img src="https://github.com/dujanhung/evtsbx-gallery/blob/main/meme/rain.jpg"/>
 
