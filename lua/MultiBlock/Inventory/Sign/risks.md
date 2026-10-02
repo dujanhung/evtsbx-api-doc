@@ -31,13 +31,18 @@ some URLs may lead players to harmful websites.
 
 ## <a id="runtimeRisks_corruption"/> memory corruption
 
-`move` may inject `NaN` values.
+`move` could inject `NaN` values.
 
 [⛖](#minimap)
 
 ## <a id="runtimeRisks_brokenTextRendering"/> broken text rendering
 
-`<quad>` may break rendering.
+`<quad>` could break text rendering.
+
+although this glitch is useful, some players may misuse it for destructive intentions.
+
+- overwhelm hardware
+- pollute enviroment
 
 <img src="https://github.com/dujanhung/evtsbx-gallery/blob/main/meme/rain.jpg"/>
 
